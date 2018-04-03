@@ -1,38 +1,39 @@
 import { GoogleCharts } from 'google-charts';
 
+import mockData from './data/mock.json';
+
 GoogleCharts.load(draw, 'geochart');
 
 function draw() {
-  var data = GoogleCharts.api.visualization.arrayToDataTable([
-    ['Country', 'Popularity'],
-    ['Germany', 200],
-    ['United States', 300],
-    ['Brazil', 400],
-    ['Canada', 500],
-    ['France', 600],
-    ['RU', 700],
-  ]);
-  const alterData = GoogleCharts.api.visualization.arrayToDataTable([
-    ['Country', 'Popularity'],
-    ['Germany', 200],
-    ['United States', 3000],
-    ['Brazil', 400],
-    ['Canada', 500],
-    ['France', 600],
-    ['RU', 7],
-  ]);
-
+  let i = 0;
   const options = {
     animation: {
       duration: 10000,
       easing: 'out',
     },
+    colorAxis: {
+      minValue: 1,
+      maxValue: 100,
+      colors: ['#ff0000', '#00ff00'],
+    },
+    magnifyingGlass: { enable: false, zoomFactor: 5.0 },
   };
-
   var chart = new GoogleCharts.api.visualization.GeoChart(
     document.getElementById('root'),
   );
+  // setInterval(() => {
+  const data = mockData[i].data.map(d => [d.country, 100 - d.percentile]);
 
-  chart.draw(data, options);
-  setTimeout(chart.draw.bind(chart, alterData, options), 5000);
+  var chartData = GoogleCharts.api.visualization.arrayToDataTable([
+    ['Country', 'Percentile'],
+    ...data,
+  ]);
+
+  chart.draw(chartData, options);
+  if (i < mockData.length - 2) {
+    i++;
+  } else {
+    i--;
+  }
+  // }, 100);
 }
