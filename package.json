@@ -12,7 +12,11 @@
     "type": "git",
     "url": "git+https://github.com/stanleynguyen/so.cube.git"
   },
-  "keywords": ["cube", "google-charts", "cas"],
+  "keywords": [
+    "cube",
+    "google-charts",
+    "cas"
+  ],
   "author": "Changi Warriors",
   "license": "UNLICENSED",
   "bugs": {
@@ -20,7 +24,8 @@
   },
   "homepage": "https://github.com/stanleynguyen/so.cube#readme",
   "dependencies": {
-    "google-charts": "^1.0.0"
+    "google-charts": "^1.0.0",
+    "leaflet": "^1.3.1"
   },
   "devDependencies": {
     "parcel-bundler": "^1.6.2"
