@@ -323,6 +323,7 @@ input::-moz-focus-outer {
 }
 .single-result:hover {
   background: #eee;
+  cursor: pointer;
 }
 .single-result .name,
 .single-result .id {

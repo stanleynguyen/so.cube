@@ -15,6 +15,9 @@ import 'leaflet/dist/leaflet';
 import worldGeo from './data/countries.geo.json';
 import mockData from './data/mock.json';
 
+let data = mockData;
+let name = 'Teo Kai Xiang';
+let id = '2009XIAN01';
 const GRADES = [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11];
 const COLORS = [
   '#ffffcc',
@@ -25,8 +28,8 @@ const COLORS = [
   '#fc4e2a',
   '#e31a1c',
   '#bd0026',
-  '#800026',
-  '#26000b',
+  '#97001E',
+  '#4B000F',
   '#000000',
 ];
 
@@ -61,7 +64,9 @@ info.onAdd = function(map) {
 
 // method that we will use to update the control based on feature properties passed
 info.update = function(props) {
-  this._div.innerHTML = `<h4>Competitor Ranking</h4>${
+  this._div.innerHTML = `<h4>Competitor Ranking</h4><hr/>
+  <b>Name:</b> ${name}<br/><b>ID:</b> ${id}<br/><br/>
+  ${
     props
       ? props.percentile
         ? `<b>${props.name}</b><br />${props.percentile} percentile`
@@ -185,26 +190,120 @@ function onEachFeature(feature, layer) {
   });
 }
 
-geoJSON = L.geoJSON(
-  joinPercentileToMap(mockData[mockData.length - 1].data, worldGeo),
-  {
-    style,
-    onEachFeature,
-  },
-).addTo(map);
-
+const searchForm = document.getElementById('search-form');
+const searchInput = document.getElementById('search-input');
+const resultsContainer = document.getElementById('results');
+const loadingOverlay = document.getElementById('loading');
 const rangeSlider = document.getElementById('range-slider');
 const rangeLabel = document.getElementById('range-label');
 
-rangeSlider.max = mockData.length - 1;
-rangeSlider.setAttribute('maxLabel', mockData[rangeSlider.max].time);
-rangeSlider.min = 0;
-rangeSlider.setAttribute('minLabel', mockData[rangeSlider.min].time);
-rangeSlider.value = Math.floor(mockData.length / 2);
-rangeSlider.addEventListener('input', showSliderValue, false);
+function getCompetitors(term) {
+  return new Promise((resolve, reject) => {
+    if (!term) return resolve([]);
+    fetch(`https://mappy-map.herokuapp.com/search?term=${term}`)
+      .then(res => {
+        if (res.status === 200) {
+          res.json().then(resolve);
+        } else {
+          res.json().then(reject);
+        }
+      })
+      .catch(reject);
+  });
+}
 
-function showSliderValue() {
-  rangeLabel.innerHTML = mockData[rangeSlider.value].time;
+function retrieveCompetitionData({ id, name }) {
+  return new Promise((resolve, reject) => {
+    if (!id) return reject('No ID provided');
+    searchInput.value = name;
+    resultsContainer.innerHTML = '';
+    loadingOverlay.style.display = 'block';
+    fetch(`https://mappy-map.herokuapp.com/show?wcaid=${id}`)
+      .then(res => {
+        if (res.status === 200) {
+          res.json().then(resolve);
+        } else {
+          res.json().then(reject);
+        }
+      })
+      .catch(reject);
+  });
+}
+
+function showSearchResults(listOfCompetitors) {
+  const html = listOfCompetitors
+    .map(
+      c =>
+        `
+    <li class="single-result">
+      <p class="name">${c.name}</p>
+      <p class="id">${c.id}</p>
+    </li>
+  `,
+    )
+    .join('');
+  resultsContainer.innerHTML = html;
+
+  const listOfResultElems = document.querySelectorAll('.single-result');
+  listOfResultElems.forEach((elem, idx) =>
+    elem.addEventListener(
+      'click',
+      handleResultClick.bind(null, listOfCompetitors[idx]),
+    ),
+  );
+}
+
+function handleResultClick(competitor) {
+  retrieveCompetitionData(competitor)
+    .then(res => {
+      const midIdx = Math.floor(res.length / 2);
+      data = res;
+      name = competitor.name;
+      id = competitor.id;
+      info.update();
+      updateMap(res[midIdx].data);
+      updateSlider(res);
+      loadingOverlay.style.display = 'none';
+    })
+    .catch(e => {
+      loadingOverlay.style.display = 'none';
+      alert(e.message);
+    });
+}
+
+function performSearch(e) {
+  e.preventDefault();
+  const term = searchInput.value;
+  getCompetitors(term)
+    .then(showSearchResults)
+    .catch(e => {
+      alert(e.message);
+    });
+}
+
+function updateMap(data) {
+  geoJSON.clearLayers();
+  geoJSON = L.geoJSON(joinPercentileToMap(data, worldGeo), {
+    style,
+    onEachFeature,
+  }).addTo(map);
+}
+
+function updateSlider(data) {
+  rangeSlider.max = data.length - 1;
+  rangeSlider.setAttribute('maxLabel', data[rangeSlider.max].time);
+  rangeSlider.min = 0;
+  rangeSlider.setAttribute('minLabel', data[rangeSlider.min].time);
+  rangeSlider.value = Math.floor(data.length / 2);
+  rangeSlider.addEventListener(
+    'input',
+    showSliderValue.bind(null, data),
+    false,
+  );
+}
+
+function showSliderValue(data) {
+  rangeLabel.innerHTML = data[rangeSlider.value].time;
   const labelPosition = rangeSlider.value / rangeSlider.max;
   if (rangeSlider.value === rangeSlider.min) {
     rangeLabel.style.left = labelPosition * 100 + 2 + '%';
@@ -214,12 +313,14 @@ function showSliderValue() {
     rangeLabel.style.left = labelPosition * 100 + '%';
   }
 
-  geoJSON.clearLayers();
-  geoJSON = L.geoJSON(
-    joinPercentileToMap(mockData[rangeSlider.value].data, worldGeo),
-    {
-      style,
-      onEachFeature,
-    },
-  ).addTo(map);
+  updateMap(data[rangeSlider.value].data);
 }
+
+// showing initial placeholder data
+geoJSON = L.geoJSON(joinPercentileToMap(data[data.length - 1].data, worldGeo), {
+  style,
+  onEachFeature,
+}).addTo(map);
+
+searchForm.addEventListener('submit', performSearch, false);
+updateSlider(data);

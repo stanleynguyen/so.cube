@@ -8,21 +8,13 @@
 </head>
 
 <body>
-  <div class="loading">
+  <div class="loading" id="loading">
     <div class="spinner"></div>
   </div>
   <div id="root" style="width: 100vw; height: 100vh;"></div>
-  <form class="search-wrapper cf">
-    <input type="text" placeholder="Search here..." required="true" autocomplete="off">
-    <ul class="results">
-      <li class="single-result">
-        <p class="name">Teo Kai Xiang</p>
-        <p class="id">X6721362</p>
-      </li>
-      <li class="single-result">
-        <p class="name">Teo Kai Xiang</p>
-        <p class="id">X6721362</p>
-      </li>
+  <form class="search-wrapper cf" id="search-form">
+    <input id="search-input" type="text" placeholder="Search here..." required="true" autocomplete="off" />
+    <ul id="results" class="results">
     </ul>
     <button type="submit">Search</button>
   </form>
