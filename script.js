@@ -15,7 +15,20 @@ import 'leaflet/dist/leaflet';
 import worldGeo from './data/countries.geo.json';
 import mockData from './data/mock.json';
 
-const GRADES = [0, 20, 30, 40, 50, 60, 70, 80, 100];
+const GRADES = [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11];
+const COLORS = [
+  '#ffffcc',
+  '#ffeda0',
+  '#fed976',
+  '#feb24c',
+  '#fd8d3c',
+  '#fc4e2a',
+  '#e31a1c',
+  '#bd0026',
+  '#800026',
+  '#26000b',
+  '#000000',
+];
 
 /*
   Prepping background map
@@ -52,7 +65,7 @@ info.update = function(props) {
     props
       ? props.percentile
         ? `<b>${props.name}</b><br />${props.percentile} percentile`
-        : `<b>${props.name}</b><br /> Havenot competed in`
+        : `<b>${props.name}</b><br /> No competition information`
       : 'Hover over a country'
   }`;
 };
@@ -71,10 +84,10 @@ legend.onAdd = function(map) {
     labels = [];
 
   // loop through our percentile intervals and generate a label with a colored square for each interval
-  for (let i = 0; i < grades.length - 1; i++) {
-    div.innerHTML += `<i style="background:${getColor(grades[i] + 1)}"></i> ${
+  for (let i = 0; i < grades.length; i++) {
+    div.innerHTML += `<i style="background:${getColor(grades[i])}"></i> ${
       grades[i]
-    } ${grades[i + 1] ? `&ndash;${grades[i + 1]}<br>` : ''}`;
+    }${grades[i + 1] ? '<br>' : '+'}`;
   }
 
   return div;
@@ -100,10 +113,17 @@ function rgbToHex(r, g, b) {
 function getColor(p) {
   // calculate gradient color based on percentile
 
-  const r = Math.round(2.25 * p);
-  const g = Math.round(2.25 * (100 - p));
-  const b = 0;
-  return rgbToHex(r, g, b);
+  // const r = Math.round(2.25 * p);
+  // const g = Math.round(2.25 * (100 - p));
+  // const b = 0;
+  // return rgbToHex(r, g, b);
+  if (!p) {
+    return 'transparent';
+  } else if (p > COLORS.length) {
+    return COLORS[COLORS.length - 1];
+  }
+
+  return COLORS[GRADES.indexOf(p)];
 }
 
 function style(feature) {
@@ -118,10 +138,16 @@ function style(feature) {
 }
 
 function joinPercentileToMap(data, mapGeo) {
+  mapGeo = JSON.parse(JSON.stringify(mapGeo));
   data.forEach(d => {
-    const idx = mapGeo.features.findIndex(g => g.properties.name === d.country);
-    if (idx > -1) mapGeo.features[idx].properties.percentile = d.percentile;
+    const idx = mapGeo.features.findIndex(
+      g => g.properties.name === d.country || g.id === d.country,
+    );
+    if (idx > -1) {
+      mapGeo.features[idx].properties.percentile = d.percentile;
+    }
   });
+
   return mapGeo;
 }
 
@@ -189,7 +215,6 @@ function showSliderValue() {
   }
 
   geoJSON.clearLayers();
-
   geoJSON = L.geoJSON(
     joinPercentileToMap(mockData[rangeSlider.value].data, worldGeo),
     {
