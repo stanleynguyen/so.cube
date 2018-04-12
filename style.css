@@ -43,7 +43,7 @@ body {
   -webkit-appearance: none;
   width: 50vw;
   height: 25px;
-  background: #c20042;
+  background: #d83c3c;
   border-radius: 2px;
   margin: 0;
   position: relative;
@@ -59,7 +59,7 @@ body {
   cursor: pointer;
   background: #fff;
   opacity: 0.65;
-  border: 4px solid #c20042;
+  border: 4px solid #d83c3c;
   position: relative;
   transition: all ease-in-out 0.05s;
 }
@@ -74,7 +74,7 @@ body {
   cursor: pointer;
   background: #fff;
   opacity: 0.65;
-  border: 4px solid #c20042;
+  border: 4px solid #d83c3c;
   position: relative;
   transition: all ease-in-out 0.05s;
 }
@@ -137,7 +137,7 @@ body {
   font-size: 0.8em;
   transform: translateX(-50%);
   box-sizing: border-box;
-  border: 6px solid #c20042;
+  border: 6px solid #d83c3c;
   left: attr(value) 20;
   transition: all ease-in 0.05s;
   z-index: -1;
@@ -152,18 +152,189 @@ body {
   width: 10px;
   height: 8px;
   background-repeat: no-repeat;
-  background-image: radial-gradient(circle, transparent 50%, #c20042 50%),
-    radial-gradient(circle, transparent 50%, #c20042 50%);
+  background-image: radial-gradient(circle, transparent 50%, #d83c3c 50%),
+    radial-gradient(circle, transparent 50%, #d83c3c 50%);
   background-size: 180% 100%, 180% 100%, 100% 100%;
   background-position: 150% 0%, -50% 0%, 100% 100%;
 }
 
 ::-moz-range-track {
-  background: #c20042;
+  background: #d83c3c;
   border: 0;
 }
 
 input::-moz-focus-inner,
 input::-moz-focus-outer {
   border: 0;
+}
+
+.cf:before,
+.cf:after {
+  content: '';
+  display: table;
+}
+
+.cf:after {
+  clear: both;
+}
+
+.cf {
+  zoom: 1;
+}
+
+/* Form wrapper styling */
+.search-wrapper {
+  width: 382px;
+  box-shadow: 0 1px 1px rgba(0, 0, 0, 0.4) inset,
+    0 1px 0 rgba(255, 255, 255, 0.2);
+  position: absolute;
+  top: 10px;
+  left: 55px;
+  z-index: 999;
+}
+
+/* Form text input */
+
+.search-wrapper input {
+  width: 300px;
+  height: 20px;
+  padding: 10px 5px;
+  float: left;
+  font: bold 15px 'lucida sans', 'trebuchet MS', 'Tahoma';
+  border: 0;
+  background: #eee;
+  border-radius: 3px 0 0 3px;
+}
+
+.search-wrapper input:focus {
+  outline: 0;
+  background: #fff;
+  box-shadow: 0 0 2px rgba(0, 0, 0, 0.8) inset;
+}
+
+.search-wrapper input::-webkit-input-placeholder {
+  color: #999;
+  font-weight: normal;
+  font-style: italic;
+}
+
+.search-wrapper input:-moz-placeholder {
+  color: #999;
+  font-weight: normal;
+  font-style: italic;
+}
+
+.search-wrapper input:-ms-input-placeholder {
+  color: #999;
+  font-weight: normal;
+  font-style: italic;
+}
+
+/* Form submit button */
+.search-wrapper button {
+  overflow: visible;
+  position: relative;
+  float: right;
+  border: 0;
+  padding: 0;
+  cursor: pointer;
+  height: 40px;
+  width: 72px;
+  font: bold 15px/40px 'lucida sans', 'trebuchet MS', 'Tahoma';
+  color: white;
+  text-transform: uppercase;
+  background: #d83c3c;
+  border-radius: 0 3px 3px 0;
+  text-shadow: 0 -1px 0 rgba(0, 0, 0, 0.3);
+}
+
+.search-wrapper button:hover {
+  background: #e54040;
+}
+
+.search-wrapper button:active,
+.search-wrapper button:focus {
+  background: #c42f2f;
+  outline: 0;
+}
+
+.search-wrapper button:before {
+  /* left arrow */
+  content: '';
+  position: absolute;
+  border-width: 8px 8px 8px 0;
+  border-style: solid solid solid none;
+  border-color: transparent #d83c3c transparent;
+  top: 12px;
+  left: -6px;
+}
+
+.search-wrapper button:hover:before {
+  border-right-color: #e54040;
+}
+
+.search-wrapper button:focus:before,
+.search-wrapper button:active:before {
+  border-right-color: #c42f2f;
+}
+
+.search-wrapper button::-moz-focus-inner {
+  /* remove extra button spacing for Mozilla Firefox */
+  border: 0;
+  padding: 0;
+}
+
+.dropdown-wrapper {
+  position: absolute;
+  top: 10px;
+  left: 450px;
+  z-index: 999;
+}
+
+.dropdown {
+  background: #d83c3c;
+  border-radius: 4px;
+  height: 40px;
+  width: 72px;
+  font: bold 15px/40px 'lucida sans', 'trebuchet MS', 'Tahoma';
+  color: #fff;
+  text-transform: uppercase;
+  border-radius: 0 3px 3px 0;
+  text-shadow: 0 -1px 0 rgba(0, 0, 0, 0.3);
+  border: none;
+}
+
+.dropdown:hover {
+  background: #e54040;
+}
+
+.results {
+  position: absolute;
+  left: 0;
+  top: 40px;
+  list-style: none;
+  width: calc(100% - 72px);
+  margin: 0;
+  padding: 0;
+}
+.single-result {
+  border-left: 1px solid #ddd;
+  border-right: 1px solid #ddd;
+  border-bottom: 1px solid #ddd;
+  background: #fff;
+  padding: 10px 20px;
+}
+.single-result:hover {
+  background: #eee;
+}
+.single-result .name,
+.single-result .id {
+  margin: 0;
+  font: normal 15px/15px 'lucida sans', 'trebuchet MS', 'Tahoma';
+}
+.single-result .name {
+  margin-bottom: 5px;
+}
+.single-result .id {
+  color: #bbb;
 }

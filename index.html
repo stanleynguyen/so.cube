@@ -9,6 +9,26 @@
 
 <body>
   <div id="root" style="width: 100vw; height: 100vh;"></div>
+  <form class="search-wrapper cf">
+    <input type="text" placeholder="Search here..." required="true" autocomplete="off">
+    <ul class="results">
+      <li class="single-result">
+        <p class="name">Teo Kai Xiang</p>
+        <p class="id">X6721362</p>
+      </li>
+      <li class="single-result">
+        <p class="name">Teo Kai Xiang</p>
+        <p class="id">X6721362</p>
+      </li>
+    </ul>
+    <button type="submit">Search</button>
+  </form>
+  <div class="dropdown-wrapper">
+    <select class="dropdown">
+      <option value="">3x3</option>
+      <option value="">4x4</option>
+    </select>
+  </div>
   <div class="slider-wrapper">
     <input type="range" id="range-slider" class="fluid-slider" value="50" min="0" max="100" minLabel="" maxLabel="">
     <span id="range-label" class="range-label"></span>
