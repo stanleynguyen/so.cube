@@ -30,3 +30,140 @@ body {
   margin-right: 8px;
   opacity: 0.7;
 }
+
+.slider-wrapper {
+  position: absolute;
+  bottom: -30px;
+  left: 80px;
+  z-index: 999;
+  font: 14px/16px Arial, Helvetica, sans-serif;
+}
+
+.fluid-slider {
+  -webkit-appearance: none;
+  width: 50vw;
+  height: 25px;
+  background: #c20042;
+  border-radius: 2px;
+  margin: 0;
+  position: relative;
+}
+
+.fluid-slider::-webkit-slider-thumb {
+  -webkit-appearance: none;
+  appearance: none;
+  border-radius: 0;
+  width: 20px;
+  height: 20px;
+  border-radius: 50%;
+  cursor: pointer;
+  background: #fff;
+  opacity: 0.65;
+  border: 4px solid #c20042;
+  position: relative;
+  transition: all ease-in-out 0.05s;
+}
+
+.fluid-slider::-moz-range-thumb {
+  -moz-appearance: none;
+  appearance: none;
+  border-radius: 0;
+  width: 18px;
+  height: 18px;
+  border-radius: 50%;
+  cursor: pointer;
+  background: #fff;
+  opacity: 0.65;
+  border: 4px solid #c20042;
+  position: relative;
+  transition: all ease-in-out 0.05s;
+}
+
+.fluid-slider:focus {
+  outline: none;
+}
+.fluid-slider:active::-webkit-slider-thumb {
+  background: transparent;
+}
+
+.fluid-slider:active::-moz-range-thumb {
+  background: transparent;
+}
+
+.fluid-slider:active + .range-label {
+  visibility: visible;
+  opacity: 1;
+  top: -75px;
+}
+
+.fluid-slider:before,
+.fluid-slider::after {
+  position: absolute;
+  content: '';
+  width: 60px;
+  padding: 0.5em;
+  background: #fff;
+  top: 50%;
+  transform: translateY(-50%);
+  box-sizing: border-box;
+  text-align: center;
+  font-weight: bold;
+  border-radius: 2px;
+}
+
+.fluid-slider:before {
+  left: -70px;
+  content: attr(minLabel);
+}
+
+.fluid-slider:after {
+  right: -70px;
+  content: attr(maxLabel);
+}
+
+.range-label {
+  position: relative;
+  display: block;
+  width: 60px;
+  height: 40px;
+  top: -65px;
+  visibility: hidden;
+  opacity: 0;
+  background: #fff;
+  border-radius: 10px;
+  line-height: 30px;
+  text-align: center;
+  font-weight: bold;
+  font-size: 0.8em;
+  transform: translateX(-50%);
+  box-sizing: border-box;
+  border: 6px solid #c20042;
+  left: attr(value) 20;
+  transition: all ease-in 0.05s;
+  z-index: -1;
+}
+
+.range-label:after {
+  position: absolute;
+  content: '';
+  top: 33px;
+  left: 50%;
+  transform: translateX(-50%);
+  width: 10px;
+  height: 8px;
+  background-repeat: no-repeat;
+  background-image: radial-gradient(circle, transparent 50%, #c20042 50%),
+    radial-gradient(circle, transparent 50%, #c20042 50%);
+  background-size: 180% 100%, 180% 100%, 100% 100%;
+  background-position: 150% 0%, -50% 0%, 100% 100%;
+}
+
+::-moz-range-track {
+  background: #c20042;
+  border: 0;
+}
+
+input::-moz-focus-inner,
+input::-moz-focus-outer {
+  border: 0;
+}

@@ -15,7 +15,7 @@ import 'leaflet/dist/leaflet';
 import worldGeo from './data/countries.geo.json';
 import mockData from './data/mock.json';
 
-const GRADES = [20, 30, 40, 50, 60, 70, 80];
+const GRADES = [0, 20, 30, 40, 50, 60, 70, 80, 100];
 
 /*
   Prepping background map
@@ -66,18 +66,15 @@ info.addTo(map);
 const legend = L.control({ position: 'bottomright' });
 
 legend.onAdd = function(map) {
-  var div = L.DomUtil.create('div', 'info legend'),
+  let div = L.DomUtil.create('div', 'info legend'),
     grades = GRADES,
     labels = [];
 
   // loop through our percentile intervals and generate a label with a colored square for each interval
-  for (var i = 0; i < grades.length; i++) {
-    div.innerHTML +=
-      '<i style="background:' +
-      getColor(grades[i] + 1) +
-      '"></i> ' +
-      grades[i] +
-      (grades[i + 1] ? '&ndash;' + grades[i + 1] + '<br>' : '+');
+  for (let i = 0; i < grades.length - 1; i++) {
+    div.innerHTML += `<i style="background:${getColor(grades[i] + 1)}"></i> ${
+      grades[i]
+    } ${grades[i + 1] ? `&ndash;${grades[i + 1]}<br>` : ''}`;
   }
 
   return div;
@@ -102,6 +99,7 @@ function rgbToHex(r, g, b) {
 
 function getColor(p) {
   // calculate gradient color based on percentile
+
   const r = Math.round(2.25 * p);
   const g = Math.round(2.25 * (100 - p));
   const b = 0;
@@ -161,10 +159,42 @@ function onEachFeature(feature, layer) {
   });
 }
 
-geoJSON = L.geoJson(
+geoJSON = L.geoJSON(
   joinPercentileToMap(mockData[mockData.length - 1].data, worldGeo),
   {
     style,
     onEachFeature,
   },
 ).addTo(map);
+
+const rangeSlider = document.getElementById('range-slider');
+const rangeLabel = document.getElementById('range-label');
+
+rangeSlider.max = mockData.length - 1;
+rangeSlider.setAttribute('maxLabel', mockData[rangeSlider.max].time);
+rangeSlider.min = 0;
+rangeSlider.setAttribute('minLabel', mockData[rangeSlider.min].time);
+rangeSlider.value = Math.floor(mockData.length / 2);
+rangeSlider.addEventListener('input', showSliderValue, false);
+
+function showSliderValue() {
+  rangeLabel.innerHTML = mockData[rangeSlider.value].time;
+  const labelPosition = rangeSlider.value / rangeSlider.max;
+  if (rangeSlider.value === rangeSlider.min) {
+    rangeLabel.style.left = labelPosition * 100 + 2 + '%';
+  } else if (rangeSlider.value === rangeSlider.max) {
+    rangeLabel.style.left = labelPosition * 100 - 2 + '%';
+  } else {
+    rangeLabel.style.left = labelPosition * 100 + '%';
+  }
+
+  geoJSON.clearLayers();
+
+  geoJSON = L.geoJSON(
+    joinPercentileToMap(mockData[rangeSlider.value].data, worldGeo),
+    {
+      style,
+      onEachFeature,
+    },
+  ).addTo(map);
+}
