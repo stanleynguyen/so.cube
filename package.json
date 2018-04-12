@@ -5,18 +5,14 @@
   "main": "script.js",
   "scripts": {
     "start": "parcel index.html",
-    "build": "parcel build index.html",
+    "build": "parcel build index.html --public-url ./",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
     "type": "git",
     "url": "git+https://github.com/stanleynguyen/so.cube.git"
   },
-  "keywords": [
-    "cube",
-    "google-charts",
-    "cas"
-  ],
+  "keywords": ["cube", "leaflet", "cas"],
   "author": "Changi Warriors",
   "license": "UNLICENSED",
   "bugs": {
