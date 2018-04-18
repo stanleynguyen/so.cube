@@ -81,7 +81,7 @@ L.tileLayer(
       <a href="http://github.com/kai34" targe="_blank">K.X.Teo</a>,
       <a href="http://github.com/lumotheninja" target="_blank">L.Woong</a>,
       <a href="http://github.com/vegggram" target="_blank">B.Chen</a> |
-      <a href="/about">About This Project</a>
+      <a href="/about.html">About This Project</a>
       <br/>
       Map data &copy; <a href="http://openstreetmap.org">OpenStreetMap</a> contributors,
       <a href="http://creativecommons.org/licenses/by-sa/2.0/">CC-BY-SA</a>,

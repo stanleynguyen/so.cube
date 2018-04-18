@@ -1,0 +1,108 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <title>So.Cube | About</title>
+  <style>
+    * {
+      font-family: 'lucida sans', 'trebuchet MS', 'Tahoma';
+    }
+
+    h1 {
+      text-align: center;
+    }
+
+    p {
+      text-align: justify;
+    }
+
+    .container {
+      width: 100%;
+      padding-right: 15px;
+      padding-left: 15px;
+      margin-right: auto;
+      margin-left: auto;
+    }
+
+    @media (min-width: 576px) {
+      .container {
+        max-width: 540px;
+      }
+    }
+
+    @media (min-width: 768px) {
+      .container {
+        max-width: 720px;
+      }
+    }
+
+    @media (min-width: 992px) {
+      .container {
+        max-width: 960px;
+      }
+    }
+
+    @media (min-width: 1200px) {
+      .container {
+        max-width: 1140px;
+      }
+    }
+
+    .row {
+      display: -ms-flexbox;
+      display: flex;
+      -ms-flex-wrap: wrap;
+      flex-wrap: wrap;
+      margin-right: -15px;
+      margin-left: -15px;
+    }
+
+    .col-12 {
+      position: relative;
+      width: 100%;
+      min-height: 1px;
+      padding-right: 15px;
+      padding-left: 15px;
+      -ms-flex: 0 0 100%;
+      flex: 0 0 100%;
+      max-width: 100%;
+    }
+  </style>
+</head>
+
+<body>
+  <div class="container">
+    <div class="row">
+      <div class="col-12">
+        <h1>Project SoCube</h1>
+        <p>Kai Xiang is a professional cuber who has broken multiple Singapore national records over his career. At his peak,
+          he had 25 national records at the same time, but in a span of a few years, he lost all of them. He had always wondered
+          how fast it would take for people to overtake him, it seemed to him that the cubing competition scene is very fast
+          and the moments of being on top is very fleeting. As if to proof a point, before starting this project, he still
+          had a record; currently he has none.</p>
+        <p>Thus, Project SoCube was born to answer the following questions: what is the journey of a professional cuber? Given
+          historical data of a specific cuber and the results of cubing competitions all over the world, how does a professional
+          cuber measure up to his or her peers at that time? Are there any geospatial patterns in a cuber&rsquo;s career?</p>
+        <p>To answer these questions, we used data from
+          <a href="https://www.worldcubeassociation.org/">World&rsquo;s Cube Association</a>, or WCA for short. Since 2003, WCA has been the official record keeper and organizers
+          for cubing competitions worldwide. Their data includes every registered competitors&rsquo; timing at various competitions,
+          records broken at different competitions as well as the competition venue. It was perfect for our visualization
+          that we intend to make &ndash; the timings of a professional cuber against a world map, over the course of his
+          career as a monthly slider.</p>
+        <p>We wrangled the data in a suitable format, by transforming the timings achieved at the various competitions into
+          percentiles that can be compared with the cuber&rsquo;s timing. We then plot the timings of the cuber into the
+          percentile bins to see the cuber&rsquo;s current position on a slider map. As time moves on, new techniques for
+          solving the cube might be found, new cubers might rise and replace the old cubers, and the current position will
+          usually drop. We can now visualize a cuber&rsquo;s meteoric rise and fall in his career.</p>
+        <p>So, hang around and play around with the fiddle. If you are a WCA registered competitor, enter your competitor ID
+          and see for yourself, your timings against the world.</p>
+        <p>SoCube is a data visualization project for
+          <a href="https://hass.sutd.edu.sg/education/undergraduate-subjects/elective/02-221-making-maps-introduction-spatial-analysis-data-visualization-map-design">SUTD&rsquo;s 02.221 Making Maps Course</a>.</p>
+      </div>
+    </div>
+  </div>
+</body>
+
+</html>

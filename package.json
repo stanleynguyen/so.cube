@@ -4,8 +4,12 @@
   "description": "What a cube map!",
   "main": "script.js",
   "scripts": {
-    "start": "parcel index.html",
-    "build": "parcel build index.html --public-url ./",
+    "start": "npm run start:index",
+    "start:index": "parcel index.html",
+    "start:about": "parcel about.html",
+    "build": "npm run build:index && npm run build:about",
+    "build:index": "parcel build index.html --public-url ./",
+    "build:about": "parcel build about.html",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
