@@ -16,7 +16,7 @@ import worldGeo from './data/countries.geo.json';
 import mockData from './data/mock.json';
 
 // ping to wake server
-fetch('https://mappy-map.herokuapp.com');
+fetch('https://mappy-map.herokuapp.com', { mode: 'no-cors' });
 
 let data = mockData;
 let name = 'Teo Kai Xiang';
@@ -46,10 +46,15 @@ const map = L.map('root').setView([39, 34], 2);
 L.tileLayer(
   `https://api.tiles.mapbox.com/v4/{id}/{z}/{x}/{y}.png?access_token=${mapBoxToken}`,
   {
-    attribution:
-      'Map data &copy; <a href="http://openstreetmap.org">OpenStreetMap</a> contributors, ' +
-      '<a href="http://creativecommons.org/licenses/by-sa/2.0/">CC-BY-SA</a>, ' +
-      'Imagery © <a href="http://mapbox.com">Mapbox</a>',
+    attribution: `Authors: <a href="http://github.com/stanleynguyen" target="_blank">S.Nguyen</a>,
+      <a href="http://github.com/kai34" targe="_blank">K.X.Teo</a>,
+      <a href="http://github.com/lumotheninja" target="_blank">L.Woong</a>,
+      <a href="http://github.com/vegggram" target="_blank">B.Chen</a> |
+      <a href="/about">About This Project</a>
+      <br/>
+      Map data &copy; <a href="http://openstreetmap.org">OpenStreetMap</a> contributors,
+      <a href="http://creativecommons.org/licenses/by-sa/2.0/">CC-BY-SA</a>,
+      Imagery © <a href="http://mapbox.com">Mapbox</a>`,
     id: 'mapbox.light',
   },
 ).addTo(map);

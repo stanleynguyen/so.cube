@@ -5350,7 +5350,7 @@
       }, 
       {
         "country": "Austria", 
-        "percentile": 100
+        "percentile": 20
       }, 
       {
         "country": "Azerbaijan", 
@@ -5462,7 +5462,7 @@
       }, 
       {
         "country": "Korea", 
-        "percentile": 100
+        "percentile": 6
       }, 
       {
         "country": "Lebanon", 
@@ -5526,7 +5526,7 @@
       }, 
       {
         "country": "Singapore", 
-        "percentile": 100
+        "percentile": 7
       }, 
       {
         "country": "Slovakia", 
@@ -5554,7 +5554,7 @@
       }, 
       {
         "country": "Taiwan", 
-        "percentile": 100
+        "percentile": 6
       }, 
       {
         "country": "Thailand", 
@@ -5591,7 +5591,7 @@
       }, 
       {
         "country": "Austria", 
-        "percentile": 100
+        "percentile": 20
       }, 
       {
         "country": "Azerbaijan", 
@@ -5715,7 +5715,7 @@
       }, 
       {
         "country": "Korea", 
-        "percentile": 100
+        "percentile": 6
       }, 
       {
         "country": "Lebanon", 
@@ -5779,7 +5779,7 @@
       }, 
       {
         "country": "Singapore", 
-        "percentile": 100
+        "percentile": 7
       }, 
       {
         "country": "Slovakia", 
@@ -5807,7 +5807,7 @@
       }, 
       {
         "country": "Taiwan", 
-        "percentile": 100
+        "percentile": 6
       }, 
       {
         "country": "Thailand", 
@@ -5856,7 +5856,7 @@
       }, 
       {
         "country": "Austria", 
-        "percentile": 100
+        "percentile": 7
       }, 
       {
         "country": "Azerbaijan", 
@@ -5984,7 +5984,7 @@
       }, 
       {
         "country": "Korea", 
-        "percentile": 100
+        "percentile": 6
       }, 
       {
         "country": "Lebanon", 
@@ -6052,7 +6052,7 @@
       }, 
       {
         "country": "Singapore", 
-        "percentile": 100
+        "percentile": 7
       }, 
       {
         "country": "Slovakia", 
@@ -6080,7 +6080,7 @@
       }, 
       {
         "country": "Taiwan", 
-        "percentile": 100
+        "percentile": 7
       }, 
       {
         "country": "Thailand", 
@@ -6129,7 +6129,7 @@
       }, 
       {
         "country": "Austria", 
-        "percentile": 100
+        "percentile": 7
       }, 
       {
         "country": "Azerbaijan", 
@@ -6249,7 +6249,7 @@
       }, 
       {
         "country": "Japan", 
-        "percentile": 100
+        "percentile": 6
       }, 
       {
         "country": "Jordan", 
@@ -6257,7 +6257,7 @@
       }, 
       {
         "country": "Korea", 
-        "percentile": 100
+        "percentile": 6
       }, 
       {
         "country": "Lebanon", 
@@ -6325,7 +6325,7 @@
       }, 
       {
         "country": "Singapore", 
-        "percentile": 100
+        "percentile": 7
       }, 
       {
         "country": "Slovakia", 
@@ -6353,7 +6353,7 @@
       }, 
       {
         "country": "Taiwan", 
-        "percentile": 100
+        "percentile": 7
       }, 
       {
         "country": "Thailand", 
@@ -6402,7 +6402,7 @@
       }, 
       {
         "country": "Austria", 
-        "percentile": 100
+        "percentile": 7
       }, 
       {
         "country": "Azerbaijan", 
@@ -6522,7 +6522,7 @@
       }, 
       {
         "country": "Japan", 
-        "percentile": 100
+        "percentile": 6
       }, 
       {
         "country": "Jordan", 
@@ -6530,7 +6530,7 @@
       }, 
       {
         "country": "Korea", 
-        "percentile": 100
+        "percentile": 6
       }, 
       {
         "country": "Lebanon", 
@@ -6598,7 +6598,7 @@
       }, 
       {
         "country": "Singapore", 
-        "percentile": 100
+        "percentile": 7
       }, 
       {
         "country": "Slovakia", 
@@ -6630,7 +6630,7 @@
       }, 
       {
         "country": "Taiwan", 
-        "percentile": 100
+        "percentile": 7
       }, 
       {
         "country": "Thailand", 
@@ -6679,7 +6679,7 @@
       }, 
       {
         "country": "Austria", 
-        "percentile": 100
+        "percentile": 7
       }, 
       {
         "country": "Azerbaijan", 
@@ -6799,7 +6799,7 @@
       }, 
       {
         "country": "Japan", 
-        "percentile": 100
+        "percentile": 6
       }, 
       {
         "country": "Jordan", 
@@ -6807,7 +6807,7 @@
       }, 
       {
         "country": "Korea", 
-        "percentile": 100
+        "percentile": 6
       }, 
       {
         "country": "Lebanon", 
@@ -6875,7 +6875,7 @@
       }, 
       {
         "country": "Singapore", 
-        "percentile": 100
+        "percentile": 7
       }, 
       {
         "country": "Slovakia", 
@@ -6907,7 +6907,7 @@
       }, 
       {
         "country": "Taiwan", 
-        "percentile": 100
+        "percentile": 7
       }, 
       {
         "country": "Thailand", 
@@ -6956,7 +6956,7 @@
       }, 
       {
         "country": "Austria", 
-        "percentile": 100
+        "percentile": 7
       }, 
       {
         "country": "Azerbaijan", 
@@ -7076,7 +7076,7 @@
       }, 
       {
         "country": "Japan", 
-        "percentile": 100
+        "percentile": 6
       }, 
       {
         "country": "Jordan", 
@@ -7088,7 +7088,7 @@
       }, 
       {
         "country": "Korea", 
-        "percentile": 100
+        "percentile": 6
       }, 
       {
         "country": "Lebanon", 
@@ -7100,7 +7100,7 @@
       }, 
       {
         "country": "Macau", 
-        "percentile": 100
+        "percentile": 60
       }, 
       {
         "country": "Malaysia", 
@@ -7156,7 +7156,7 @@
       }, 
       {
         "country": "Singapore", 
-        "percentile": 100
+        "percentile": 7
       }, 
       {
         "country": "Slovakia", 
@@ -7188,7 +7188,7 @@
       }, 
       {
         "country": "Taiwan", 
-        "percentile": 100
+        "percentile": 8
       }, 
       {
         "country": "Thailand", 
@@ -7237,7 +7237,7 @@
       }, 
       {
         "country": "Austria", 
-        "percentile": 100
+        "percentile": 7
       }, 
       {
         "country": "Azerbaijan", 
@@ -7357,7 +7357,7 @@
       }, 
       {
         "country": "Japan", 
-        "percentile": 100
+        "percentile": 6
       }, 
       {
         "country": "Jordan", 
@@ -7369,7 +7369,7 @@
       }, 
       {
         "country": "Korea", 
-        "percentile": 100
+        "percentile": 6
       }, 
       {
         "country": "Lebanon", 
@@ -7381,7 +7381,7 @@
       }, 
       {
         "country": "Macau", 
-        "percentile": 100
+        "percentile": 60
       }, 
       {
         "country": "Malaysia", 
@@ -7441,7 +7441,7 @@
       }, 
       {
         "country": "Singapore", 
-        "percentile": 100
+        "percentile": 7
       }, 
       {
         "country": "Slovakia", 
@@ -7473,7 +7473,7 @@
       }, 
       {
         "country": "Taiwan", 
-        "percentile": 100
+        "percentile": 8
       }, 
       {
         "country": "Thailand", 
@@ -7642,7 +7642,7 @@
       }, 
       {
         "country": "Japan", 
-        "percentile": 100
+        "percentile": 6
       }, 
       {
         "country": "Jordan", 
@@ -7654,7 +7654,7 @@
       }, 
       {
         "country": "Korea", 
-        "percentile": 100
+        "percentile": 6
       }, 
       {
         "country": "Lebanon", 
@@ -7666,7 +7666,7 @@
       }, 
       {
         "country": "Macau", 
-        "percentile": 100
+        "percentile": 60
       }, 
       {
         "country": "Malaysia", 
@@ -7702,7 +7702,7 @@
       }, 
       {
         "country": "Poland", 
-        "percentile": 100
+        "percentile": 6
       }, 
       {
         "country": "Portugal", 
@@ -7726,7 +7726,7 @@
       }, 
       {
         "country": "Singapore", 
-        "percentile": 100
+        "percentile": 7
       }, 
       {
         "country": "Slovakia", 
@@ -7758,7 +7758,7 @@
       }, 
       {
         "country": "Taiwan", 
-        "percentile": 100
+        "percentile": 8
       }, 
       {
         "country": "Thailand", 
@@ -7931,7 +7931,7 @@
       }, 
       {
         "country": "Japan", 
-        "percentile": 100
+        "percentile": 6
       }, 
       {
         "country": "Jordan", 
@@ -7943,7 +7943,7 @@
       }, 
       {
         "country": "Korea", 
-        "percentile": 100
+        "percentile": 6
       }, 
       {
         "country": "Lebanon", 
@@ -7955,7 +7955,7 @@
       }, 
       {
         "country": "Macau", 
-        "percentile": 100
+        "percentile": 60
       }, 
       {
         "country": "Macedonia", 
@@ -7963,7 +7963,7 @@
       }, 
       {
         "country": "Malaysia", 
-        "percentile": 100
+        "percentile": 20
       }, 
       {
         "country": "Mexico", 
@@ -7975,7 +7975,7 @@
       }, 
       {
         "country": "Netherlands", 
-        "percentile": 100
+        "percentile": 6
       }, 
       {
         "country": "New Zealand", 
@@ -7995,7 +7995,7 @@
       }, 
       {
         "country": "Poland", 
-        "percentile": 100
+        "percentile": 6
       }, 
       {
         "country": "Portugal", 
@@ -8019,7 +8019,7 @@
       }, 
       {
         "country": "Singapore", 
-        "percentile": 100
+        "percentile": 7
       }, 
       {
         "country": "Slovakia", 
@@ -8051,7 +8051,7 @@
       }, 
       {
         "country": "Taiwan", 
-        "percentile": 100
+        "percentile": 8
       }, 
       {
         "country": "Thailand", 
@@ -8075,7 +8075,7 @@
       }, 
       {
         "country": "United Kingdom", 
-        "percentile": 100
+        "percentile": 6
       }, 
       {
         "country": "USA", 
@@ -8228,7 +8228,7 @@
       }, 
       {
         "country": "Japan", 
-        "percentile": 100
+        "percentile": 6
       }, 
       {
         "country": "Jordan", 
@@ -8240,7 +8240,7 @@
       }, 
       {
         "country": "Korea", 
-        "percentile": 100
+        "percentile": 6
       }, 
       {
         "country": "Lebanon", 
@@ -8252,7 +8252,7 @@
       }, 
       {
         "country": "Macau", 
-        "percentile": 100
+        "percentile": 60
       }, 
       {
         "country": "Macedonia", 
@@ -8260,7 +8260,7 @@
       }, 
       {
         "country": "Malaysia", 
-        "percentile": 100
+        "percentile": 20
       }, 
       {
         "country": "Mexico", 
@@ -8272,7 +8272,7 @@
       }, 
       {
         "country": "Netherlands", 
-        "percentile": 100
+        "percentile": 6
       }, 
       {
         "country": "New Zealand", 
@@ -8292,7 +8292,7 @@
       }, 
       {
         "country": "Poland", 
-        "percentile": 100
+        "percentile": 6
       }, 
       {
         "country": "Portugal", 
@@ -8316,7 +8316,7 @@
       }, 
       {
         "country": "Singapore", 
-        "percentile": 100
+        "percentile": 7
       }, 
       {
         "country": "Slovakia", 
@@ -8348,7 +8348,7 @@
       }, 
       {
         "country": "Taiwan", 
-        "percentile": 100
+        "percentile": 8
       }, 
       {
         "country": "Thailand", 
@@ -8372,7 +8372,7 @@
       }, 
       {
         "country": "United Kingdom", 
-        "percentile": 100
+        "percentile": 6
       }, 
       {
         "country": "USA", 
@@ -8525,7 +8525,7 @@
       }, 
       {
         "country": "Japan", 
-        "percentile": 100
+        "percentile": 6
       }, 
       {
         "country": "Jordan", 
@@ -8537,7 +8537,7 @@
       }, 
       {
         "country": "Korea", 
-        "percentile": 100
+        "percentile": 6
       }, 
       {
         "country": "Lebanon", 
@@ -8549,7 +8549,7 @@
       }, 
       {
         "country": "Macau", 
-        "percentile": 100
+        "percentile": 60
       }, 
       {
         "country": "Macedonia", 
@@ -8557,7 +8557,7 @@
       }, 
       {
         "country": "Malaysia", 
-        "percentile": 100
+        "percentile": 20
       }, 
       {
         "country": "Mexico", 
@@ -8569,7 +8569,7 @@
       }, 
       {
         "country": "Netherlands", 
-        "percentile": 100
+        "percentile": 6
       }, 
       {
         "country": "New Zealand", 
@@ -8589,7 +8589,7 @@
       }, 
       {
         "country": "Poland", 
-        "percentile": 100
+        "percentile": 7
       }, 
       {
         "country": "Portugal", 
@@ -8613,7 +8613,7 @@
       }, 
       {
         "country": "Singapore", 
-        "percentile": 100
+        "percentile": 7
       }, 
       {
         "country": "Slovakia", 
@@ -8645,7 +8645,7 @@
       }, 
       {
         "country": "Taiwan", 
-        "percentile": 100
+        "percentile": 8
       }, 
       {
         "country": "Thailand", 
@@ -8669,7 +8669,7 @@
       }, 
       {
         "country": "United Kingdom", 
-        "percentile": 100
+        "percentile": 6
       }, 
       {
         "country": "USA", 
@@ -8846,7 +8846,7 @@
       }, 
       {
         "country": "Macau", 
-        "percentile": 100
+        "percentile": 9
       }, 
       {
         "country": "Macedonia", 
@@ -9143,7 +9143,7 @@
       }, 
       {
         "country": "Macau", 
-        "percentile": 100
+        "percentile": 9
       }, 
       {
         "country": "Macedonia", 
@@ -9444,7 +9444,7 @@
       }, 
       {
         "country": "Macau", 
-        "percentile": 100
+        "percentile": 9
       }, 
       {
         "country": "Macedonia", 
@@ -9721,7 +9721,7 @@
       }, 
       {
         "country": "Japan", 
-        "percentile": 100
+        "percentile": 6
       }, 
       {
         "country": "Jordan", 
@@ -9745,7 +9745,7 @@
       }, 
       {
         "country": "Macau", 
-        "percentile": 100
+        "percentile": 9
       }, 
       {
         "country": "Macedonia", 
@@ -10046,7 +10046,7 @@
       }, 
       {
         "country": "Macau", 
-        "percentile": 100
+        "percentile": 9
       }, 
       {
         "country": "Macedonia", 
@@ -10351,7 +10351,7 @@
       }, 
       {
         "country": "Macau", 
-        "percentile": 100
+        "percentile": 30
       }, 
       {
         "country": "Macedonia", 
@@ -10660,7 +10660,7 @@
       }, 
       {
         "country": "Macau", 
-        "percentile": 100
+        "percentile": 30
       }, 
       {
         "country": "Macedonia", 
@@ -10969,7 +10969,7 @@
       }, 
       {
         "country": "Macau", 
-        "percentile": 100
+        "percentile": 30
       }, 
       {
         "country": "Macedonia", 
@@ -11254,7 +11254,7 @@
       }, 
       {
         "country": "Japan", 
-        "percentile": 100
+        "percentile": 6
       }, 
       {
         "country": "Jordan", 
@@ -11278,7 +11278,7 @@
       }, 
       {
         "country": "Macau", 
-        "percentile": 100
+        "percentile": 30
       }, 
       {
         "country": "Macedonia", 
@@ -11563,7 +11563,7 @@
       }, 
       {
         "country": "Japan", 
-        "percentile": 100
+        "percentile": 6
       }, 
       {
         "country": "Jordan", 
@@ -11587,7 +11587,7 @@
       }, 
       {
         "country": "Macau", 
-        "percentile": 100
+        "percentile": 30
       }, 
       {
         "country": "Macedonia", 
@@ -11699,7 +11699,7 @@
       }, 
       {
         "country": "Thailand", 
-        "percentile": 100
+        "percentile": 6
       }, 
       {
         "country": "Tunisia", 
