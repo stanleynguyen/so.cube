@@ -201,6 +201,9 @@ const rangeSlider = document.getElementById('range-slider');
 const rangeLabel = document.getElementById('range-label');
 const loadingBtn = document.querySelector('.loading-btn');
 const submitBtn = document.querySelector('.submit-btn');
+let currentCompetitor = { id, name },
+  currentCategory = '333';
+const catSelector = document.getElementById('category-select');
 
 function getCompetitors(term) {
   return new Promise((resolve, reject) => {
@@ -217,13 +220,39 @@ function getCompetitors(term) {
   });
 }
 
-function retrieveCompetitionData({ id, name }) {
+function changeCategory(e) {
+  const oldCat = currentCategory;
+  currentCategory = e.target.value;
+  if (!currentCompetitor) return;
+  retrieveCompetitionData(true)
+    .then(res => {
+      const midIdx = Math.floor(res.length / 2);
+      data = res;
+      updateMap(res[midIdx].data);
+      updateSlider(res);
+    })
+    .catch(e => {
+      currentCategory = oldCat;
+      catSelector.value = currentCategory;
+      alert(e.message);
+    })
+    .finally(() => {
+      loadingOverlay.style.display = 'none';
+    });
+}
+
+function retrieveCompetitionData(changeCat = false) {
+  const { id, name } = currentCompetitor;
   return new Promise((resolve, reject) => {
     if (!id) return reject('No ID provided');
-    searchInput.value = name;
+    if (!changeCat) {
+      searchInput.value = name;
+    }
     resultsContainer.innerHTML = '';
     loadingOverlay.style.display = 'block';
-    fetch(`https://mappy-map.herokuapp.com/show?wcaid=${id}`)
+    fetch(
+      `https://mappy-map.herokuapp.com/show?wcaid=${id}&puzzle=${currentCategory}`,
+    )
       .then(res => {
         if (res.status === 200) {
           res.json().then(resolve);
@@ -236,6 +265,7 @@ function retrieveCompetitionData({ id, name }) {
 }
 
 function showSearchResults(listOfCompetitors) {
+  console.log(listOfCompetitors);
   const html = listOfCompetitors
     .map(
       c =>
@@ -259,7 +289,8 @@ function showSearchResults(listOfCompetitors) {
 }
 
 function handleResultClick(competitor) {
-  retrieveCompetitionData(competitor)
+  currentCompetitor = competitor;
+  retrieveCompetitionData()
     .then(res => {
       const midIdx = Math.floor(res.length / 2);
       data = res;
@@ -335,4 +366,5 @@ geoJSON = L.geoJSON(joinPercentileToMap(data[data.length - 1].data, worldGeo), {
 }).addTo(map);
 
 searchForm.addEventListener('submit', performSearch, false);
+catSelector.addEventListener('change', changeCategory);
 updateSlider(data);
