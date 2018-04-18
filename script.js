@@ -15,6 +15,9 @@ import 'leaflet/dist/leaflet';
 import worldGeo from './data/countries.geo.json';
 import mockData from './data/mock.json';
 
+// ping to wake server
+fetch('https://mappy-map.herokuapp.com');
+
 let data = mockData;
 let name = 'Teo Kai Xiang';
 let id = '2009XIAN01';
@@ -196,6 +199,8 @@ const resultsContainer = document.getElementById('results');
 const loadingOverlay = document.getElementById('loading');
 const rangeSlider = document.getElementById('range-slider');
 const rangeLabel = document.getElementById('range-label');
+const loadingBtn = document.querySelector('.loading-btn');
+const submitBtn = document.querySelector('.submit-btn');
 
 function getCompetitors(term) {
   return new Promise((resolve, reject) => {
@@ -263,21 +268,28 @@ function handleResultClick(competitor) {
       info.update();
       updateMap(res[midIdx].data);
       updateSlider(res);
-      loadingOverlay.style.display = 'none';
     })
     .catch(e => {
-      loadingOverlay.style.display = 'none';
       alert(e.message);
+    })
+    .finally(() => {
+      loadingOverlay.style.display = 'none';
     });
 }
 
 function performSearch(e) {
   e.preventDefault();
   const term = searchInput.value;
+  submitBtn.style.display = 'none';
+  loadingBtn.style.display = 'block';
   getCompetitors(term)
     .then(showSearchResults)
     .catch(e => {
       alert(e.message);
+    })
+    .finally(() => {
+      submitBtn.style.display = 'block';
+      loadingBtn.style.display = 'none';
     });
 }
 
