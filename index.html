@@ -12,25 +12,33 @@
     <div class="spinner"></div>
   </div>
   <div id="root" style="width: 100vw; height: 100vh;"></div>
-  <form class="search-wrapper cf" id="search-form">
-    <input id="search-input" type="text" placeholder="Search here..." required="true" autocomplete="off" />
-    <ul id="results" class="results">
-    </ul>
-    <button type="submit" class="submit-btn">Search</button>
-    <button type="button" class="loading-btn">
-      <span>.</span>
-      <span>.</span>
-      <span>.</span>
-    </button>
-  </form>
-  <div class="dropdown-wrapper">
-    <select class="dropdown" id="category-select">
-      <option value="333" selected>3x3x3</option>
-      <option value="333oh">3x3x3 One-Hand</option>
-      <option value="222">2x2x2</option>
-      <option value="444">4x4x4</option>
-      <option value="555">5x5x5</option>
-    </select>
+  <div class="widgets">
+    <div class="dropdown-wrapper mode">
+      <select class="dropdown" id="mode-select">
+        <option value="competitor" selected>Competitor vs. Countries</option>
+        <option value="country">Countries vs. Countries</option>
+      </select>
+    </div>
+    <form class="search-wrapper cf" id="search-form">
+      <input id="search-input" type="text" placeholder="Search here..." required="true" autocomplete="off" />
+      <ul id="results" class="results">
+      </ul>
+      <button type="submit" class="submit-btn">Search</button>
+      <button type="button" class="loading-btn">
+        <span>.</span>
+        <span>.</span>
+        <span>.</span>
+      </button>
+    </form>
+    <div class="dropdown-wrapper category">
+      <select class="dropdown" id="category-select">
+        <option value="333" selected>3x3x3</option>
+        <option value="333oh">3x3x3 One-Hand</option>
+        <option value="222">2x2x2</option>
+        <option value="444">4x4x4</option>
+        <option value="555">5x5x5</option>
+      </select>
+    </div>
   </div>
   <div class="slider-wrapper">
     <input type="range" id="range-slider" class="fluid-slider" value="50" min="0" max="100" minLabel="" maxLabel="">

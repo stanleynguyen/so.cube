@@ -184,10 +184,7 @@ input::-moz-focus-outer {
   width: 382px;
   box-shadow: 0 1px 1px rgba(0, 0, 0, 0.4) inset,
     0 1px 0 rgba(255, 255, 255, 0.2);
-  position: absolute;
-  top: 10px;
-  left: 55px;
-  z-index: 999;
+  margin-left: 15px;
 }
 
 /* Form text input */
@@ -287,21 +284,27 @@ input::-moz-focus-outer {
   padding: 0;
 }
 
-.dropdown-wrapper {
+.widgets {
   position: absolute;
   top: 10px;
-  left: 450px;
+  left: 40px;
+  display: flex;
   z-index: 999;
+}
+
+.dropdown-wrapper {
+  margin-left: 15px;
 }
 
 .dropdown {
   background: #d83c3c;
   border-radius: 4px;
   height: 40px;
-  width: 72px;
+  width: auto;
   font: bold 15px/40px 'lucida sans', 'trebuchet MS', 'Tahoma';
   color: #fff;
   text-transform: uppercase;
+  text-align-last: center;
   border-radius: 0 3px 3px 0;
   text-shadow: 0 -1px 0 rgba(0, 0, 0, 0.3);
   border: none;
