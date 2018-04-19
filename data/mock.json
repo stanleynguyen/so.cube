@@ -1257,6 +1257,127 @@
         "percentile": 100
       }
     ], 
+    "time": "2006-12"
+  }, 
+  {
+    "data": [
+      {
+        "country": "Australia", 
+        "percentile": 100
+      }, 
+      {
+        "country": "Belgium", 
+        "percentile": 100
+      }, 
+      {
+        "country": "Canada", 
+        "percentile": 100
+      }, 
+      {
+        "country": "China", 
+        "percentile": 100
+      }, 
+      {
+        "country": "Czech Republic", 
+        "percentile": 100
+      }, 
+      {
+        "country": "Denmark", 
+        "percentile": 100
+      }, 
+      {
+        "country": "Dominican Republic", 
+        "percentile": 100
+      }, 
+      {
+        "country": "Finland", 
+        "percentile": 100
+      }, 
+      {
+        "country": "France", 
+        "percentile": 100
+      }, 
+      {
+        "country": "Germany", 
+        "percentile": 100
+      }, 
+      {
+        "country": "Hong Kong", 
+        "percentile": 100
+      }, 
+      {
+        "country": "Hungary", 
+        "percentile": 100
+      }, 
+      {
+        "country": "India", 
+        "percentile": 100
+      }, 
+      {
+        "country": "Indonesia", 
+        "percentile": 100
+      }, 
+      {
+        "country": "Israel", 
+        "percentile": 100
+      }, 
+      {
+        "country": "Japan", 
+        "percentile": 100
+      }, 
+      {
+        "country": "Korea", 
+        "percentile": 100
+      }, 
+      {
+        "country": "Mexico", 
+        "percentile": 100
+      }, 
+      {
+        "country": "Netherlands", 
+        "percentile": 100
+      }, 
+      {
+        "country": "Norway", 
+        "percentile": 100
+      }, 
+      {
+        "country": "Poland", 
+        "percentile": 100
+      }, 
+      {
+        "country": "Portugal", 
+        "percentile": 100
+      }, 
+      {
+        "country": "Slovakia", 
+        "percentile": 100
+      }, 
+      {
+        "country": "Spain", 
+        "percentile": 100
+      }, 
+      {
+        "country": "Sweden", 
+        "percentile": 100
+      }, 
+      {
+        "country": "Switzerland", 
+        "percentile": 100
+      }, 
+      {
+        "country": "Taiwan", 
+        "percentile": 100
+      }, 
+      {
+        "country": "United Kingdom", 
+        "percentile": 100
+      }, 
+      {
+        "country": "USA", 
+        "percentile": 100
+      }
+    ], 
     "time": "2007-01"
   }, 
   {
@@ -2656,6 +2777,187 @@
       }
     ], 
     "time": "2007-11"
+  }, 
+  {
+    "data": [
+      {
+        "country": "Australia", 
+        "percentile": 100
+      }, 
+      {
+        "country": "Austria", 
+        "percentile": 100
+      }, 
+      {
+        "country": "Azerbaijan", 
+        "percentile": 100
+      }, 
+      {
+        "country": "Belgium", 
+        "percentile": 100
+      }, 
+      {
+        "country": "Brazil", 
+        "percentile": 100
+      }, 
+      {
+        "country": "Canada", 
+        "percentile": 100
+      }, 
+      {
+        "country": "China", 
+        "percentile": 100
+      }, 
+      {
+        "country": "Cuba", 
+        "percentile": 100
+      }, 
+      {
+        "country": "Czech Republic", 
+        "percentile": 100
+      }, 
+      {
+        "country": "Denmark", 
+        "percentile": 100
+      }, 
+      {
+        "country": "Dominican Republic", 
+        "percentile": 100
+      }, 
+      {
+        "country": "El Salvador", 
+        "percentile": 100
+      }, 
+      {
+        "country": "Finland", 
+        "percentile": 100
+      }, 
+      {
+        "country": "France", 
+        "percentile": 100
+      }, 
+      {
+        "country": "Germany", 
+        "percentile": 100
+      }, 
+      {
+        "country": "Greece", 
+        "percentile": 100
+      }, 
+      {
+        "country": "Hong Kong", 
+        "percentile": 100
+      }, 
+      {
+        "country": "Hungary", 
+        "percentile": 100
+      }, 
+      {
+        "country": "India", 
+        "percentile": 100
+      }, 
+      {
+        "country": "Indonesia", 
+        "percentile": 100
+      }, 
+      {
+        "country": "Iran", 
+        "percentile": 100
+      }, 
+      {
+        "country": "Ireland", 
+        "percentile": 100
+      }, 
+      {
+        "country": "Israel", 
+        "percentile": 100
+      }, 
+      {
+        "country": "Italy", 
+        "percentile": 100
+      }, 
+      {
+        "country": "Japan", 
+        "percentile": 100
+      }, 
+      {
+        "country": "Korea", 
+        "percentile": 100
+      }, 
+      {
+        "country": "Lebanon", 
+        "percentile": 100
+      }, 
+      {
+        "country": "Malaysia", 
+        "percentile": 100
+      }, 
+      {
+        "country": "Mexico", 
+        "percentile": 100
+      }, 
+      {
+        "country": "Netherlands", 
+        "percentile": 100
+      }, 
+      {
+        "country": "Norway", 
+        "percentile": 100
+      }, 
+      {
+        "country": "Philippines", 
+        "percentile": 100
+      }, 
+      {
+        "country": "Poland", 
+        "percentile": 100
+      }, 
+      {
+        "country": "Portugal", 
+        "percentile": 100
+      }, 
+      {
+        "country": "Serbia", 
+        "percentile": 100
+      }, 
+      {
+        "country": "Slovakia", 
+        "percentile": 100
+      }, 
+      {
+        "country": "South Africa", 
+        "percentile": 100
+      }, 
+      {
+        "country": "Spain", 
+        "percentile": 100
+      }, 
+      {
+        "country": "Sri Lanka", 
+        "percentile": 100
+      }, 
+      {
+        "country": "Sweden", 
+        "percentile": 100
+      }, 
+      {
+        "country": "Switzerland", 
+        "percentile": 100
+      }, 
+      {
+        "country": "Taiwan", 
+        "percentile": 100
+      }, 
+      {
+        "country": "United Kingdom", 
+        "percentile": 100
+      }, 
+      {
+        "country": "USA", 
+        "percentile": 100
+      }
+    ], 
+    "time": "2007-12"
   }, 
   {
     "data": [
@@ -4883,6 +5185,227 @@
       }
     ], 
     "time": "2008-11"
+  }, 
+  {
+    "data": [
+      {
+        "country": "Argentina", 
+        "percentile": 100
+      }, 
+      {
+        "country": "Australia", 
+        "percentile": 100
+      }, 
+      {
+        "country": "Austria", 
+        "percentile": 100
+      }, 
+      {
+        "country": "Azerbaijan", 
+        "percentile": 100
+      }, 
+      {
+        "country": "Belgium", 
+        "percentile": 100
+      }, 
+      {
+        "country": "Belize", 
+        "percentile": 100
+      }, 
+      {
+        "country": "Brazil", 
+        "percentile": 100
+      }, 
+      {
+        "country": "Canada", 
+        "percentile": 100
+      }, 
+      {
+        "country": "China", 
+        "percentile": 100
+      }, 
+      {
+        "country": "Colombia", 
+        "percentile": 100
+      }, 
+      {
+        "country": "Cuba", 
+        "percentile": 100
+      }, 
+      {
+        "country": "Czech Republic", 
+        "percentile": 100
+      }, 
+      {
+        "country": "Denmark", 
+        "percentile": 100
+      }, 
+      {
+        "country": "Dominican Republic", 
+        "percentile": 100
+      }, 
+      {
+        "country": "El Salvador", 
+        "percentile": 100
+      }, 
+      {
+        "country": "Estonia", 
+        "percentile": 100
+      }, 
+      {
+        "country": "Finland", 
+        "percentile": 100
+      }, 
+      {
+        "country": "France", 
+        "percentile": 100
+      }, 
+      {
+        "country": "Germany", 
+        "percentile": 100
+      }, 
+      {
+        "country": "Greece", 
+        "percentile": 100
+      }, 
+      {
+        "country": "Hong Kong", 
+        "percentile": 100
+      }, 
+      {
+        "country": "Hungary", 
+        "percentile": 100
+      }, 
+      {
+        "country": "India", 
+        "percentile": 100
+      }, 
+      {
+        "country": "Indonesia", 
+        "percentile": 100
+      }, 
+      {
+        "country": "Iran", 
+        "percentile": 100
+      }, 
+      {
+        "country": "Ireland", 
+        "percentile": 100
+      }, 
+      {
+        "country": "Israel", 
+        "percentile": 100
+      }, 
+      {
+        "country": "Italy", 
+        "percentile": 100
+      }, 
+      {
+        "country": "Japan", 
+        "percentile": 100
+      }, 
+      {
+        "country": "Korea", 
+        "percentile": 100
+      }, 
+      {
+        "country": "Lebanon", 
+        "percentile": 100
+      }, 
+      {
+        "country": "Macau", 
+        "percentile": 100
+      }, 
+      {
+        "country": "Malaysia", 
+        "percentile": 100
+      }, 
+      {
+        "country": "Mexico", 
+        "percentile": 100
+      }, 
+      {
+        "country": "Morocco", 
+        "percentile": 100
+      }, 
+      {
+        "country": "Netherlands", 
+        "percentile": 100
+      }, 
+      {
+        "country": "Nigeria", 
+        "percentile": 100
+      }, 
+      {
+        "country": "Norway", 
+        "percentile": 100
+      }, 
+      {
+        "country": "Philippines", 
+        "percentile": 100
+      }, 
+      {
+        "country": "Poland", 
+        "percentile": 100
+      }, 
+      {
+        "country": "Portugal", 
+        "percentile": 100
+      }, 
+      {
+        "country": "Russia", 
+        "percentile": 100
+      }, 
+      {
+        "country": "Serbia", 
+        "percentile": 100
+      }, 
+      {
+        "country": "Slovakia", 
+        "percentile": 100
+      }, 
+      {
+        "country": "South Africa", 
+        "percentile": 100
+      }, 
+      {
+        "country": "Spain", 
+        "percentile": 100
+      }, 
+      {
+        "country": "Sri Lanka", 
+        "percentile": 100
+      }, 
+      {
+        "country": "Sweden", 
+        "percentile": 100
+      }, 
+      {
+        "country": "Switzerland", 
+        "percentile": 100
+      }, 
+      {
+        "country": "Taiwan", 
+        "percentile": 100
+      }, 
+      {
+        "country": "Thailand", 
+        "percentile": 100
+      }, 
+      {
+        "country": "Turkey", 
+        "percentile": 100
+      }, 
+      {
+        "country": "United Kingdom", 
+        "percentile": 100
+      }, 
+      {
+        "country": "USA", 
+        "percentile": 100
+      }
+    ], 
+    "time": "2008-12"
   }, 
   {
     "data": [
@@ -7794,6 +8317,299 @@
       }
     ], 
     "time": "2009-11"
+  }, 
+  {
+    "data": [
+      {
+        "country": "Argentina", 
+        "percentile": 1
+      }, 
+      {
+        "country": "Australia", 
+        "percentile": 3
+      }, 
+      {
+        "country": "Austria", 
+        "percentile": 4
+      }, 
+      {
+        "country": "Azerbaijan", 
+        "percentile": 1
+      }, 
+      {
+        "country": "Belarus", 
+        "percentile": 1
+      }, 
+      {
+        "country": "Belgium", 
+        "percentile": 5
+      }, 
+      {
+        "country": "Belize", 
+        "percentile": 100
+      }, 
+      {
+        "country": "Bolivia", 
+        "percentile": 1
+      }, 
+      {
+        "country": "Brazil", 
+        "percentile": 2
+      }, 
+      {
+        "country": "Canada", 
+        "percentile": 3
+      }, 
+      {
+        "country": "Chile", 
+        "percentile": 1
+      }, 
+      {
+        "country": "China", 
+        "percentile": 1
+      }, 
+      {
+        "country": "Colombia", 
+        "percentile": 1
+      }, 
+      {
+        "country": "Croatia", 
+        "percentile": 1
+      }, 
+      {
+        "country": "Cuba", 
+        "percentile": 1
+      }, 
+      {
+        "country": "Czech Republic", 
+        "percentile": 1
+      }, 
+      {
+        "country": "Denmark", 
+        "percentile": 1
+      }, 
+      {
+        "country": "Dominican Republic", 
+        "percentile": 1
+      }, 
+      {
+        "country": "El Salvador", 
+        "percentile": 1
+      }, 
+      {
+        "country": "Estonia", 
+        "percentile": 1
+      }, 
+      {
+        "country": "Finland", 
+        "percentile": 2
+      }, 
+      {
+        "country": "France", 
+        "percentile": 3
+      }, 
+      {
+        "country": "Germany", 
+        "percentile": 2
+      }, 
+      {
+        "country": "Greece", 
+        "percentile": 1
+      }, 
+      {
+        "country": "Hong Kong", 
+        "percentile": 3
+      }, 
+      {
+        "country": "Hungary", 
+        "percentile": 4
+      }, 
+      {
+        "country": "Iceland", 
+        "percentile": 1
+      }, 
+      {
+        "country": "India", 
+        "percentile": 1
+      }, 
+      {
+        "country": "Indonesia", 
+        "percentile": 1
+      }, 
+      {
+        "country": "Iran", 
+        "percentile": 1
+      }, 
+      {
+        "country": "Ireland", 
+        "percentile": 1
+      }, 
+      {
+        "country": "Israel", 
+        "percentile": 1
+      }, 
+      {
+        "country": "Italy", 
+        "percentile": 2
+      }, 
+      {
+        "country": "Japan", 
+        "percentile": 6
+      }, 
+      {
+        "country": "Jordan", 
+        "percentile": 1
+      }, 
+      {
+        "country": "Kazakhstan", 
+        "percentile": 1
+      }, 
+      {
+        "country": "Korea", 
+        "percentile": 6
+      }, 
+      {
+        "country": "Lebanon", 
+        "percentile": 1
+      }, 
+      {
+        "country": "Luxembourg", 
+        "percentile": 1
+      }, 
+      {
+        "country": "Macau", 
+        "percentile": 60
+      }, 
+      {
+        "country": "Macedonia", 
+        "percentile": 1
+      }, 
+      {
+        "country": "Malaysia", 
+        "percentile": 20
+      }, 
+      {
+        "country": "Mexico", 
+        "percentile": 1
+      }, 
+      {
+        "country": "Morocco", 
+        "percentile": 1
+      }, 
+      {
+        "country": "Netherlands", 
+        "percentile": 6
+      }, 
+      {
+        "country": "New Zealand", 
+        "percentile": 1
+      }, 
+      {
+        "country": "Nigeria", 
+        "percentile": 1
+      }, 
+      {
+        "country": "Norway", 
+        "percentile": 1
+      }, 
+      {
+        "country": "Philippines", 
+        "percentile": 2
+      }, 
+      {
+        "country": "Poland", 
+        "percentile": 6
+      }, 
+      {
+        "country": "Portugal", 
+        "percentile": 1
+      }, 
+      {
+        "country": "Romania", 
+        "percentile": 1
+      }, 
+      {
+        "country": "Russia", 
+        "percentile": 1
+      }, 
+      {
+        "country": "Saudi Arabia", 
+        "percentile": 1
+      }, 
+      {
+        "country": "Serbia", 
+        "percentile": 1
+      }, 
+      {
+        "country": "Singapore", 
+        "percentile": 7
+      }, 
+      {
+        "country": "Slovakia", 
+        "percentile": 1
+      }, 
+      {
+        "country": "Slovenia", 
+        "percentile": 1
+      }, 
+      {
+        "country": "South Africa", 
+        "percentile": 1
+      }, 
+      {
+        "country": "Spain", 
+        "percentile": 2
+      }, 
+      {
+        "country": "Sri Lanka", 
+        "percentile": 1
+      }, 
+      {
+        "country": "Sweden", 
+        "percentile": 2
+      }, 
+      {
+        "country": "Switzerland", 
+        "percentile": 1
+      }, 
+      {
+        "country": "Taiwan", 
+        "percentile": 8
+      }, 
+      {
+        "country": "Thailand", 
+        "percentile": 5
+      }, 
+      {
+        "country": "Tunisia", 
+        "percentile": 1
+      }, 
+      {
+        "country": "Turkey", 
+        "percentile": 1
+      }, 
+      {
+        "country": "Ukraine", 
+        "percentile": 1
+      }, 
+      {
+        "country": "United Arab Emirates", 
+        "percentile": 1
+      }, 
+      {
+        "country": "United Kingdom", 
+        "percentile": 6
+      }, 
+      {
+        "country": "USA", 
+        "percentile": 2
+      }, 
+      {
+        "country": "Vietnam", 
+        "percentile": 1
+      }
+    ], 
+    "time": "2009-12"
   }, 
   {
     "data": [
@@ -11421,6 +12237,315 @@
         "percentile": 1
       }
     ], 
+    "time": "2010-12"
+  }, 
+  {
+    "data": [
+      {
+        "country": "Argentina", 
+        "percentile": 1
+      }, 
+      {
+        "country": "Australia", 
+        "percentile": 5
+      }, 
+      {
+        "country": "Austria", 
+        "percentile": 4
+      }, 
+      {
+        "country": "Azerbaijan", 
+        "percentile": 1
+      }, 
+      {
+        "country": "Belarus", 
+        "percentile": 1
+      }, 
+      {
+        "country": "Belgium", 
+        "percentile": 1
+      }, 
+      {
+        "country": "Belize", 
+        "percentile": 100
+      }, 
+      {
+        "country": "Bolivia", 
+        "percentile": 1
+      }, 
+      {
+        "country": "Brazil", 
+        "percentile": 2
+      }, 
+      {
+        "country": "Canada", 
+        "percentile": 2
+      }, 
+      {
+        "country": "Chile", 
+        "percentile": 1
+      }, 
+      {
+        "country": "China", 
+        "percentile": 1
+      }, 
+      {
+        "country": "Colombia", 
+        "percentile": 1
+      }, 
+      {
+        "country": "Croatia", 
+        "percentile": 1
+      }, 
+      {
+        "country": "Cuba", 
+        "percentile": 1
+      }, 
+      {
+        "country": "Czech Republic", 
+        "percentile": 1
+      }, 
+      {
+        "country": "Denmark", 
+        "percentile": 1
+      }, 
+      {
+        "country": "Dominican Republic", 
+        "percentile": 1
+      }, 
+      {
+        "country": "Egypt", 
+        "percentile": 1
+      }, 
+      {
+        "country": "El Salvador", 
+        "percentile": 1
+      }, 
+      {
+        "country": "Estonia", 
+        "percentile": 1
+      }, 
+      {
+        "country": "Finland", 
+        "percentile": 1
+      }, 
+      {
+        "country": "France", 
+        "percentile": 2
+      }, 
+      {
+        "country": "Germany", 
+        "percentile": 2
+      }, 
+      {
+        "country": "Greece", 
+        "percentile": 1
+      }, 
+      {
+        "country": "Hong Kong", 
+        "percentile": 1
+      }, 
+      {
+        "country": "Hungary", 
+        "percentile": 2
+      }, 
+      {
+        "country": "Iceland", 
+        "percentile": 1
+      }, 
+      {
+        "country": "India", 
+        "percentile": 1
+      }, 
+      {
+        "country": "Indonesia", 
+        "percentile": 1
+      }, 
+      {
+        "country": "Iran", 
+        "percentile": 1
+      }, 
+      {
+        "country": "Ireland", 
+        "percentile": 1
+      }, 
+      {
+        "country": "Israel", 
+        "percentile": 1
+      }, 
+      {
+        "country": "Italy", 
+        "percentile": 3
+      }, 
+      {
+        "country": "Japan", 
+        "percentile": 6
+      }, 
+      {
+        "country": "Jordan", 
+        "percentile": 1
+      }, 
+      {
+        "country": "Kazakhstan", 
+        "percentile": 1
+      }, 
+      {
+        "country": "Korea", 
+        "percentile": 1
+      }, 
+      {
+        "country": "Lebanon", 
+        "percentile": 1
+      }, 
+      {
+        "country": "Luxembourg", 
+        "percentile": 1
+      }, 
+      {
+        "country": "Macau", 
+        "percentile": 30
+      }, 
+      {
+        "country": "Macedonia", 
+        "percentile": 1
+      }, 
+      {
+        "country": "Malaysia", 
+        "percentile": 2
+      }, 
+      {
+        "country": "Mexico", 
+        "percentile": 1
+      }, 
+      {
+        "country": "Moldova", 
+        "percentile": 1
+      }, 
+      {
+        "country": "Mongolia", 
+        "percentile": 1
+      }, 
+      {
+        "country": "Morocco", 
+        "percentile": 1
+      }, 
+      {
+        "country": "Netherlands", 
+        "percentile": 4
+      }, 
+      {
+        "country": "New Zealand", 
+        "percentile": 1
+      }, 
+      {
+        "country": "Nigeria", 
+        "percentile": 1
+      }, 
+      {
+        "country": "Norway", 
+        "percentile": 2
+      }, 
+      {
+        "country": "Peru", 
+        "percentile": 1
+      }, 
+      {
+        "country": "Philippines", 
+        "percentile": 1
+      }, 
+      {
+        "country": "Poland", 
+        "percentile": 4
+      }, 
+      {
+        "country": "Portugal", 
+        "percentile": 1
+      }, 
+      {
+        "country": "Romania", 
+        "percentile": 1
+      }, 
+      {
+        "country": "Russia", 
+        "percentile": 1
+      }, 
+      {
+        "country": "Saudi Arabia", 
+        "percentile": 1
+      }, 
+      {
+        "country": "Serbia", 
+        "percentile": 1
+      }, 
+      {
+        "country": "Singapore", 
+        "percentile": 1
+      }, 
+      {
+        "country": "Slovakia", 
+        "percentile": 1
+      }, 
+      {
+        "country": "Slovenia", 
+        "percentile": 1
+      }, 
+      {
+        "country": "South Africa", 
+        "percentile": 1
+      }, 
+      {
+        "country": "Spain", 
+        "percentile": 1
+      }, 
+      {
+        "country": "Sri Lanka", 
+        "percentile": 1
+      }, 
+      {
+        "country": "Sweden", 
+        "percentile": 2
+      }, 
+      {
+        "country": "Switzerland", 
+        "percentile": 1
+      }, 
+      {
+        "country": "Taiwan", 
+        "percentile": 2
+      }, 
+      {
+        "country": "Thailand", 
+        "percentile": 4
+      }, 
+      {
+        "country": "Tunisia", 
+        "percentile": 1
+      }, 
+      {
+        "country": "Turkey", 
+        "percentile": 1
+      }, 
+      {
+        "country": "Ukraine", 
+        "percentile": 1
+      }, 
+      {
+        "country": "United Arab Emirates", 
+        "percentile": 1
+      }, 
+      {
+        "country": "United Kingdom", 
+        "percentile": 4
+      }, 
+      {
+        "country": "USA", 
+        "percentile": 2
+      }, 
+      {
+        "country": "Vietnam", 
+        "percentile": 1
+      }
+    ], 
     "time": "2011-01"
   }, 
   {
@@ -14660,6 +15785,347 @@
       }
     ], 
     "time": "2011-11"
+  }, 
+  {
+    "data": [
+      {
+        "country": "Afghanistan", 
+        "percentile": 1
+      }, 
+      {
+        "country": "Algeria", 
+        "percentile": 1
+      }, 
+      {
+        "country": "Argentina", 
+        "percentile": 1
+      }, 
+      {
+        "country": "Australia", 
+        "percentile": 2
+      }, 
+      {
+        "country": "Austria", 
+        "percentile": 1
+      }, 
+      {
+        "country": "Azerbaijan", 
+        "percentile": 1
+      }, 
+      {
+        "country": "Bangladesh", 
+        "percentile": 1
+      }, 
+      {
+        "country": "Belarus", 
+        "percentile": 1
+      }, 
+      {
+        "country": "Belgium", 
+        "percentile": 1
+      }, 
+      {
+        "country": "Belize", 
+        "percentile": 100
+      }, 
+      {
+        "country": "Bolivia", 
+        "percentile": 1
+      }, 
+      {
+        "country": "Brazil", 
+        "percentile": 1
+      }, 
+      {
+        "country": "Canada", 
+        "percentile": 1
+      }, 
+      {
+        "country": "Chile", 
+        "percentile": 1
+      }, 
+      {
+        "country": "China", 
+        "percentile": 1
+      }, 
+      {
+        "country": "Colombia", 
+        "percentile": 1
+      }, 
+      {
+        "country": "Costa Rica", 
+        "percentile": 1
+      }, 
+      {
+        "country": "Croatia", 
+        "percentile": 1
+      }, 
+      {
+        "country": "Cuba", 
+        "percentile": 1
+      }, 
+      {
+        "country": "Czech Republic", 
+        "percentile": 1
+      }, 
+      {
+        "country": "Denmark", 
+        "percentile": 1
+      }, 
+      {
+        "country": "Dominican Republic", 
+        "percentile": 1
+      }, 
+      {
+        "country": "Egypt", 
+        "percentile": 1
+      }, 
+      {
+        "country": "El Salvador", 
+        "percentile": 1
+      }, 
+      {
+        "country": "Estonia", 
+        "percentile": 1
+      }, 
+      {
+        "country": "Finland", 
+        "percentile": 1
+      }, 
+      {
+        "country": "France", 
+        "percentile": 1
+      }, 
+      {
+        "country": "Germany", 
+        "percentile": 1
+      }, 
+      {
+        "country": "Greece", 
+        "percentile": 1
+      }, 
+      {
+        "country": "Hong Kong", 
+        "percentile": 1
+      }, 
+      {
+        "country": "Hungary", 
+        "percentile": 1
+      }, 
+      {
+        "country": "Iceland", 
+        "percentile": 1
+      }, 
+      {
+        "country": "India", 
+        "percentile": 1
+      }, 
+      {
+        "country": "Indonesia", 
+        "percentile": 1
+      }, 
+      {
+        "country": "Iran", 
+        "percentile": 1
+      }, 
+      {
+        "country": "Ireland", 
+        "percentile": 1
+      }, 
+      {
+        "country": "Israel", 
+        "percentile": 1
+      }, 
+      {
+        "country": "Italy", 
+        "percentile": 1
+      }, 
+      {
+        "country": "Japan", 
+        "percentile": 2
+      }, 
+      {
+        "country": "Jordan", 
+        "percentile": 1
+      }, 
+      {
+        "country": "Kazakhstan", 
+        "percentile": 1
+      }, 
+      {
+        "country": "Korea", 
+        "percentile": 1
+      }, 
+      {
+        "country": "Latvia", 
+        "percentile": 1
+      }, 
+      {
+        "country": "Lebanon", 
+        "percentile": 1
+      }, 
+      {
+        "country": "Lithuania", 
+        "percentile": 1
+      }, 
+      {
+        "country": "Luxembourg", 
+        "percentile": 1
+      }, 
+      {
+        "country": "Macau", 
+        "percentile": 1
+      }, 
+      {
+        "country": "Macedonia", 
+        "percentile": 1
+      }, 
+      {
+        "country": "Malaysia", 
+        "percentile": 1
+      }, 
+      {
+        "country": "Mexico", 
+        "percentile": 1
+      }, 
+      {
+        "country": "Moldova", 
+        "percentile": 1
+      }, 
+      {
+        "country": "Mongolia", 
+        "percentile": 1
+      }, 
+      {
+        "country": "Morocco", 
+        "percentile": 1
+      }, 
+      {
+        "country": "Netherlands", 
+        "percentile": 2
+      }, 
+      {
+        "country": "New Zealand", 
+        "percentile": 1
+      }, 
+      {
+        "country": "Nigeria", 
+        "percentile": 1
+      }, 
+      {
+        "country": "Norway", 
+        "percentile": 1
+      }, 
+      {
+        "country": "Pakistan", 
+        "percentile": 1
+      }, 
+      {
+        "country": "Peru", 
+        "percentile": 1
+      }, 
+      {
+        "country": "Philippines", 
+        "percentile": 1
+      }, 
+      {
+        "country": "Poland", 
+        "percentile": 1
+      }, 
+      {
+        "country": "Portugal", 
+        "percentile": 1
+      }, 
+      {
+        "country": "Romania", 
+        "percentile": 1
+      }, 
+      {
+        "country": "Russia", 
+        "percentile": 1
+      }, 
+      {
+        "country": "Saudi Arabia", 
+        "percentile": 1
+      }, 
+      {
+        "country": "Serbia", 
+        "percentile": 1
+      }, 
+      {
+        "country": "Singapore", 
+        "percentile": 1
+      }, 
+      {
+        "country": "Slovakia", 
+        "percentile": 1
+      }, 
+      {
+        "country": "Slovenia", 
+        "percentile": 1
+      }, 
+      {
+        "country": "South Africa", 
+        "percentile": 1
+      }, 
+      {
+        "country": "Spain", 
+        "percentile": 1
+      }, 
+      {
+        "country": "Sri Lanka", 
+        "percentile": 1
+      }, 
+      {
+        "country": "Sweden", 
+        "percentile": 1
+      }, 
+      {
+        "country": "Switzerland", 
+        "percentile": 1
+      }, 
+      {
+        "country": "Taiwan", 
+        "percentile": 1
+      }, 
+      {
+        "country": "Thailand", 
+        "percentile": 2
+      }, 
+      {
+        "country": "Tunisia", 
+        "percentile": 1
+      }, 
+      {
+        "country": "Turkey", 
+        "percentile": 1
+      }, 
+      {
+        "country": "Ukraine", 
+        "percentile": 1
+      }, 
+      {
+        "country": "United Arab Emirates", 
+        "percentile": 1
+      }, 
+      {
+        "country": "United Kingdom", 
+        "percentile": 2
+      }, 
+      {
+        "country": "Uruguay", 
+        "percentile": 1
+      }, 
+      {
+        "country": "USA", 
+        "percentile": 1
+      }, 
+      {
+        "country": "Vietnam", 
+        "percentile": 1
+      }
+    ], 
+    "time": "2011-12"
   }, 
   {
     "data": [
@@ -18867,6 +20333,363 @@
         "percentile": 1
       }
     ], 
+    "time": "2012-12"
+  }, 
+  {
+    "data": [
+      {
+        "country": "Afghanistan", 
+        "percentile": 1
+      }, 
+      {
+        "country": "Algeria", 
+        "percentile": 1
+      }, 
+      {
+        "country": "Argentina", 
+        "percentile": 1
+      }, 
+      {
+        "country": "Armenia", 
+        "percentile": 1
+      }, 
+      {
+        "country": "Australia", 
+        "percentile": 2
+      }, 
+      {
+        "country": "Austria", 
+        "percentile": 1
+      }, 
+      {
+        "country": "Azerbaijan", 
+        "percentile": 1
+      }, 
+      {
+        "country": "Bangladesh", 
+        "percentile": 1
+      }, 
+      {
+        "country": "Belarus", 
+        "percentile": 1
+      }, 
+      {
+        "country": "Belgium", 
+        "percentile": 1
+      }, 
+      {
+        "country": "Belize", 
+        "percentile": 100
+      }, 
+      {
+        "country": "Bolivia", 
+        "percentile": 1
+      }, 
+      {
+        "country": "Bosnia and Herzegovina", 
+        "percentile": 1
+      }, 
+      {
+        "country": "Brazil", 
+        "percentile": 1
+      }, 
+      {
+        "country": "Bulgaria", 
+        "percentile": 1
+      }, 
+      {
+        "country": "Canada", 
+        "percentile": 1
+      }, 
+      {
+        "country": "Chile", 
+        "percentile": 1
+      }, 
+      {
+        "country": "China", 
+        "percentile": 1
+      }, 
+      {
+        "country": "Colombia", 
+        "percentile": 1
+      }, 
+      {
+        "country": "Costa Rica", 
+        "percentile": 1
+      }, 
+      {
+        "country": "Croatia", 
+        "percentile": 1
+      }, 
+      {
+        "country": "Cuba", 
+        "percentile": 1
+      }, 
+      {
+        "country": "Czech Republic", 
+        "percentile": 1
+      }, 
+      {
+        "country": "Denmark", 
+        "percentile": 1
+      }, 
+      {
+        "country": "Dominican Republic", 
+        "percentile": 1
+      }, 
+      {
+        "country": "Egypt", 
+        "percentile": 1
+      }, 
+      {
+        "country": "El Salvador", 
+        "percentile": 1
+      }, 
+      {
+        "country": "Estonia", 
+        "percentile": 1
+      }, 
+      {
+        "country": "Finland", 
+        "percentile": 1
+      }, 
+      {
+        "country": "France", 
+        "percentile": 1
+      }, 
+      {
+        "country": "Germany", 
+        "percentile": 1
+      }, 
+      {
+        "country": "Greece", 
+        "percentile": 1
+      }, 
+      {
+        "country": "Hong Kong", 
+        "percentile": 1
+      }, 
+      {
+        "country": "Hungary", 
+        "percentile": 1
+      }, 
+      {
+        "country": "Iceland", 
+        "percentile": 1
+      }, 
+      {
+        "country": "India", 
+        "percentile": 1
+      }, 
+      {
+        "country": "Indonesia", 
+        "percentile": 1
+      }, 
+      {
+        "country": "Iran", 
+        "percentile": 1
+      }, 
+      {
+        "country": "Ireland", 
+        "percentile": 1
+      }, 
+      {
+        "country": "Israel", 
+        "percentile": 1
+      }, 
+      {
+        "country": "Italy", 
+        "percentile": 1
+      }, 
+      {
+        "country": "Japan", 
+        "percentile": 2
+      }, 
+      {
+        "country": "Jordan", 
+        "percentile": 1
+      }, 
+      {
+        "country": "Kazakhstan", 
+        "percentile": 1
+      }, 
+      {
+        "country": "Korea", 
+        "percentile": 1
+      }, 
+      {
+        "country": "Latvia", 
+        "percentile": 1
+      }, 
+      {
+        "country": "Lebanon", 
+        "percentile": 1
+      }, 
+      {
+        "country": "Lithuania", 
+        "percentile": 1
+      }, 
+      {
+        "country": "Luxembourg", 
+        "percentile": 1
+      }, 
+      {
+        "country": "Macau", 
+        "percentile": 1
+      }, 
+      {
+        "country": "Macedonia", 
+        "percentile": 1
+      }, 
+      {
+        "country": "Malaysia", 
+        "percentile": 1
+      }, 
+      {
+        "country": "Mexico", 
+        "percentile": 1
+      }, 
+      {
+        "country": "Moldova", 
+        "percentile": 1
+      }, 
+      {
+        "country": "Mongolia", 
+        "percentile": 1
+      }, 
+      {
+        "country": "Morocco", 
+        "percentile": 1
+      }, 
+      {
+        "country": "Netherlands", 
+        "percentile": 1
+      }, 
+      {
+        "country": "New Zealand", 
+        "percentile": 1
+      }, 
+      {
+        "country": "Nigeria", 
+        "percentile": 1
+      }, 
+      {
+        "country": "Norway", 
+        "percentile": 1
+      }, 
+      {
+        "country": "Pakistan", 
+        "percentile": 1
+      }, 
+      {
+        "country": "Peru", 
+        "percentile": 1
+      }, 
+      {
+        "country": "Philippines", 
+        "percentile": 1
+      }, 
+      {
+        "country": "Poland", 
+        "percentile": 1
+      }, 
+      {
+        "country": "Portugal", 
+        "percentile": 1
+      }, 
+      {
+        "country": "Romania", 
+        "percentile": 1
+      }, 
+      {
+        "country": "Russia", 
+        "percentile": 1
+      }, 
+      {
+        "country": "Saudi Arabia", 
+        "percentile": 1
+      }, 
+      {
+        "country": "Serbia", 
+        "percentile": 1
+      }, 
+      {
+        "country": "Singapore", 
+        "percentile": 1
+      }, 
+      {
+        "country": "Slovakia", 
+        "percentile": 1
+      }, 
+      {
+        "country": "Slovenia", 
+        "percentile": 1
+      }, 
+      {
+        "country": "South Africa", 
+        "percentile": 1
+      }, 
+      {
+        "country": "Spain", 
+        "percentile": 1
+      }, 
+      {
+        "country": "Sri Lanka", 
+        "percentile": 1
+      }, 
+      {
+        "country": "Sweden", 
+        "percentile": 1
+      }, 
+      {
+        "country": "Switzerland", 
+        "percentile": 1
+      }, 
+      {
+        "country": "Taiwan", 
+        "percentile": 1
+      }, 
+      {
+        "country": "Thailand", 
+        "percentile": 2
+      }, 
+      {
+        "country": "Trinidad and Tobago", 
+        "percentile": 1
+      }, 
+      {
+        "country": "Tunisia", 
+        "percentile": 1
+      }, 
+      {
+        "country": "Turkey", 
+        "percentile": 1
+      }, 
+      {
+        "country": "Ukraine", 
+        "percentile": 1
+      }, 
+      {
+        "country": "United Arab Emirates", 
+        "percentile": 1
+      }, 
+      {
+        "country": "United Kingdom", 
+        "percentile": 2
+      }, 
+      {
+        "country": "Uruguay", 
+        "percentile": 1
+      }, 
+      {
+        "country": "USA", 
+        "percentile": 1
+      }, 
+      {
+        "country": "Vietnam", 
+        "percentile": 1
+      }
+    ], 
     "time": "2013-01"
   }, 
   {
@@ -22550,6 +24373,383 @@
       }
     ], 
     "time": "2013-11"
+  }, 
+  {
+    "data": [
+      {
+        "country": "Afghanistan", 
+        "percentile": 1
+      }, 
+      {
+        "country": "Albania", 
+        "percentile": 1
+      }, 
+      {
+        "country": "Algeria", 
+        "percentile": 1
+      }, 
+      {
+        "country": "Argentina", 
+        "percentile": 1
+      }, 
+      {
+        "country": "Armenia", 
+        "percentile": 1
+      }, 
+      {
+        "country": "Australia", 
+        "percentile": 2
+      }, 
+      {
+        "country": "Austria", 
+        "percentile": 1
+      }, 
+      {
+        "country": "Azerbaijan", 
+        "percentile": 1
+      }, 
+      {
+        "country": "Bangladesh", 
+        "percentile": 1
+      }, 
+      {
+        "country": "Belarus", 
+        "percentile": 1
+      }, 
+      {
+        "country": "Belgium", 
+        "percentile": 1
+      }, 
+      {
+        "country": "Belize", 
+        "percentile": 100
+      }, 
+      {
+        "country": "Bolivia", 
+        "percentile": 1
+      }, 
+      {
+        "country": "Bosnia and Herzegovina", 
+        "percentile": 1
+      }, 
+      {
+        "country": "Brazil", 
+        "percentile": 1
+      }, 
+      {
+        "country": "Bulgaria", 
+        "percentile": 1
+      }, 
+      {
+        "country": "Canada", 
+        "percentile": 1
+      }, 
+      {
+        "country": "Chile", 
+        "percentile": 1
+      }, 
+      {
+        "country": "China", 
+        "percentile": 1
+      }, 
+      {
+        "country": "Colombia", 
+        "percentile": 1
+      }, 
+      {
+        "country": "Costa Rica", 
+        "percentile": 1
+      }, 
+      {
+        "country": "Croatia", 
+        "percentile": 1
+      }, 
+      {
+        "country": "Cuba", 
+        "percentile": 1
+      }, 
+      {
+        "country": "Cyprus", 
+        "percentile": 1
+      }, 
+      {
+        "country": "Czech Republic", 
+        "percentile": 1
+      }, 
+      {
+        "country": "Denmark", 
+        "percentile": 1
+      }, 
+      {
+        "country": "Dominican Republic", 
+        "percentile": 1
+      }, 
+      {
+        "country": "Egypt", 
+        "percentile": 1
+      }, 
+      {
+        "country": "El Salvador", 
+        "percentile": 1
+      }, 
+      {
+        "country": "Estonia", 
+        "percentile": 1
+      }, 
+      {
+        "country": "Finland", 
+        "percentile": 1
+      }, 
+      {
+        "country": "France", 
+        "percentile": 1
+      }, 
+      {
+        "country": "Georgia", 
+        "percentile": 1
+      }, 
+      {
+        "country": "Germany", 
+        "percentile": 1
+      }, 
+      {
+        "country": "Greece", 
+        "percentile": 1
+      }, 
+      {
+        "country": "Hong Kong", 
+        "percentile": 1
+      }, 
+      {
+        "country": "Hungary", 
+        "percentile": 1
+      }, 
+      {
+        "country": "Iceland", 
+        "percentile": 1
+      }, 
+      {
+        "country": "India", 
+        "percentile": 1
+      }, 
+      {
+        "country": "Indonesia", 
+        "percentile": 1
+      }, 
+      {
+        "country": "Iran", 
+        "percentile": 1
+      }, 
+      {
+        "country": "Ireland", 
+        "percentile": 1
+      }, 
+      {
+        "country": "Israel", 
+        "percentile": 1
+      }, 
+      {
+        "country": "Italy", 
+        "percentile": 1
+      }, 
+      {
+        "country": "Japan", 
+        "percentile": 2
+      }, 
+      {
+        "country": "Jordan", 
+        "percentile": 1
+      }, 
+      {
+        "country": "Kazakhstan", 
+        "percentile": 1
+      }, 
+      {
+        "country": "Korea", 
+        "percentile": 1
+      }, 
+      {
+        "country": "Kosovo", 
+        "percentile": 1
+      }, 
+      {
+        "country": "Latvia", 
+        "percentile": 1
+      }, 
+      {
+        "country": "Lebanon", 
+        "percentile": 1
+      }, 
+      {
+        "country": "Lithuania", 
+        "percentile": 1
+      }, 
+      {
+        "country": "Luxembourg", 
+        "percentile": 1
+      }, 
+      {
+        "country": "Macau", 
+        "percentile": 1
+      }, 
+      {
+        "country": "Macedonia", 
+        "percentile": 1
+      }, 
+      {
+        "country": "Malaysia", 
+        "percentile": 2
+      }, 
+      {
+        "country": "Mexico", 
+        "percentile": 1
+      }, 
+      {
+        "country": "Moldova", 
+        "percentile": 1
+      }, 
+      {
+        "country": "Mongolia", 
+        "percentile": 1
+      }, 
+      {
+        "country": "Morocco", 
+        "percentile": 1
+      }, 
+      {
+        "country": "Netherlands", 
+        "percentile": 1
+      }, 
+      {
+        "country": "New Zealand", 
+        "percentile": 1
+      }, 
+      {
+        "country": "Nigeria", 
+        "percentile": 1
+      }, 
+      {
+        "country": "Norway", 
+        "percentile": 1
+      }, 
+      {
+        "country": "Pakistan", 
+        "percentile": 1
+      }, 
+      {
+        "country": "Peru", 
+        "percentile": 1
+      }, 
+      {
+        "country": "Philippines", 
+        "percentile": 1
+      }, 
+      {
+        "country": "Poland", 
+        "percentile": 1
+      }, 
+      {
+        "country": "Portugal", 
+        "percentile": 1
+      }, 
+      {
+        "country": "Romania", 
+        "percentile": 1
+      }, 
+      {
+        "country": "Russia", 
+        "percentile": 1
+      }, 
+      {
+        "country": "Saudi Arabia", 
+        "percentile": 1
+      }, 
+      {
+        "country": "Serbia", 
+        "percentile": 1
+      }, 
+      {
+        "country": "Singapore", 
+        "percentile": 1
+      }, 
+      {
+        "country": "Slovakia", 
+        "percentile": 1
+      }, 
+      {
+        "country": "Slovenia", 
+        "percentile": 1
+      }, 
+      {
+        "country": "South Africa", 
+        "percentile": 1
+      }, 
+      {
+        "country": "Spain", 
+        "percentile": 1
+      }, 
+      {
+        "country": "Sri Lanka", 
+        "percentile": 1
+      }, 
+      {
+        "country": "Sweden", 
+        "percentile": 1
+      }, 
+      {
+        "country": "Switzerland", 
+        "percentile": 1
+      }, 
+      {
+        "country": "Taiwan", 
+        "percentile": 1
+      }, 
+      {
+        "country": "Thailand", 
+        "percentile": 2
+      }, 
+      {
+        "country": "Trinidad and Tobago", 
+        "percentile": 1
+      }, 
+      {
+        "country": "Tunisia", 
+        "percentile": 1
+      }, 
+      {
+        "country": "Turkey", 
+        "percentile": 1
+      }, 
+      {
+        "country": "Ukraine", 
+        "percentile": 1
+      }, 
+      {
+        "country": "United Arab Emirates", 
+        "percentile": 1
+      }, 
+      {
+        "country": "United Kingdom", 
+        "percentile": 2
+      }, 
+      {
+        "country": "Uruguay", 
+        "percentile": 1
+      }, 
+      {
+        "country": "USA", 
+        "percentile": 1
+      }, 
+      {
+        "country": "Venezuela", 
+        "percentile": 1
+      }, 
+      {
+        "country": "Vietnam", 
+        "percentile": 1
+      }
+    ], 
+    "time": "2013-12"
   }, 
   {
     "data": [
@@ -26837,6 +29037,411 @@
       }
     ], 
     "time": "2014-11"
+  }, 
+  {
+    "data": [
+      {
+        "country": "Afghanistan", 
+        "percentile": 1
+      }, 
+      {
+        "country": "Albania", 
+        "percentile": 1
+      }, 
+      {
+        "country": "Algeria", 
+        "percentile": 1
+      }, 
+      {
+        "country": "Andorra", 
+        "percentile": 1
+      }, 
+      {
+        "country": "Argentina", 
+        "percentile": 1
+      }, 
+      {
+        "country": "Armenia", 
+        "percentile": 1
+      }, 
+      {
+        "country": "Australia", 
+        "percentile": 2
+      }, 
+      {
+        "country": "Austria", 
+        "percentile": 1
+      }, 
+      {
+        "country": "Azerbaijan", 
+        "percentile": 1
+      }, 
+      {
+        "country": "Bangladesh", 
+        "percentile": 1
+      }, 
+      {
+        "country": "Belarus", 
+        "percentile": 1
+      }, 
+      {
+        "country": "Belgium", 
+        "percentile": 1
+      }, 
+      {
+        "country": "Belize", 
+        "percentile": 100
+      }, 
+      {
+        "country": "Bolivia", 
+        "percentile": 1
+      }, 
+      {
+        "country": "Bosnia and Herzegovina", 
+        "percentile": 1
+      }, 
+      {
+        "country": "Brazil", 
+        "percentile": 1
+      }, 
+      {
+        "country": "Bulgaria", 
+        "percentile": 1
+      }, 
+      {
+        "country": "Canada", 
+        "percentile": 1
+      }, 
+      {
+        "country": "Chile", 
+        "percentile": 1
+      }, 
+      {
+        "country": "China", 
+        "percentile": 1
+      }, 
+      {
+        "country": "Colombia", 
+        "percentile": 1
+      }, 
+      {
+        "country": "Costa Rica", 
+        "percentile": 1
+      }, 
+      {
+        "country": "Croatia", 
+        "percentile": 1
+      }, 
+      {
+        "country": "Cuba", 
+        "percentile": 1
+      }, 
+      {
+        "country": "Cyprus", 
+        "percentile": 1
+      }, 
+      {
+        "country": "Czech Republic", 
+        "percentile": 1
+      }, 
+      {
+        "country": "Denmark", 
+        "percentile": 1
+      }, 
+      {
+        "country": "Dominican Republic", 
+        "percentile": 1
+      }, 
+      {
+        "country": "Egypt", 
+        "percentile": 1
+      }, 
+      {
+        "country": "El Salvador", 
+        "percentile": 1
+      }, 
+      {
+        "country": "Estonia", 
+        "percentile": 1
+      }, 
+      {
+        "country": "Finland", 
+        "percentile": 1
+      }, 
+      {
+        "country": "France", 
+        "percentile": 1
+      }, 
+      {
+        "country": "Georgia", 
+        "percentile": 1
+      }, 
+      {
+        "country": "Germany", 
+        "percentile": 1
+      }, 
+      {
+        "country": "Greece", 
+        "percentile": 1
+      }, 
+      {
+        "country": "Guatemala", 
+        "percentile": 1
+      }, 
+      {
+        "country": "Hong Kong", 
+        "percentile": 1
+      }, 
+      {
+        "country": "Hungary", 
+        "percentile": 1
+      }, 
+      {
+        "country": "Iceland", 
+        "percentile": 1
+      }, 
+      {
+        "country": "India", 
+        "percentile": 1
+      }, 
+      {
+        "country": "Indonesia", 
+        "percentile": 1
+      }, 
+      {
+        "country": "Iran", 
+        "percentile": 1
+      }, 
+      {
+        "country": "Ireland", 
+        "percentile": 1
+      }, 
+      {
+        "country": "Israel", 
+        "percentile": 1
+      }, 
+      {
+        "country": "Italy", 
+        "percentile": 1
+      }, 
+      {
+        "country": "Japan", 
+        "percentile": 1
+      }, 
+      {
+        "country": "Jordan", 
+        "percentile": 1
+      }, 
+      {
+        "country": "Kazakhstan", 
+        "percentile": 1
+      }, 
+      {
+        "country": "Korea", 
+        "percentile": 2
+      }, 
+      {
+        "country": "Kosovo", 
+        "percentile": 1
+      }, 
+      {
+        "country": "Latvia", 
+        "percentile": 1
+      }, 
+      {
+        "country": "Lebanon", 
+        "percentile": 1
+      }, 
+      {
+        "country": "Lithuania", 
+        "percentile": 1
+      }, 
+      {
+        "country": "Luxembourg", 
+        "percentile": 1
+      }, 
+      {
+        "country": "Macau", 
+        "percentile": 1
+      }, 
+      {
+        "country": "Macedonia", 
+        "percentile": 1
+      }, 
+      {
+        "country": "Malaysia", 
+        "percentile": 2
+      }, 
+      {
+        "country": "Mexico", 
+        "percentile": 1
+      }, 
+      {
+        "country": "Moldova", 
+        "percentile": 1
+      }, 
+      {
+        "country": "Mongolia", 
+        "percentile": 1
+      }, 
+      {
+        "country": "Montenegro", 
+        "percentile": 1
+      }, 
+      {
+        "country": "Morocco", 
+        "percentile": 1
+      }, 
+      {
+        "country": "Netherlands", 
+        "percentile": 1
+      }, 
+      {
+        "country": "New Zealand", 
+        "percentile": 1
+      }, 
+      {
+        "country": "Nigeria", 
+        "percentile": 1
+      }, 
+      {
+        "country": "Norway", 
+        "percentile": 1
+      }, 
+      {
+        "country": "Pakistan", 
+        "percentile": 1
+      }, 
+      {
+        "country": "Paraguay", 
+        "percentile": 1
+      }, 
+      {
+        "country": "Peru", 
+        "percentile": 1
+      }, 
+      {
+        "country": "Philippines", 
+        "percentile": 1
+      }, 
+      {
+        "country": "Poland", 
+        "percentile": 1
+      }, 
+      {
+        "country": "Portugal", 
+        "percentile": 1
+      }, 
+      {
+        "country": "Romania", 
+        "percentile": 1
+      }, 
+      {
+        "country": "Russia", 
+        "percentile": 2
+      }, 
+      {
+        "country": "Saudi Arabia", 
+        "percentile": 1
+      }, 
+      {
+        "country": "Senegal", 
+        "percentile": 1
+      }, 
+      {
+        "country": "Serbia", 
+        "percentile": 1
+      }, 
+      {
+        "country": "Singapore", 
+        "percentile": 1
+      }, 
+      {
+        "country": "Slovakia", 
+        "percentile": 1
+      }, 
+      {
+        "country": "Slovenia", 
+        "percentile": 1
+      }, 
+      {
+        "country": "South Africa", 
+        "percentile": 1
+      }, 
+      {
+        "country": "Spain", 
+        "percentile": 1
+      }, 
+      {
+        "country": "Sri Lanka", 
+        "percentile": 1
+      }, 
+      {
+        "country": "Sweden", 
+        "percentile": 1
+      }, 
+      {
+        "country": "Switzerland", 
+        "percentile": 1
+      }, 
+      {
+        "country": "Taiwan", 
+        "percentile": 1
+      }, 
+      {
+        "country": "Thailand", 
+        "percentile": 2
+      }, 
+      {
+        "country": "Trinidad and Tobago", 
+        "percentile": 1
+      }, 
+      {
+        "country": "Tunisia", 
+        "percentile": 1
+      }, 
+      {
+        "country": "Turkey", 
+        "percentile": 1
+      }, 
+      {
+        "country": "Ukraine", 
+        "percentile": 1
+      }, 
+      {
+        "country": "United Arab Emirates", 
+        "percentile": 1
+      }, 
+      {
+        "country": "United Kingdom", 
+        "percentile": 1
+      }, 
+      {
+        "country": "Uruguay", 
+        "percentile": 1
+      }, 
+      {
+        "country": "USA", 
+        "percentile": 1
+      }, 
+      {
+        "country": "Venezuela", 
+        "percentile": 1
+      }, 
+      {
+        "country": "Vietnam", 
+        "percentile": 1
+      }, 
+      {
+        "country": "Zambia", 
+        "percentile": 1
+      }, 
+      {
+        "country": "Zimbabwe", 
+        "percentile": 1
+      }
+    ], 
+    "time": "2014-12"
   }, 
   {
     "data": [
@@ -31460,6 +34065,443 @@
       }
     ], 
     "time": "2015-11"
+  }, 
+  {
+    "data": [
+      {
+        "country": "Afghanistan", 
+        "percentile": 1
+      }, 
+      {
+        "country": "Albania", 
+        "percentile": 1
+      }, 
+      {
+        "country": "Algeria", 
+        "percentile": 1
+      }, 
+      {
+        "country": "Andorra", 
+        "percentile": 1
+      }, 
+      {
+        "country": "Angola", 
+        "percentile": 1
+      }, 
+      {
+        "country": "Argentina", 
+        "percentile": 1
+      }, 
+      {
+        "country": "Armenia", 
+        "percentile": 1
+      }, 
+      {
+        "country": "Australia", 
+        "percentile": 1
+      }, 
+      {
+        "country": "Austria", 
+        "percentile": 1
+      }, 
+      {
+        "country": "Azerbaijan", 
+        "percentile": 1
+      }, 
+      {
+        "country": "Bangladesh", 
+        "percentile": 1
+      }, 
+      {
+        "country": "Belarus", 
+        "percentile": 1
+      }, 
+      {
+        "country": "Belgium", 
+        "percentile": 1
+      }, 
+      {
+        "country": "Belize", 
+        "percentile": 100
+      }, 
+      {
+        "country": "Bolivia", 
+        "percentile": 1
+      }, 
+      {
+        "country": "Bosnia and Herzegovina", 
+        "percentile": 1
+      }, 
+      {
+        "country": "Brazil", 
+        "percentile": 1
+      }, 
+      {
+        "country": "Bulgaria", 
+        "percentile": 1
+      }, 
+      {
+        "country": "Canada", 
+        "percentile": 1
+      }, 
+      {
+        "country": "Chile", 
+        "percentile": 1
+      }, 
+      {
+        "country": "China", 
+        "percentile": 1
+      }, 
+      {
+        "country": "Colombia", 
+        "percentile": 1
+      }, 
+      {
+        "country": "Costa Rica", 
+        "percentile": 1
+      }, 
+      {
+        "country": "Croatia", 
+        "percentile": 1
+      }, 
+      {
+        "country": "Cuba", 
+        "percentile": 1
+      }, 
+      {
+        "country": "Cyprus", 
+        "percentile": 1
+      }, 
+      {
+        "country": "Czech Republic", 
+        "percentile": 1
+      }, 
+      {
+        "country": "Denmark", 
+        "percentile": 1
+      }, 
+      {
+        "country": "Dominican Republic", 
+        "percentile": 1
+      }, 
+      {
+        "country": "Ecuador", 
+        "percentile": 1
+      }, 
+      {
+        "country": "Egypt", 
+        "percentile": 1
+      }, 
+      {
+        "country": "El Salvador", 
+        "percentile": 1
+      }, 
+      {
+        "country": "Estonia", 
+        "percentile": 1
+      }, 
+      {
+        "country": "Finland", 
+        "percentile": 1
+      }, 
+      {
+        "country": "France", 
+        "percentile": 1
+      }, 
+      {
+        "country": "Georgia", 
+        "percentile": 1
+      }, 
+      {
+        "country": "Germany", 
+        "percentile": 2
+      }, 
+      {
+        "country": "Greece", 
+        "percentile": 2
+      }, 
+      {
+        "country": "Guatemala", 
+        "percentile": 1
+      }, 
+      {
+        "country": "Hong Kong", 
+        "percentile": 1
+      }, 
+      {
+        "country": "Hungary", 
+        "percentile": 1
+      }, 
+      {
+        "country": "Iceland", 
+        "percentile": 1
+      }, 
+      {
+        "country": "India", 
+        "percentile": 1
+      }, 
+      {
+        "country": "Indonesia", 
+        "percentile": 1
+      }, 
+      {
+        "country": "Iran", 
+        "percentile": 1
+      }, 
+      {
+        "country": "Ireland", 
+        "percentile": 4
+      }, 
+      {
+        "country": "Israel", 
+        "percentile": 1
+      }, 
+      {
+        "country": "Italy", 
+        "percentile": 1
+      }, 
+      {
+        "country": "Jamaica", 
+        "percentile": 1
+      }, 
+      {
+        "country": "Japan", 
+        "percentile": 2
+      }, 
+      {
+        "country": "Jordan", 
+        "percentile": 1
+      }, 
+      {
+        "country": "Kazakhstan", 
+        "percentile": 1
+      }, 
+      {
+        "country": "Korea", 
+        "percentile": 2
+      }, 
+      {
+        "country": "Kosovo", 
+        "percentile": 1
+      }, 
+      {
+        "country": "Latvia", 
+        "percentile": 1
+      }, 
+      {
+        "country": "Lebanon", 
+        "percentile": 1
+      }, 
+      {
+        "country": "Lithuania", 
+        "percentile": 1
+      }, 
+      {
+        "country": "Luxembourg", 
+        "percentile": 1
+      }, 
+      {
+        "country": "Macau", 
+        "percentile": 1
+      }, 
+      {
+        "country": "Macedonia", 
+        "percentile": 1
+      }, 
+      {
+        "country": "Malawi", 
+        "percentile": 1
+      }, 
+      {
+        "country": "Malaysia", 
+        "percentile": 2
+      }, 
+      {
+        "country": "Mexico", 
+        "percentile": 1
+      }, 
+      {
+        "country": "Moldova", 
+        "percentile": 1
+      }, 
+      {
+        "country": "Monaco", 
+        "percentile": 1
+      }, 
+      {
+        "country": "Mongolia", 
+        "percentile": 1
+      }, 
+      {
+        "country": "Montenegro", 
+        "percentile": 1
+      }, 
+      {
+        "country": "Morocco", 
+        "percentile": 1
+      }, 
+      {
+        "country": "Netherlands", 
+        "percentile": 1
+      }, 
+      {
+        "country": "New Zealand", 
+        "percentile": 1
+      }, 
+      {
+        "country": "Nicaragua", 
+        "percentile": 1
+      }, 
+      {
+        "country": "Nigeria", 
+        "percentile": 1
+      }, 
+      {
+        "country": "Norway", 
+        "percentile": 1
+      }, 
+      {
+        "country": "Pakistan", 
+        "percentile": 1
+      }, 
+      {
+        "country": "Palestine", 
+        "percentile": 1
+      }, 
+      {
+        "country": "Paraguay", 
+        "percentile": 1
+      }, 
+      {
+        "country": "Peru", 
+        "percentile": 1
+      }, 
+      {
+        "country": "Philippines", 
+        "percentile": 1
+      }, 
+      {
+        "country": "Poland", 
+        "percentile": 1
+      }, 
+      {
+        "country": "Portugal", 
+        "percentile": 1
+      }, 
+      {
+        "country": "Romania", 
+        "percentile": 1
+      }, 
+      {
+        "country": "Russia", 
+        "percentile": 2
+      }, 
+      {
+        "country": "Saudi Arabia", 
+        "percentile": 1
+      }, 
+      {
+        "country": "Senegal", 
+        "percentile": 1
+      }, 
+      {
+        "country": "Serbia", 
+        "percentile": 1
+      }, 
+      {
+        "country": "Singapore", 
+        "percentile": 1
+      }, 
+      {
+        "country": "Slovakia", 
+        "percentile": 1
+      }, 
+      {
+        "country": "Slovenia", 
+        "percentile": 3
+      }, 
+      {
+        "country": "South Africa", 
+        "percentile": 1
+      }, 
+      {
+        "country": "Spain", 
+        "percentile": 1
+      }, 
+      {
+        "country": "Sri Lanka", 
+        "percentile": 1
+      }, 
+      {
+        "country": "Sudan", 
+        "percentile": 1
+      }, 
+      {
+        "country": "Sweden", 
+        "percentile": 1
+      }, 
+      {
+        "country": "Switzerland", 
+        "percentile": 1
+      }, 
+      {
+        "country": "Taiwan", 
+        "percentile": 1
+      }, 
+      {
+        "country": "Thailand", 
+        "percentile": 2
+      }, 
+      {
+        "country": "Trinidad and Tobago", 
+        "percentile": 1
+      }, 
+      {
+        "country": "Tunisia", 
+        "percentile": 1
+      }, 
+      {
+        "country": "Turkey", 
+        "percentile": 1
+      }, 
+      {
+        "country": "Ukraine", 
+        "percentile": 1
+      }, 
+      {
+        "country": "United Arab Emirates", 
+        "percentile": 1
+      }, 
+      {
+        "country": "United Kingdom", 
+        "percentile": 2
+      }, 
+      {
+        "country": "Uruguay", 
+        "percentile": 1
+      }, 
+      {
+        "country": "USA", 
+        "percentile": 1
+      }, 
+      {
+        "country": "Venezuela", 
+        "percentile": 1
+      }, 
+      {
+        "country": "Vietnam", 
+        "percentile": 1
+      }, 
+      {
+        "country": "Zambia", 
+        "percentile": 1
+      }, 
+      {
+        "country": "Zimbabwe", 
+        "percentile": 1
+      }
+    ], 
+    "time": "2015-12"
   }, 
   {
     "data": [
@@ -36507,5 +39549,6498 @@
       }
     ], 
     "time": "2016-11"
+  }, 
+  {
+    "data": [
+      {
+        "country": "Afghanistan", 
+        "percentile": 1
+      }, 
+      {
+        "country": "Albania", 
+        "percentile": 1
+      }, 
+      {
+        "country": "Algeria", 
+        "percentile": 1
+      }, 
+      {
+        "country": "Andorra", 
+        "percentile": 1
+      }, 
+      {
+        "country": "Angola", 
+        "percentile": 1
+      }, 
+      {
+        "country": "Argentina", 
+        "percentile": 1
+      }, 
+      {
+        "country": "Armenia", 
+        "percentile": 1
+      }, 
+      {
+        "country": "Australia", 
+        "percentile": 1
+      }, 
+      {
+        "country": "Austria", 
+        "percentile": 1
+      }, 
+      {
+        "country": "Azerbaijan", 
+        "percentile": 1
+      }, 
+      {
+        "country": "Bangladesh", 
+        "percentile": 1
+      }, 
+      {
+        "country": "Belarus", 
+        "percentile": 1
+      }, 
+      {
+        "country": "Belgium", 
+        "percentile": 1
+      }, 
+      {
+        "country": "Belize", 
+        "percentile": 100
+      }, 
+      {
+        "country": "Bolivia", 
+        "percentile": 1
+      }, 
+      {
+        "country": "Bosnia and Herzegovina", 
+        "percentile": 1
+      }, 
+      {
+        "country": "Brazil", 
+        "percentile": 1
+      }, 
+      {
+        "country": "Bulgaria", 
+        "percentile": 1
+      }, 
+      {
+        "country": "Canada", 
+        "percentile": 1
+      }, 
+      {
+        "country": "Chile", 
+        "percentile": 1
+      }, 
+      {
+        "country": "China", 
+        "percentile": 1
+      }, 
+      {
+        "country": "Colombia", 
+        "percentile": 1
+      }, 
+      {
+        "country": "Costa Rica", 
+        "percentile": 1
+      }, 
+      {
+        "country": "Cote d_Ivoire", 
+        "percentile": 1
+      }, 
+      {
+        "country": "Croatia", 
+        "percentile": 1
+      }, 
+      {
+        "country": "Cuba", 
+        "percentile": 1
+      }, 
+      {
+        "country": "Cyprus", 
+        "percentile": 1
+      }, 
+      {
+        "country": "Czech Republic", 
+        "percentile": 1
+      }, 
+      {
+        "country": "Denmark", 
+        "percentile": 1
+      }, 
+      {
+        "country": "Dominican Republic", 
+        "percentile": 1
+      }, 
+      {
+        "country": "Ecuador", 
+        "percentile": 1
+      }, 
+      {
+        "country": "Egypt", 
+        "percentile": 1
+      }, 
+      {
+        "country": "El Salvador", 
+        "percentile": 1
+      }, 
+      {
+        "country": "Estonia", 
+        "percentile": 1
+      }, 
+      {
+        "country": "Finland", 
+        "percentile": 1
+      }, 
+      {
+        "country": "France", 
+        "percentile": 1
+      }, 
+      {
+        "country": "Georgia", 
+        "percentile": 1
+      }, 
+      {
+        "country": "Germany", 
+        "percentile": 1
+      }, 
+      {
+        "country": "Greece", 
+        "percentile": 1
+      }, 
+      {
+        "country": "Guatemala", 
+        "percentile": 1
+      }, 
+      {
+        "country": "Haiti", 
+        "percentile": 1
+      }, 
+      {
+        "country": "Honduras", 
+        "percentile": 1
+      }, 
+      {
+        "country": "Hong Kong", 
+        "percentile": 1
+      }, 
+      {
+        "country": "Hungary", 
+        "percentile": 1
+      }, 
+      {
+        "country": "Iceland", 
+        "percentile": 1
+      }, 
+      {
+        "country": "India", 
+        "percentile": 1
+      }, 
+      {
+        "country": "Indonesia", 
+        "percentile": 1
+      }, 
+      {
+        "country": "Iran", 
+        "percentile": 1
+      }, 
+      {
+        "country": "Ireland", 
+        "percentile": 1
+      }, 
+      {
+        "country": "Israel", 
+        "percentile": 1
+      }, 
+      {
+        "country": "Italy", 
+        "percentile": 1
+      }, 
+      {
+        "country": "Jamaica", 
+        "percentile": 1
+      }, 
+      {
+        "country": "Japan", 
+        "percentile": 1
+      }, 
+      {
+        "country": "Jordan", 
+        "percentile": 1
+      }, 
+      {
+        "country": "Kazakhstan", 
+        "percentile": 1
+      }, 
+      {
+        "country": "Korea", 
+        "percentile": 1
+      }, 
+      {
+        "country": "Kosovo", 
+        "percentile": 1
+      }, 
+      {
+        "country": "Latvia", 
+        "percentile": 1
+      }, 
+      {
+        "country": "Lebanon", 
+        "percentile": 1
+      }, 
+      {
+        "country": "Liechtenstein", 
+        "percentile": 1
+      }, 
+      {
+        "country": "Lithuania", 
+        "percentile": 1
+      }, 
+      {
+        "country": "Luxembourg", 
+        "percentile": 1
+      }, 
+      {
+        "country": "Macau", 
+        "percentile": 1
+      }, 
+      {
+        "country": "Macedonia", 
+        "percentile": 1
+      }, 
+      {
+        "country": "Malawi", 
+        "percentile": 1
+      }, 
+      {
+        "country": "Malaysia", 
+        "percentile": 1
+      }, 
+      {
+        "country": "Mauritius", 
+        "percentile": 1
+      }, 
+      {
+        "country": "Mexico", 
+        "percentile": 1
+      }, 
+      {
+        "country": "Moldova", 
+        "percentile": 1
+      }, 
+      {
+        "country": "Monaco", 
+        "percentile": 1
+      }, 
+      {
+        "country": "Mongolia", 
+        "percentile": 1
+      }, 
+      {
+        "country": "Montenegro", 
+        "percentile": 1
+      }, 
+      {
+        "country": "Morocco", 
+        "percentile": 1
+      }, 
+      {
+        "country": "Namibia", 
+        "percentile": 1
+      }, 
+      {
+        "country": "Nepal", 
+        "percentile": 1
+      }, 
+      {
+        "country": "Netherlands", 
+        "percentile": 1
+      }, 
+      {
+        "country": "New Zealand", 
+        "percentile": 1
+      }, 
+      {
+        "country": "Nicaragua", 
+        "percentile": 1
+      }, 
+      {
+        "country": "Nigeria", 
+        "percentile": 1
+      }, 
+      {
+        "country": "Norway", 
+        "percentile": 1
+      }, 
+      {
+        "country": "Pakistan", 
+        "percentile": 1
+      }, 
+      {
+        "country": "Palestine", 
+        "percentile": 1
+      }, 
+      {
+        "country": "Paraguay", 
+        "percentile": 1
+      }, 
+      {
+        "country": "Peru", 
+        "percentile": 1
+      }, 
+      {
+        "country": "Philippines", 
+        "percentile": 1
+      }, 
+      {
+        "country": "Poland", 
+        "percentile": 1
+      }, 
+      {
+        "country": "Portugal", 
+        "percentile": 1
+      }, 
+      {
+        "country": "Romania", 
+        "percentile": 1
+      }, 
+      {
+        "country": "Russia", 
+        "percentile": 1
+      }, 
+      {
+        "country": "Saudi Arabia", 
+        "percentile": 1
+      }, 
+      {
+        "country": "Senegal", 
+        "percentile": 1
+      }, 
+      {
+        "country": "Serbia", 
+        "percentile": 1
+      }, 
+      {
+        "country": "Singapore", 
+        "percentile": 1
+      }, 
+      {
+        "country": "Slovakia", 
+        "percentile": 1
+      }, 
+      {
+        "country": "Slovenia", 
+        "percentile": 2
+      }, 
+      {
+        "country": "South Africa", 
+        "percentile": 1
+      }, 
+      {
+        "country": "Spain", 
+        "percentile": 1
+      }, 
+      {
+        "country": "Sri Lanka", 
+        "percentile": 1
+      }, 
+      {
+        "country": "Sudan", 
+        "percentile": 1
+      }, 
+      {
+        "country": "Suriname", 
+        "percentile": 1
+      }, 
+      {
+        "country": "Sweden", 
+        "percentile": 1
+      }, 
+      {
+        "country": "Switzerland", 
+        "percentile": 1
+      }, 
+      {
+        "country": "Syria", 
+        "percentile": 1
+      }, 
+      {
+        "country": "Taiwan", 
+        "percentile": 1
+      }, 
+      {
+        "country": "Thailand", 
+        "percentile": 2
+      }, 
+      {
+        "country": "Trinidad and Tobago", 
+        "percentile": 1
+      }, 
+      {
+        "country": "Tunisia", 
+        "percentile": 1
+      }, 
+      {
+        "country": "Turkey", 
+        "percentile": 1
+      }, 
+      {
+        "country": "Ukraine", 
+        "percentile": 1
+      }, 
+      {
+        "country": "United Arab Emirates", 
+        "percentile": 1
+      }, 
+      {
+        "country": "United Kingdom", 
+        "percentile": 1
+      }, 
+      {
+        "country": "Uruguay", 
+        "percentile": 1
+      }, 
+      {
+        "country": "USA", 
+        "percentile": 1
+      }, 
+      {
+        "country": "Uzbekistan", 
+        "percentile": 1
+      }, 
+      {
+        "country": "Venezuela", 
+        "percentile": 1
+      }, 
+      {
+        "country": "Vietnam", 
+        "percentile": 1
+      }, 
+      {
+        "country": "Zambia", 
+        "percentile": 1
+      }, 
+      {
+        "country": "Zimbabwe", 
+        "percentile": 1
+      }
+    ], 
+    "time": "2016-12"
+  }, 
+  {
+    "data": [
+      {
+        "country": "Afghanistan", 
+        "percentile": 1
+      }, 
+      {
+        "country": "Albania", 
+        "percentile": 1
+      }, 
+      {
+        "country": "Algeria", 
+        "percentile": 1
+      }, 
+      {
+        "country": "Andorra", 
+        "percentile": 1
+      }, 
+      {
+        "country": "Angola", 
+        "percentile": 1
+      }, 
+      {
+        "country": "Argentina", 
+        "percentile": 1
+      }, 
+      {
+        "country": "Armenia", 
+        "percentile": 1
+      }, 
+      {
+        "country": "Australia", 
+        "percentile": 1
+      }, 
+      {
+        "country": "Austria", 
+        "percentile": 1
+      }, 
+      {
+        "country": "Azerbaijan", 
+        "percentile": 1
+      }, 
+      {
+        "country": "Bahrain", 
+        "percentile": 1
+      }, 
+      {
+        "country": "Bangladesh", 
+        "percentile": 1
+      }, 
+      {
+        "country": "Belarus", 
+        "percentile": 1
+      }, 
+      {
+        "country": "Belgium", 
+        "percentile": 1
+      }, 
+      {
+        "country": "Belize", 
+        "percentile": 100
+      }, 
+      {
+        "country": "Bolivia", 
+        "percentile": 1
+      }, 
+      {
+        "country": "Bosnia and Herzegovina", 
+        "percentile": 1
+      }, 
+      {
+        "country": "Brazil", 
+        "percentile": 1
+      }, 
+      {
+        "country": "Bulgaria", 
+        "percentile": 1
+      }, 
+      {
+        "country": "Canada", 
+        "percentile": 1
+      }, 
+      {
+        "country": "Chile", 
+        "percentile": 1
+      }, 
+      {
+        "country": "China", 
+        "percentile": 1
+      }, 
+      {
+        "country": "Colombia", 
+        "percentile": 1
+      }, 
+      {
+        "country": "Costa Rica", 
+        "percentile": 1
+      }, 
+      {
+        "country": "Cote d_Ivoire", 
+        "percentile": 1
+      }, 
+      {
+        "country": "Croatia", 
+        "percentile": 1
+      }, 
+      {
+        "country": "Cuba", 
+        "percentile": 1
+      }, 
+      {
+        "country": "Cyprus", 
+        "percentile": 1
+      }, 
+      {
+        "country": "Czech Republic", 
+        "percentile": 1
+      }, 
+      {
+        "country": "Denmark", 
+        "percentile": 1
+      }, 
+      {
+        "country": "Dominican Republic", 
+        "percentile": 1
+      }, 
+      {
+        "country": "Ecuador", 
+        "percentile": 1
+      }, 
+      {
+        "country": "Egypt", 
+        "percentile": 1
+      }, 
+      {
+        "country": "El Salvador", 
+        "percentile": 1
+      }, 
+      {
+        "country": "Estonia", 
+        "percentile": 1
+      }, 
+      {
+        "country": "Finland", 
+        "percentile": 1
+      }, 
+      {
+        "country": "France", 
+        "percentile": 1
+      }, 
+      {
+        "country": "Georgia", 
+        "percentile": 1
+      }, 
+      {
+        "country": "Germany", 
+        "percentile": 1
+      }, 
+      {
+        "country": "Greece", 
+        "percentile": 1
+      }, 
+      {
+        "country": "Guatemala", 
+        "percentile": 1
+      }, 
+      {
+        "country": "Haiti", 
+        "percentile": 1
+      }, 
+      {
+        "country": "Honduras", 
+        "percentile": 1
+      }, 
+      {
+        "country": "Hong Kong", 
+        "percentile": 1
+      }, 
+      {
+        "country": "Hungary", 
+        "percentile": 1
+      }, 
+      {
+        "country": "Iceland", 
+        "percentile": 1
+      }, 
+      {
+        "country": "India", 
+        "percentile": 1
+      }, 
+      {
+        "country": "Indonesia", 
+        "percentile": 1
+      }, 
+      {
+        "country": "Iran", 
+        "percentile": 1
+      }, 
+      {
+        "country": "Ireland", 
+        "percentile": 1
+      }, 
+      {
+        "country": "Israel", 
+        "percentile": 1
+      }, 
+      {
+        "country": "Italy", 
+        "percentile": 1
+      }, 
+      {
+        "country": "Jamaica", 
+        "percentile": 1
+      }, 
+      {
+        "country": "Japan", 
+        "percentile": 1
+      }, 
+      {
+        "country": "Jordan", 
+        "percentile": 1
+      }, 
+      {
+        "country": "Kazakhstan", 
+        "percentile": 1
+      }, 
+      {
+        "country": "Korea", 
+        "percentile": 1
+      }, 
+      {
+        "country": "Kosovo", 
+        "percentile": 1
+      }, 
+      {
+        "country": "Latvia", 
+        "percentile": 1
+      }, 
+      {
+        "country": "Lebanon", 
+        "percentile": 1
+      }, 
+      {
+        "country": "Liechtenstein", 
+        "percentile": 1
+      }, 
+      {
+        "country": "Lithuania", 
+        "percentile": 1
+      }, 
+      {
+        "country": "Luxembourg", 
+        "percentile": 1
+      }, 
+      {
+        "country": "Macau", 
+        "percentile": 1
+      }, 
+      {
+        "country": "Macedonia", 
+        "percentile": 1
+      }, 
+      {
+        "country": "Malawi", 
+        "percentile": 1
+      }, 
+      {
+        "country": "Malaysia", 
+        "percentile": 1
+      }, 
+      {
+        "country": "Mauritius", 
+        "percentile": 1
+      }, 
+      {
+        "country": "Mexico", 
+        "percentile": 1
+      }, 
+      {
+        "country": "Moldova", 
+        "percentile": 1
+      }, 
+      {
+        "country": "Monaco", 
+        "percentile": 1
+      }, 
+      {
+        "country": "Mongolia", 
+        "percentile": 1
+      }, 
+      {
+        "country": "Montenegro", 
+        "percentile": 1
+      }, 
+      {
+        "country": "Morocco", 
+        "percentile": 1
+      }, 
+      {
+        "country": "Namibia", 
+        "percentile": 1
+      }, 
+      {
+        "country": "Nepal", 
+        "percentile": 1
+      }, 
+      {
+        "country": "Netherlands", 
+        "percentile": 1
+      }, 
+      {
+        "country": "New Zealand", 
+        "percentile": 1
+      }, 
+      {
+        "country": "Nicaragua", 
+        "percentile": 1
+      }, 
+      {
+        "country": "Nigeria", 
+        "percentile": 1
+      }, 
+      {
+        "country": "Norway", 
+        "percentile": 1
+      }, 
+      {
+        "country": "Pakistan", 
+        "percentile": 1
+      }, 
+      {
+        "country": "Palestine", 
+        "percentile": 1
+      }, 
+      {
+        "country": "Paraguay", 
+        "percentile": 1
+      }, 
+      {
+        "country": "Peru", 
+        "percentile": 1
+      }, 
+      {
+        "country": "Philippines", 
+        "percentile": 1
+      }, 
+      {
+        "country": "Poland", 
+        "percentile": 1
+      }, 
+      {
+        "country": "Portugal", 
+        "percentile": 1
+      }, 
+      {
+        "country": "Romania", 
+        "percentile": 1
+      }, 
+      {
+        "country": "Russia", 
+        "percentile": 1
+      }, 
+      {
+        "country": "Saudi Arabia", 
+        "percentile": 1
+      }, 
+      {
+        "country": "Senegal", 
+        "percentile": 1
+      }, 
+      {
+        "country": "Serbia", 
+        "percentile": 1
+      }, 
+      {
+        "country": "Singapore", 
+        "percentile": 1
+      }, 
+      {
+        "country": "Slovakia", 
+        "percentile": 1
+      }, 
+      {
+        "country": "Slovenia", 
+        "percentile": 2
+      }, 
+      {
+        "country": "South Africa", 
+        "percentile": 1
+      }, 
+      {
+        "country": "Spain", 
+        "percentile": 1
+      }, 
+      {
+        "country": "Sri Lanka", 
+        "percentile": 1
+      }, 
+      {
+        "country": "Sudan", 
+        "percentile": 1
+      }, 
+      {
+        "country": "Suriname", 
+        "percentile": 1
+      }, 
+      {
+        "country": "Sweden", 
+        "percentile": 1
+      }, 
+      {
+        "country": "Switzerland", 
+        "percentile": 1
+      }, 
+      {
+        "country": "Syria", 
+        "percentile": 1
+      }, 
+      {
+        "country": "Taiwan", 
+        "percentile": 1
+      }, 
+      {
+        "country": "Thailand", 
+        "percentile": 2
+      }, 
+      {
+        "country": "Trinidad and Tobago", 
+        "percentile": 1
+      }, 
+      {
+        "country": "Tunisia", 
+        "percentile": 1
+      }, 
+      {
+        "country": "Turkey", 
+        "percentile": 1
+      }, 
+      {
+        "country": "Ukraine", 
+        "percentile": 1
+      }, 
+      {
+        "country": "United Arab Emirates", 
+        "percentile": 1
+      }, 
+      {
+        "country": "United Kingdom", 
+        "percentile": 1
+      }, 
+      {
+        "country": "Uruguay", 
+        "percentile": 1
+      }, 
+      {
+        "country": "USA", 
+        "percentile": 1
+      }, 
+      {
+        "country": "Uzbekistan", 
+        "percentile": 1
+      }, 
+      {
+        "country": "Venezuela", 
+        "percentile": 1
+      }, 
+      {
+        "country": "Vietnam", 
+        "percentile": 1
+      }, 
+      {
+        "country": "Zambia", 
+        "percentile": 1
+      }, 
+      {
+        "country": "Zimbabwe", 
+        "percentile": 1
+      }
+    ], 
+    "time": "2017-01"
+  }, 
+  {
+    "data": [
+      {
+        "country": "Afghanistan", 
+        "percentile": 1
+      }, 
+      {
+        "country": "Albania", 
+        "percentile": 1
+      }, 
+      {
+        "country": "Algeria", 
+        "percentile": 1
+      }, 
+      {
+        "country": "Andorra", 
+        "percentile": 1
+      }, 
+      {
+        "country": "Angola", 
+        "percentile": 1
+      }, 
+      {
+        "country": "Argentina", 
+        "percentile": 1
+      }, 
+      {
+        "country": "Armenia", 
+        "percentile": 1
+      }, 
+      {
+        "country": "Australia", 
+        "percentile": 1
+      }, 
+      {
+        "country": "Austria", 
+        "percentile": 1
+      }, 
+      {
+        "country": "Azerbaijan", 
+        "percentile": 1
+      }, 
+      {
+        "country": "Bahrain", 
+        "percentile": 1
+      }, 
+      {
+        "country": "Bangladesh", 
+        "percentile": 1
+      }, 
+      {
+        "country": "Belarus", 
+        "percentile": 1
+      }, 
+      {
+        "country": "Belgium", 
+        "percentile": 1
+      }, 
+      {
+        "country": "Belize", 
+        "percentile": 100
+      }, 
+      {
+        "country": "Bolivia", 
+        "percentile": 1
+      }, 
+      {
+        "country": "Bosnia and Herzegovina", 
+        "percentile": 1
+      }, 
+      {
+        "country": "Brazil", 
+        "percentile": 1
+      }, 
+      {
+        "country": "Bulgaria", 
+        "percentile": 1
+      }, 
+      {
+        "country": "Canada", 
+        "percentile": 1
+      }, 
+      {
+        "country": "Chile", 
+        "percentile": 1
+      }, 
+      {
+        "country": "China", 
+        "percentile": 1
+      }, 
+      {
+        "country": "Colombia", 
+        "percentile": 1
+      }, 
+      {
+        "country": "Costa Rica", 
+        "percentile": 1
+      }, 
+      {
+        "country": "Cote d_Ivoire", 
+        "percentile": 1
+      }, 
+      {
+        "country": "Croatia", 
+        "percentile": 1
+      }, 
+      {
+        "country": "Cuba", 
+        "percentile": 1
+      }, 
+      {
+        "country": "Cyprus", 
+        "percentile": 1
+      }, 
+      {
+        "country": "Czech Republic", 
+        "percentile": 1
+      }, 
+      {
+        "country": "Denmark", 
+        "percentile": 1
+      }, 
+      {
+        "country": "Dominican Republic", 
+        "percentile": 1
+      }, 
+      {
+        "country": "Ecuador", 
+        "percentile": 1
+      }, 
+      {
+        "country": "Egypt", 
+        "percentile": 1
+      }, 
+      {
+        "country": "El Salvador", 
+        "percentile": 1
+      }, 
+      {
+        "country": "Estonia", 
+        "percentile": 1
+      }, 
+      {
+        "country": "Finland", 
+        "percentile": 1
+      }, 
+      {
+        "country": "France", 
+        "percentile": 1
+      }, 
+      {
+        "country": "Georgia", 
+        "percentile": 1
+      }, 
+      {
+        "country": "Germany", 
+        "percentile": 1
+      }, 
+      {
+        "country": "Greece", 
+        "percentile": 1
+      }, 
+      {
+        "country": "Guatemala", 
+        "percentile": 1
+      }, 
+      {
+        "country": "Haiti", 
+        "percentile": 1
+      }, 
+      {
+        "country": "Honduras", 
+        "percentile": 1
+      }, 
+      {
+        "country": "Hong Kong", 
+        "percentile": 1
+      }, 
+      {
+        "country": "Hungary", 
+        "percentile": 1
+      }, 
+      {
+        "country": "Iceland", 
+        "percentile": 1
+      }, 
+      {
+        "country": "India", 
+        "percentile": 1
+      }, 
+      {
+        "country": "Indonesia", 
+        "percentile": 1
+      }, 
+      {
+        "country": "Iran", 
+        "percentile": 1
+      }, 
+      {
+        "country": "Ireland", 
+        "percentile": 1
+      }, 
+      {
+        "country": "Israel", 
+        "percentile": 1
+      }, 
+      {
+        "country": "Italy", 
+        "percentile": 1
+      }, 
+      {
+        "country": "Jamaica", 
+        "percentile": 1
+      }, 
+      {
+        "country": "Japan", 
+        "percentile": 1
+      }, 
+      {
+        "country": "Jordan", 
+        "percentile": 1
+      }, 
+      {
+        "country": "Kazakhstan", 
+        "percentile": 1
+      }, 
+      {
+        "country": "Korea", 
+        "percentile": 1
+      }, 
+      {
+        "country": "Kosovo", 
+        "percentile": 1
+      }, 
+      {
+        "country": "Kuwait", 
+        "percentile": 1
+      }, 
+      {
+        "country": "Latvia", 
+        "percentile": 1
+      }, 
+      {
+        "country": "Lebanon", 
+        "percentile": 1
+      }, 
+      {
+        "country": "Liechtenstein", 
+        "percentile": 1
+      }, 
+      {
+        "country": "Lithuania", 
+        "percentile": 1
+      }, 
+      {
+        "country": "Luxembourg", 
+        "percentile": 1
+      }, 
+      {
+        "country": "Macau", 
+        "percentile": 1
+      }, 
+      {
+        "country": "Macedonia", 
+        "percentile": 1
+      }, 
+      {
+        "country": "Malawi", 
+        "percentile": 1
+      }, 
+      {
+        "country": "Malaysia", 
+        "percentile": 1
+      }, 
+      {
+        "country": "Mauritius", 
+        "percentile": 1
+      }, 
+      {
+        "country": "Mexico", 
+        "percentile": 1
+      }, 
+      {
+        "country": "Moldova", 
+        "percentile": 1
+      }, 
+      {
+        "country": "Monaco", 
+        "percentile": 1
+      }, 
+      {
+        "country": "Mongolia", 
+        "percentile": 1
+      }, 
+      {
+        "country": "Montenegro", 
+        "percentile": 1
+      }, 
+      {
+        "country": "Morocco", 
+        "percentile": 1
+      }, 
+      {
+        "country": "Namibia", 
+        "percentile": 1
+      }, 
+      {
+        "country": "Nepal", 
+        "percentile": 1
+      }, 
+      {
+        "country": "Netherlands", 
+        "percentile": 1
+      }, 
+      {
+        "country": "New Zealand", 
+        "percentile": 1
+      }, 
+      {
+        "country": "Nicaragua", 
+        "percentile": 1
+      }, 
+      {
+        "country": "Nigeria", 
+        "percentile": 1
+      }, 
+      {
+        "country": "Norway", 
+        "percentile": 1
+      }, 
+      {
+        "country": "Pakistan", 
+        "percentile": 1
+      }, 
+      {
+        "country": "Palestine", 
+        "percentile": 1
+      }, 
+      {
+        "country": "Paraguay", 
+        "percentile": 1
+      }, 
+      {
+        "country": "Peru", 
+        "percentile": 1
+      }, 
+      {
+        "country": "Philippines", 
+        "percentile": 1
+      }, 
+      {
+        "country": "Poland", 
+        "percentile": 1
+      }, 
+      {
+        "country": "Portugal", 
+        "percentile": 1
+      }, 
+      {
+        "country": "Romania", 
+        "percentile": 1
+      }, 
+      {
+        "country": "Russia", 
+        "percentile": 1
+      }, 
+      {
+        "country": "Saudi Arabia", 
+        "percentile": 1
+      }, 
+      {
+        "country": "Senegal", 
+        "percentile": 1
+      }, 
+      {
+        "country": "Serbia", 
+        "percentile": 1
+      }, 
+      {
+        "country": "Singapore", 
+        "percentile": 1
+      }, 
+      {
+        "country": "Slovakia", 
+        "percentile": 1
+      }, 
+      {
+        "country": "Slovenia", 
+        "percentile": 2
+      }, 
+      {
+        "country": "South Africa", 
+        "percentile": 1
+      }, 
+      {
+        "country": "Spain", 
+        "percentile": 1
+      }, 
+      {
+        "country": "Sri Lanka", 
+        "percentile": 1
+      }, 
+      {
+        "country": "Sudan", 
+        "percentile": 1
+      }, 
+      {
+        "country": "Suriname", 
+        "percentile": 1
+      }, 
+      {
+        "country": "Sweden", 
+        "percentile": 1
+      }, 
+      {
+        "country": "Switzerland", 
+        "percentile": 1
+      }, 
+      {
+        "country": "Syria", 
+        "percentile": 1
+      }, 
+      {
+        "country": "Taiwan", 
+        "percentile": 1
+      }, 
+      {
+        "country": "Thailand", 
+        "percentile": 2
+      }, 
+      {
+        "country": "Trinidad and Tobago", 
+        "percentile": 1
+      }, 
+      {
+        "country": "Tunisia", 
+        "percentile": 1
+      }, 
+      {
+        "country": "Turkey", 
+        "percentile": 1
+      }, 
+      {
+        "country": "Ukraine", 
+        "percentile": 1
+      }, 
+      {
+        "country": "United Arab Emirates", 
+        "percentile": 1
+      }, 
+      {
+        "country": "United Kingdom", 
+        "percentile": 1
+      }, 
+      {
+        "country": "Uruguay", 
+        "percentile": 1
+      }, 
+      {
+        "country": "USA", 
+        "percentile": 1
+      }, 
+      {
+        "country": "Uzbekistan", 
+        "percentile": 1
+      }, 
+      {
+        "country": "Venezuela", 
+        "percentile": 1
+      }, 
+      {
+        "country": "Vietnam", 
+        "percentile": 1
+      }, 
+      {
+        "country": "Zambia", 
+        "percentile": 1
+      }, 
+      {
+        "country": "Zimbabwe", 
+        "percentile": 1
+      }
+    ], 
+    "time": "2017-02"
+  }, 
+  {
+    "data": [
+      {
+        "country": "Afghanistan", 
+        "percentile": 1
+      }, 
+      {
+        "country": "Albania", 
+        "percentile": 1
+      }, 
+      {
+        "country": "Algeria", 
+        "percentile": 1
+      }, 
+      {
+        "country": "Andorra", 
+        "percentile": 1
+      }, 
+      {
+        "country": "Angola", 
+        "percentile": 1
+      }, 
+      {
+        "country": "Argentina", 
+        "percentile": 1
+      }, 
+      {
+        "country": "Armenia", 
+        "percentile": 1
+      }, 
+      {
+        "country": "Australia", 
+        "percentile": 1
+      }, 
+      {
+        "country": "Austria", 
+        "percentile": 1
+      }, 
+      {
+        "country": "Azerbaijan", 
+        "percentile": 1
+      }, 
+      {
+        "country": "Bahrain", 
+        "percentile": 1
+      }, 
+      {
+        "country": "Bangladesh", 
+        "percentile": 1
+      }, 
+      {
+        "country": "Belarus", 
+        "percentile": 1
+      }, 
+      {
+        "country": "Belgium", 
+        "percentile": 1
+      }, 
+      {
+        "country": "Belize", 
+        "percentile": 100
+      }, 
+      {
+        "country": "Bolivia", 
+        "percentile": 1
+      }, 
+      {
+        "country": "Bosnia and Herzegovina", 
+        "percentile": 1
+      }, 
+      {
+        "country": "Brazil", 
+        "percentile": 1
+      }, 
+      {
+        "country": "Bulgaria", 
+        "percentile": 1
+      }, 
+      {
+        "country": "Canada", 
+        "percentile": 1
+      }, 
+      {
+        "country": "Chile", 
+        "percentile": 1
+      }, 
+      {
+        "country": "China", 
+        "percentile": 1
+      }, 
+      {
+        "country": "Colombia", 
+        "percentile": 1
+      }, 
+      {
+        "country": "Costa Rica", 
+        "percentile": 1
+      }, 
+      {
+        "country": "Cote d_Ivoire", 
+        "percentile": 1
+      }, 
+      {
+        "country": "Croatia", 
+        "percentile": 1
+      }, 
+      {
+        "country": "Cuba", 
+        "percentile": 1
+      }, 
+      {
+        "country": "Cyprus", 
+        "percentile": 1
+      }, 
+      {
+        "country": "Czech Republic", 
+        "percentile": 1
+      }, 
+      {
+        "country": "Denmark", 
+        "percentile": 1
+      }, 
+      {
+        "country": "Dominican Republic", 
+        "percentile": 1
+      }, 
+      {
+        "country": "Ecuador", 
+        "percentile": 1
+      }, 
+      {
+        "country": "Egypt", 
+        "percentile": 1
+      }, 
+      {
+        "country": "El Salvador", 
+        "percentile": 1
+      }, 
+      {
+        "country": "Estonia", 
+        "percentile": 1
+      }, 
+      {
+        "country": "Finland", 
+        "percentile": 1
+      }, 
+      {
+        "country": "France", 
+        "percentile": 1
+      }, 
+      {
+        "country": "Georgia", 
+        "percentile": 1
+      }, 
+      {
+        "country": "Germany", 
+        "percentile": 1
+      }, 
+      {
+        "country": "Greece", 
+        "percentile": 1
+      }, 
+      {
+        "country": "Guatemala", 
+        "percentile": 1
+      }, 
+      {
+        "country": "Haiti", 
+        "percentile": 1
+      }, 
+      {
+        "country": "Honduras", 
+        "percentile": 1
+      }, 
+      {
+        "country": "Hong Kong", 
+        "percentile": 1
+      }, 
+      {
+        "country": "Hungary", 
+        "percentile": 1
+      }, 
+      {
+        "country": "Iceland", 
+        "percentile": 1
+      }, 
+      {
+        "country": "India", 
+        "percentile": 1
+      }, 
+      {
+        "country": "Indonesia", 
+        "percentile": 1
+      }, 
+      {
+        "country": "Iran", 
+        "percentile": 1
+      }, 
+      {
+        "country": "Iraq", 
+        "percentile": 1
+      }, 
+      {
+        "country": "Ireland", 
+        "percentile": 1
+      }, 
+      {
+        "country": "Israel", 
+        "percentile": 1
+      }, 
+      {
+        "country": "Italy", 
+        "percentile": 1
+      }, 
+      {
+        "country": "Jamaica", 
+        "percentile": 1
+      }, 
+      {
+        "country": "Japan", 
+        "percentile": 1
+      }, 
+      {
+        "country": "Jordan", 
+        "percentile": 1
+      }, 
+      {
+        "country": "Kazakhstan", 
+        "percentile": 1
+      }, 
+      {
+        "country": "Korea", 
+        "percentile": 1
+      }, 
+      {
+        "country": "Kosovo", 
+        "percentile": 1
+      }, 
+      {
+        "country": "Kuwait", 
+        "percentile": 1
+      }, 
+      {
+        "country": "Latvia", 
+        "percentile": 1
+      }, 
+      {
+        "country": "Lebanon", 
+        "percentile": 1
+      }, 
+      {
+        "country": "Liechtenstein", 
+        "percentile": 1
+      }, 
+      {
+        "country": "Lithuania", 
+        "percentile": 1
+      }, 
+      {
+        "country": "Luxembourg", 
+        "percentile": 1
+      }, 
+      {
+        "country": "Macau", 
+        "percentile": 1
+      }, 
+      {
+        "country": "Macedonia", 
+        "percentile": 1
+      }, 
+      {
+        "country": "Malawi", 
+        "percentile": 1
+      }, 
+      {
+        "country": "Malaysia", 
+        "percentile": 1
+      }, 
+      {
+        "country": "Mauritius", 
+        "percentile": 1
+      }, 
+      {
+        "country": "Mexico", 
+        "percentile": 1
+      }, 
+      {
+        "country": "Moldova", 
+        "percentile": 1
+      }, 
+      {
+        "country": "Monaco", 
+        "percentile": 1
+      }, 
+      {
+        "country": "Mongolia", 
+        "percentile": 1
+      }, 
+      {
+        "country": "Montenegro", 
+        "percentile": 1
+      }, 
+      {
+        "country": "Morocco", 
+        "percentile": 1
+      }, 
+      {
+        "country": "Namibia", 
+        "percentile": 1
+      }, 
+      {
+        "country": "Nepal", 
+        "percentile": 1
+      }, 
+      {
+        "country": "Netherlands", 
+        "percentile": 1
+      }, 
+      {
+        "country": "New Zealand", 
+        "percentile": 1
+      }, 
+      {
+        "country": "Nicaragua", 
+        "percentile": 1
+      }, 
+      {
+        "country": "Nigeria", 
+        "percentile": 1
+      }, 
+      {
+        "country": "Norway", 
+        "percentile": 1
+      }, 
+      {
+        "country": "Pakistan", 
+        "percentile": 1
+      }, 
+      {
+        "country": "Palestine", 
+        "percentile": 1
+      }, 
+      {
+        "country": "Paraguay", 
+        "percentile": 1
+      }, 
+      {
+        "country": "Peru", 
+        "percentile": 1
+      }, 
+      {
+        "country": "Philippines", 
+        "percentile": 1
+      }, 
+      {
+        "country": "Poland", 
+        "percentile": 1
+      }, 
+      {
+        "country": "Portugal", 
+        "percentile": 1
+      }, 
+      {
+        "country": "Romania", 
+        "percentile": 1
+      }, 
+      {
+        "country": "Russia", 
+        "percentile": 1
+      }, 
+      {
+        "country": "Saudi Arabia", 
+        "percentile": 1
+      }, 
+      {
+        "country": "Senegal", 
+        "percentile": 1
+      }, 
+      {
+        "country": "Serbia", 
+        "percentile": 1
+      }, 
+      {
+        "country": "Singapore", 
+        "percentile": 1
+      }, 
+      {
+        "country": "Slovakia", 
+        "percentile": 1
+      }, 
+      {
+        "country": "Slovenia", 
+        "percentile": 2
+      }, 
+      {
+        "country": "South Africa", 
+        "percentile": 1
+      }, 
+      {
+        "country": "Spain", 
+        "percentile": 1
+      }, 
+      {
+        "country": "Sri Lanka", 
+        "percentile": 1
+      }, 
+      {
+        "country": "Sudan", 
+        "percentile": 1
+      }, 
+      {
+        "country": "Suriname", 
+        "percentile": 1
+      }, 
+      {
+        "country": "Sweden", 
+        "percentile": 1
+      }, 
+      {
+        "country": "Switzerland", 
+        "percentile": 1
+      }, 
+      {
+        "country": "Syria", 
+        "percentile": 1
+      }, 
+      {
+        "country": "Taiwan", 
+        "percentile": 1
+      }, 
+      {
+        "country": "Thailand", 
+        "percentile": 2
+      }, 
+      {
+        "country": "Trinidad and Tobago", 
+        "percentile": 1
+      }, 
+      {
+        "country": "Tunisia", 
+        "percentile": 1
+      }, 
+      {
+        "country": "Turkey", 
+        "percentile": 1
+      }, 
+      {
+        "country": "Ukraine", 
+        "percentile": 1
+      }, 
+      {
+        "country": "United Arab Emirates", 
+        "percentile": 1
+      }, 
+      {
+        "country": "United Kingdom", 
+        "percentile": 1
+      }, 
+      {
+        "country": "Uruguay", 
+        "percentile": 1
+      }, 
+      {
+        "country": "USA", 
+        "percentile": 1
+      }, 
+      {
+        "country": "Uzbekistan", 
+        "percentile": 1
+      }, 
+      {
+        "country": "Venezuela", 
+        "percentile": 1
+      }, 
+      {
+        "country": "Vietnam", 
+        "percentile": 1
+      }, 
+      {
+        "country": "Zambia", 
+        "percentile": 1
+      }, 
+      {
+        "country": "Zimbabwe", 
+        "percentile": 1
+      }
+    ], 
+    "time": "2017-03"
+  }, 
+  {
+    "data": [
+      {
+        "country": "Afghanistan", 
+        "percentile": 1
+      }, 
+      {
+        "country": "Albania", 
+        "percentile": 1
+      }, 
+      {
+        "country": "Algeria", 
+        "percentile": 1
+      }, 
+      {
+        "country": "Andorra", 
+        "percentile": 1
+      }, 
+      {
+        "country": "Angola", 
+        "percentile": 1
+      }, 
+      {
+        "country": "Argentina", 
+        "percentile": 1
+      }, 
+      {
+        "country": "Armenia", 
+        "percentile": 1
+      }, 
+      {
+        "country": "Australia", 
+        "percentile": 1
+      }, 
+      {
+        "country": "Austria", 
+        "percentile": 1
+      }, 
+      {
+        "country": "Azerbaijan", 
+        "percentile": 1
+      }, 
+      {
+        "country": "Bahrain", 
+        "percentile": 1
+      }, 
+      {
+        "country": "Bangladesh", 
+        "percentile": 1
+      }, 
+      {
+        "country": "Belarus", 
+        "percentile": 1
+      }, 
+      {
+        "country": "Belgium", 
+        "percentile": 1
+      }, 
+      {
+        "country": "Belize", 
+        "percentile": 100
+      }, 
+      {
+        "country": "Bolivia", 
+        "percentile": 1
+      }, 
+      {
+        "country": "Bosnia and Herzegovina", 
+        "percentile": 1
+      }, 
+      {
+        "country": "Brazil", 
+        "percentile": 1
+      }, 
+      {
+        "country": "Bulgaria", 
+        "percentile": 1
+      }, 
+      {
+        "country": "Canada", 
+        "percentile": 1
+      }, 
+      {
+        "country": "Chile", 
+        "percentile": 1
+      }, 
+      {
+        "country": "China", 
+        "percentile": 1
+      }, 
+      {
+        "country": "Colombia", 
+        "percentile": 1
+      }, 
+      {
+        "country": "Costa Rica", 
+        "percentile": 1
+      }, 
+      {
+        "country": "Cote d_Ivoire", 
+        "percentile": 1
+      }, 
+      {
+        "country": "Croatia", 
+        "percentile": 1
+      }, 
+      {
+        "country": "Cuba", 
+        "percentile": 1
+      }, 
+      {
+        "country": "Cyprus", 
+        "percentile": 1
+      }, 
+      {
+        "country": "Czech Republic", 
+        "percentile": 1
+      }, 
+      {
+        "country": "Denmark", 
+        "percentile": 1
+      }, 
+      {
+        "country": "Dominican Republic", 
+        "percentile": 1
+      }, 
+      {
+        "country": "Ecuador", 
+        "percentile": 1
+      }, 
+      {
+        "country": "Egypt", 
+        "percentile": 1
+      }, 
+      {
+        "country": "El Salvador", 
+        "percentile": 1
+      }, 
+      {
+        "country": "Estonia", 
+        "percentile": 1
+      }, 
+      {
+        "country": "Finland", 
+        "percentile": 1
+      }, 
+      {
+        "country": "France", 
+        "percentile": 1
+      }, 
+      {
+        "country": "Georgia", 
+        "percentile": 1
+      }, 
+      {
+        "country": "Germany", 
+        "percentile": 1
+      }, 
+      {
+        "country": "Greece", 
+        "percentile": 1
+      }, 
+      {
+        "country": "Guatemala", 
+        "percentile": 1
+      }, 
+      {
+        "country": "Haiti", 
+        "percentile": 1
+      }, 
+      {
+        "country": "Honduras", 
+        "percentile": 1
+      }, 
+      {
+        "country": "Hong Kong", 
+        "percentile": 1
+      }, 
+      {
+        "country": "Hungary", 
+        "percentile": 1
+      }, 
+      {
+        "country": "Iceland", 
+        "percentile": 1
+      }, 
+      {
+        "country": "India", 
+        "percentile": 1
+      }, 
+      {
+        "country": "Indonesia", 
+        "percentile": 1
+      }, 
+      {
+        "country": "Iran", 
+        "percentile": 1
+      }, 
+      {
+        "country": "Iraq", 
+        "percentile": 1
+      }, 
+      {
+        "country": "Ireland", 
+        "percentile": 1
+      }, 
+      {
+        "country": "Israel", 
+        "percentile": 1
+      }, 
+      {
+        "country": "Italy", 
+        "percentile": 1
+      }, 
+      {
+        "country": "Jamaica", 
+        "percentile": 1
+      }, 
+      {
+        "country": "Japan", 
+        "percentile": 1
+      }, 
+      {
+        "country": "Jordan", 
+        "percentile": 1
+      }, 
+      {
+        "country": "Kazakhstan", 
+        "percentile": 1
+      }, 
+      {
+        "country": "Korea", 
+        "percentile": 1
+      }, 
+      {
+        "country": "Kosovo", 
+        "percentile": 1
+      }, 
+      {
+        "country": "Kuwait", 
+        "percentile": 1
+      }, 
+      {
+        "country": "Latvia", 
+        "percentile": 1
+      }, 
+      {
+        "country": "Lebanon", 
+        "percentile": 1
+      }, 
+      {
+        "country": "Liechtenstein", 
+        "percentile": 1
+      }, 
+      {
+        "country": "Lithuania", 
+        "percentile": 1
+      }, 
+      {
+        "country": "Luxembourg", 
+        "percentile": 1
+      }, 
+      {
+        "country": "Macau", 
+        "percentile": 1
+      }, 
+      {
+        "country": "Macedonia", 
+        "percentile": 1
+      }, 
+      {
+        "country": "Malawi", 
+        "percentile": 1
+      }, 
+      {
+        "country": "Malaysia", 
+        "percentile": 1
+      }, 
+      {
+        "country": "Mauritius", 
+        "percentile": 1
+      }, 
+      {
+        "country": "Mexico", 
+        "percentile": 1
+      }, 
+      {
+        "country": "Moldova", 
+        "percentile": 1
+      }, 
+      {
+        "country": "Monaco", 
+        "percentile": 1
+      }, 
+      {
+        "country": "Mongolia", 
+        "percentile": 1
+      }, 
+      {
+        "country": "Montenegro", 
+        "percentile": 1
+      }, 
+      {
+        "country": "Morocco", 
+        "percentile": 1
+      }, 
+      {
+        "country": "Namibia", 
+        "percentile": 1
+      }, 
+      {
+        "country": "Nepal", 
+        "percentile": 1
+      }, 
+      {
+        "country": "Netherlands", 
+        "percentile": 1
+      }, 
+      {
+        "country": "New Zealand", 
+        "percentile": 1
+      }, 
+      {
+        "country": "Nicaragua", 
+        "percentile": 1
+      }, 
+      {
+        "country": "Nigeria", 
+        "percentile": 1
+      }, 
+      {
+        "country": "Norway", 
+        "percentile": 1
+      }, 
+      {
+        "country": "Pakistan", 
+        "percentile": 1
+      }, 
+      {
+        "country": "Palestine", 
+        "percentile": 1
+      }, 
+      {
+        "country": "Paraguay", 
+        "percentile": 1
+      }, 
+      {
+        "country": "Peru", 
+        "percentile": 1
+      }, 
+      {
+        "country": "Philippines", 
+        "percentile": 1
+      }, 
+      {
+        "country": "Poland", 
+        "percentile": 1
+      }, 
+      {
+        "country": "Portugal", 
+        "percentile": 1
+      }, 
+      {
+        "country": "Romania", 
+        "percentile": 1
+      }, 
+      {
+        "country": "Russia", 
+        "percentile": 1
+      }, 
+      {
+        "country": "Saudi Arabia", 
+        "percentile": 1
+      }, 
+      {
+        "country": "Senegal", 
+        "percentile": 1
+      }, 
+      {
+        "country": "Serbia", 
+        "percentile": 1
+      }, 
+      {
+        "country": "Singapore", 
+        "percentile": 1
+      }, 
+      {
+        "country": "Slovakia", 
+        "percentile": 1
+      }, 
+      {
+        "country": "Slovenia", 
+        "percentile": 2
+      }, 
+      {
+        "country": "South Africa", 
+        "percentile": 1
+      }, 
+      {
+        "country": "Spain", 
+        "percentile": 1
+      }, 
+      {
+        "country": "Sri Lanka", 
+        "percentile": 1
+      }, 
+      {
+        "country": "Sudan", 
+        "percentile": 1
+      }, 
+      {
+        "country": "Suriname", 
+        "percentile": 1
+      }, 
+      {
+        "country": "Sweden", 
+        "percentile": 1
+      }, 
+      {
+        "country": "Switzerland", 
+        "percentile": 1
+      }, 
+      {
+        "country": "Syria", 
+        "percentile": 1
+      }, 
+      {
+        "country": "Taiwan", 
+        "percentile": 1
+      }, 
+      {
+        "country": "Thailand", 
+        "percentile": 2
+      }, 
+      {
+        "country": "Trinidad and Tobago", 
+        "percentile": 1
+      }, 
+      {
+        "country": "Tunisia", 
+        "percentile": 1
+      }, 
+      {
+        "country": "Turkey", 
+        "percentile": 1
+      }, 
+      {
+        "country": "Ukraine", 
+        "percentile": 1
+      }, 
+      {
+        "country": "United Arab Emirates", 
+        "percentile": 1
+      }, 
+      {
+        "country": "United Kingdom", 
+        "percentile": 1
+      }, 
+      {
+        "country": "Uruguay", 
+        "percentile": 1
+      }, 
+      {
+        "country": "USA", 
+        "percentile": 1
+      }, 
+      {
+        "country": "Uzbekistan", 
+        "percentile": 1
+      }, 
+      {
+        "country": "Venezuela", 
+        "percentile": 1
+      }, 
+      {
+        "country": "Vietnam", 
+        "percentile": 1
+      }, 
+      {
+        "country": "Zambia", 
+        "percentile": 1
+      }, 
+      {
+        "country": "Zimbabwe", 
+        "percentile": 1
+      }
+    ], 
+    "time": "2017-04"
+  }, 
+  {
+    "data": [
+      {
+        "country": "Afghanistan", 
+        "percentile": 1
+      }, 
+      {
+        "country": "Albania", 
+        "percentile": 1
+      }, 
+      {
+        "country": "Algeria", 
+        "percentile": 1
+      }, 
+      {
+        "country": "Andorra", 
+        "percentile": 1
+      }, 
+      {
+        "country": "Angola", 
+        "percentile": 1
+      }, 
+      {
+        "country": "Argentina", 
+        "percentile": 1
+      }, 
+      {
+        "country": "Armenia", 
+        "percentile": 1
+      }, 
+      {
+        "country": "Australia", 
+        "percentile": 1
+      }, 
+      {
+        "country": "Austria", 
+        "percentile": 1
+      }, 
+      {
+        "country": "Azerbaijan", 
+        "percentile": 1
+      }, 
+      {
+        "country": "Bahrain", 
+        "percentile": 1
+      }, 
+      {
+        "country": "Bangladesh", 
+        "percentile": 1
+      }, 
+      {
+        "country": "Belarus", 
+        "percentile": 1
+      }, 
+      {
+        "country": "Belgium", 
+        "percentile": 1
+      }, 
+      {
+        "country": "Belize", 
+        "percentile": 100
+      }, 
+      {
+        "country": "Bolivia", 
+        "percentile": 1
+      }, 
+      {
+        "country": "Bosnia and Herzegovina", 
+        "percentile": 1
+      }, 
+      {
+        "country": "Brazil", 
+        "percentile": 1
+      }, 
+      {
+        "country": "Bulgaria", 
+        "percentile": 1
+      }, 
+      {
+        "country": "Canada", 
+        "percentile": 1
+      }, 
+      {
+        "country": "Chile", 
+        "percentile": 1
+      }, 
+      {
+        "country": "China", 
+        "percentile": 1
+      }, 
+      {
+        "country": "Colombia", 
+        "percentile": 1
+      }, 
+      {
+        "country": "Costa Rica", 
+        "percentile": 1
+      }, 
+      {
+        "country": "Cote d_Ivoire", 
+        "percentile": 1
+      }, 
+      {
+        "country": "Croatia", 
+        "percentile": 1
+      }, 
+      {
+        "country": "Cuba", 
+        "percentile": 1
+      }, 
+      {
+        "country": "Cyprus", 
+        "percentile": 1
+      }, 
+      {
+        "country": "Czech Republic", 
+        "percentile": 1
+      }, 
+      {
+        "country": "Denmark", 
+        "percentile": 1
+      }, 
+      {
+        "country": "Dominican Republic", 
+        "percentile": 1
+      }, 
+      {
+        "country": "Ecuador", 
+        "percentile": 1
+      }, 
+      {
+        "country": "Egypt", 
+        "percentile": 1
+      }, 
+      {
+        "country": "El Salvador", 
+        "percentile": 1
+      }, 
+      {
+        "country": "Estonia", 
+        "percentile": 1
+      }, 
+      {
+        "country": "Finland", 
+        "percentile": 1
+      }, 
+      {
+        "country": "France", 
+        "percentile": 1
+      }, 
+      {
+        "country": "Georgia", 
+        "percentile": 1
+      }, 
+      {
+        "country": "Germany", 
+        "percentile": 1
+      }, 
+      {
+        "country": "Greece", 
+        "percentile": 1
+      }, 
+      {
+        "country": "Guatemala", 
+        "percentile": 1
+      }, 
+      {
+        "country": "Haiti", 
+        "percentile": 1
+      }, 
+      {
+        "country": "Honduras", 
+        "percentile": 1
+      }, 
+      {
+        "country": "Hong Kong", 
+        "percentile": 1
+      }, 
+      {
+        "country": "Hungary", 
+        "percentile": 1
+      }, 
+      {
+        "country": "Iceland", 
+        "percentile": 1
+      }, 
+      {
+        "country": "India", 
+        "percentile": 1
+      }, 
+      {
+        "country": "Indonesia", 
+        "percentile": 1
+      }, 
+      {
+        "country": "Iran", 
+        "percentile": 1
+      }, 
+      {
+        "country": "Iraq", 
+        "percentile": 1
+      }, 
+      {
+        "country": "Ireland", 
+        "percentile": 1
+      }, 
+      {
+        "country": "Israel", 
+        "percentile": 1
+      }, 
+      {
+        "country": "Italy", 
+        "percentile": 1
+      }, 
+      {
+        "country": "Jamaica", 
+        "percentile": 1
+      }, 
+      {
+        "country": "Japan", 
+        "percentile": 1
+      }, 
+      {
+        "country": "Jordan", 
+        "percentile": 1
+      }, 
+      {
+        "country": "Kazakhstan", 
+        "percentile": 1
+      }, 
+      {
+        "country": "Korea", 
+        "percentile": 1
+      }, 
+      {
+        "country": "Kosovo", 
+        "percentile": 1
+      }, 
+      {
+        "country": "Kuwait", 
+        "percentile": 1
+      }, 
+      {
+        "country": "Latvia", 
+        "percentile": 1
+      }, 
+      {
+        "country": "Lebanon", 
+        "percentile": 1
+      }, 
+      {
+        "country": "Liechtenstein", 
+        "percentile": 1
+      }, 
+      {
+        "country": "Lithuania", 
+        "percentile": 1
+      }, 
+      {
+        "country": "Luxembourg", 
+        "percentile": 1
+      }, 
+      {
+        "country": "Macau", 
+        "percentile": 1
+      }, 
+      {
+        "country": "Macedonia", 
+        "percentile": 1
+      }, 
+      {
+        "country": "Malawi", 
+        "percentile": 1
+      }, 
+      {
+        "country": "Malaysia", 
+        "percentile": 1
+      }, 
+      {
+        "country": "Mauritius", 
+        "percentile": 1
+      }, 
+      {
+        "country": "Mexico", 
+        "percentile": 1
+      }, 
+      {
+        "country": "Moldova", 
+        "percentile": 1
+      }, 
+      {
+        "country": "Monaco", 
+        "percentile": 1
+      }, 
+      {
+        "country": "Mongolia", 
+        "percentile": 1
+      }, 
+      {
+        "country": "Montenegro", 
+        "percentile": 1
+      }, 
+      {
+        "country": "Morocco", 
+        "percentile": 1
+      }, 
+      {
+        "country": "Namibia", 
+        "percentile": 1
+      }, 
+      {
+        "country": "Nepal", 
+        "percentile": 1
+      }, 
+      {
+        "country": "Netherlands", 
+        "percentile": 1
+      }, 
+      {
+        "country": "New Zealand", 
+        "percentile": 1
+      }, 
+      {
+        "country": "Nicaragua", 
+        "percentile": 1
+      }, 
+      {
+        "country": "Nigeria", 
+        "percentile": 1
+      }, 
+      {
+        "country": "Norway", 
+        "percentile": 1
+      }, 
+      {
+        "country": "Pakistan", 
+        "percentile": 1
+      }, 
+      {
+        "country": "Palestine", 
+        "percentile": 1
+      }, 
+      {
+        "country": "Paraguay", 
+        "percentile": 1
+      }, 
+      {
+        "country": "Peru", 
+        "percentile": 1
+      }, 
+      {
+        "country": "Philippines", 
+        "percentile": 1
+      }, 
+      {
+        "country": "Poland", 
+        "percentile": 1
+      }, 
+      {
+        "country": "Portugal", 
+        "percentile": 1
+      }, 
+      {
+        "country": "Romania", 
+        "percentile": 1
+      }, 
+      {
+        "country": "Russia", 
+        "percentile": 1
+      }, 
+      {
+        "country": "Saudi Arabia", 
+        "percentile": 1
+      }, 
+      {
+        "country": "Senegal", 
+        "percentile": 1
+      }, 
+      {
+        "country": "Serbia", 
+        "percentile": 1
+      }, 
+      {
+        "country": "Singapore", 
+        "percentile": 1
+      }, 
+      {
+        "country": "Slovakia", 
+        "percentile": 1
+      }, 
+      {
+        "country": "Slovenia", 
+        "percentile": 2
+      }, 
+      {
+        "country": "South Africa", 
+        "percentile": 1
+      }, 
+      {
+        "country": "Spain", 
+        "percentile": 1
+      }, 
+      {
+        "country": "Sri Lanka", 
+        "percentile": 1
+      }, 
+      {
+        "country": "Sudan", 
+        "percentile": 1
+      }, 
+      {
+        "country": "Suriname", 
+        "percentile": 1
+      }, 
+      {
+        "country": "Sweden", 
+        "percentile": 1
+      }, 
+      {
+        "country": "Switzerland", 
+        "percentile": 1
+      }, 
+      {
+        "country": "Syria", 
+        "percentile": 1
+      }, 
+      {
+        "country": "Taiwan", 
+        "percentile": 1
+      }, 
+      {
+        "country": "Thailand", 
+        "percentile": 2
+      }, 
+      {
+        "country": "Trinidad and Tobago", 
+        "percentile": 1
+      }, 
+      {
+        "country": "Tunisia", 
+        "percentile": 1
+      }, 
+      {
+        "country": "Turkey", 
+        "percentile": 1
+      }, 
+      {
+        "country": "Ukraine", 
+        "percentile": 1
+      }, 
+      {
+        "country": "United Arab Emirates", 
+        "percentile": 1
+      }, 
+      {
+        "country": "United Kingdom", 
+        "percentile": 1
+      }, 
+      {
+        "country": "Uruguay", 
+        "percentile": 1
+      }, 
+      {
+        "country": "USA", 
+        "percentile": 1
+      }, 
+      {
+        "country": "Uzbekistan", 
+        "percentile": 1
+      }, 
+      {
+        "country": "Venezuela", 
+        "percentile": 1
+      }, 
+      {
+        "country": "Vietnam", 
+        "percentile": 1
+      }, 
+      {
+        "country": "Zambia", 
+        "percentile": 1
+      }, 
+      {
+        "country": "Zimbabwe", 
+        "percentile": 1
+      }
+    ], 
+    "time": "2017-05"
+  }, 
+  {
+    "data": [
+      {
+        "country": "Afghanistan", 
+        "percentile": 1
+      }, 
+      {
+        "country": "Albania", 
+        "percentile": 1
+      }, 
+      {
+        "country": "Algeria", 
+        "percentile": 1
+      }, 
+      {
+        "country": "Andorra", 
+        "percentile": 1
+      }, 
+      {
+        "country": "Angola", 
+        "percentile": 1
+      }, 
+      {
+        "country": "Argentina", 
+        "percentile": 1
+      }, 
+      {
+        "country": "Armenia", 
+        "percentile": 1
+      }, 
+      {
+        "country": "Australia", 
+        "percentile": 1
+      }, 
+      {
+        "country": "Austria", 
+        "percentile": 1
+      }, 
+      {
+        "country": "Azerbaijan", 
+        "percentile": 1
+      }, 
+      {
+        "country": "Bahrain", 
+        "percentile": 1
+      }, 
+      {
+        "country": "Bangladesh", 
+        "percentile": 1
+      }, 
+      {
+        "country": "Belarus", 
+        "percentile": 1
+      }, 
+      {
+        "country": "Belgium", 
+        "percentile": 1
+      }, 
+      {
+        "country": "Belize", 
+        "percentile": 100
+      }, 
+      {
+        "country": "Bolivia", 
+        "percentile": 1
+      }, 
+      {
+        "country": "Bosnia and Herzegovina", 
+        "percentile": 1
+      }, 
+      {
+        "country": "Brazil", 
+        "percentile": 1
+      }, 
+      {
+        "country": "Bulgaria", 
+        "percentile": 1
+      }, 
+      {
+        "country": "Canada", 
+        "percentile": 1
+      }, 
+      {
+        "country": "Chile", 
+        "percentile": 1
+      }, 
+      {
+        "country": "China", 
+        "percentile": 1
+      }, 
+      {
+        "country": "Colombia", 
+        "percentile": 1
+      }, 
+      {
+        "country": "Costa Rica", 
+        "percentile": 1
+      }, 
+      {
+        "country": "Cote d_Ivoire", 
+        "percentile": 1
+      }, 
+      {
+        "country": "Croatia", 
+        "percentile": 1
+      }, 
+      {
+        "country": "Cuba", 
+        "percentile": 1
+      }, 
+      {
+        "country": "Cyprus", 
+        "percentile": 1
+      }, 
+      {
+        "country": "Czech Republic", 
+        "percentile": 1
+      }, 
+      {
+        "country": "Denmark", 
+        "percentile": 1
+      }, 
+      {
+        "country": "Dominican Republic", 
+        "percentile": 1
+      }, 
+      {
+        "country": "Ecuador", 
+        "percentile": 1
+      }, 
+      {
+        "country": "Egypt", 
+        "percentile": 1
+      }, 
+      {
+        "country": "El Salvador", 
+        "percentile": 1
+      }, 
+      {
+        "country": "Estonia", 
+        "percentile": 1
+      }, 
+      {
+        "country": "Finland", 
+        "percentile": 1
+      }, 
+      {
+        "country": "France", 
+        "percentile": 1
+      }, 
+      {
+        "country": "Georgia", 
+        "percentile": 1
+      }, 
+      {
+        "country": "Germany", 
+        "percentile": 1
+      }, 
+      {
+        "country": "Greece", 
+        "percentile": 1
+      }, 
+      {
+        "country": "Guatemala", 
+        "percentile": 1
+      }, 
+      {
+        "country": "Haiti", 
+        "percentile": 1
+      }, 
+      {
+        "country": "Honduras", 
+        "percentile": 1
+      }, 
+      {
+        "country": "Hong Kong", 
+        "percentile": 1
+      }, 
+      {
+        "country": "Hungary", 
+        "percentile": 1
+      }, 
+      {
+        "country": "Iceland", 
+        "percentile": 1
+      }, 
+      {
+        "country": "India", 
+        "percentile": 1
+      }, 
+      {
+        "country": "Indonesia", 
+        "percentile": 1
+      }, 
+      {
+        "country": "Iran", 
+        "percentile": 1
+      }, 
+      {
+        "country": "Iraq", 
+        "percentile": 1
+      }, 
+      {
+        "country": "Ireland", 
+        "percentile": 1
+      }, 
+      {
+        "country": "Israel", 
+        "percentile": 1
+      }, 
+      {
+        "country": "Italy", 
+        "percentile": 1
+      }, 
+      {
+        "country": "Jamaica", 
+        "percentile": 1
+      }, 
+      {
+        "country": "Japan", 
+        "percentile": 1
+      }, 
+      {
+        "country": "Jordan", 
+        "percentile": 1
+      }, 
+      {
+        "country": "Kazakhstan", 
+        "percentile": 1
+      }, 
+      {
+        "country": "Korea", 
+        "percentile": 1
+      }, 
+      {
+        "country": "Kosovo", 
+        "percentile": 1
+      }, 
+      {
+        "country": "Kuwait", 
+        "percentile": 1
+      }, 
+      {
+        "country": "Latvia", 
+        "percentile": 1
+      }, 
+      {
+        "country": "Lebanon", 
+        "percentile": 1
+      }, 
+      {
+        "country": "Liechtenstein", 
+        "percentile": 1
+      }, 
+      {
+        "country": "Lithuania", 
+        "percentile": 1
+      }, 
+      {
+        "country": "Luxembourg", 
+        "percentile": 1
+      }, 
+      {
+        "country": "Macau", 
+        "percentile": 1
+      }, 
+      {
+        "country": "Macedonia", 
+        "percentile": 1
+      }, 
+      {
+        "country": "Malawi", 
+        "percentile": 1
+      }, 
+      {
+        "country": "Malaysia", 
+        "percentile": 1
+      }, 
+      {
+        "country": "Mauritius", 
+        "percentile": 1
+      }, 
+      {
+        "country": "Mexico", 
+        "percentile": 1
+      }, 
+      {
+        "country": "Moldova", 
+        "percentile": 1
+      }, 
+      {
+        "country": "Monaco", 
+        "percentile": 1
+      }, 
+      {
+        "country": "Mongolia", 
+        "percentile": 1
+      }, 
+      {
+        "country": "Montenegro", 
+        "percentile": 1
+      }, 
+      {
+        "country": "Morocco", 
+        "percentile": 1
+      }, 
+      {
+        "country": "Namibia", 
+        "percentile": 1
+      }, 
+      {
+        "country": "Nepal", 
+        "percentile": 1
+      }, 
+      {
+        "country": "Netherlands", 
+        "percentile": 1
+      }, 
+      {
+        "country": "New Zealand", 
+        "percentile": 1
+      }, 
+      {
+        "country": "Nicaragua", 
+        "percentile": 1
+      }, 
+      {
+        "country": "Nigeria", 
+        "percentile": 1
+      }, 
+      {
+        "country": "Norway", 
+        "percentile": 1
+      }, 
+      {
+        "country": "Oman", 
+        "percentile": 1
+      }, 
+      {
+        "country": "Pakistan", 
+        "percentile": 1
+      }, 
+      {
+        "country": "Palestine", 
+        "percentile": 1
+      }, 
+      {
+        "country": "Paraguay", 
+        "percentile": 1
+      }, 
+      {
+        "country": "Peru", 
+        "percentile": 1
+      }, 
+      {
+        "country": "Philippines", 
+        "percentile": 1
+      }, 
+      {
+        "country": "Poland", 
+        "percentile": 1
+      }, 
+      {
+        "country": "Portugal", 
+        "percentile": 1
+      }, 
+      {
+        "country": "Romania", 
+        "percentile": 1
+      }, 
+      {
+        "country": "Russia", 
+        "percentile": 1
+      }, 
+      {
+        "country": "Saudi Arabia", 
+        "percentile": 1
+      }, 
+      {
+        "country": "Senegal", 
+        "percentile": 1
+      }, 
+      {
+        "country": "Serbia", 
+        "percentile": 1
+      }, 
+      {
+        "country": "Singapore", 
+        "percentile": 1
+      }, 
+      {
+        "country": "Slovakia", 
+        "percentile": 1
+      }, 
+      {
+        "country": "Slovenia", 
+        "percentile": 1
+      }, 
+      {
+        "country": "South Africa", 
+        "percentile": 1
+      }, 
+      {
+        "country": "Spain", 
+        "percentile": 1
+      }, 
+      {
+        "country": "Sri Lanka", 
+        "percentile": 1
+      }, 
+      {
+        "country": "Sudan", 
+        "percentile": 1
+      }, 
+      {
+        "country": "Suriname", 
+        "percentile": 1
+      }, 
+      {
+        "country": "Sweden", 
+        "percentile": 1
+      }, 
+      {
+        "country": "Switzerland", 
+        "percentile": 1
+      }, 
+      {
+        "country": "Syria", 
+        "percentile": 1
+      }, 
+      {
+        "country": "Taiwan", 
+        "percentile": 1
+      }, 
+      {
+        "country": "Tanzania", 
+        "percentile": 1
+      }, 
+      {
+        "country": "Thailand", 
+        "percentile": 2
+      }, 
+      {
+        "country": "Trinidad and Tobago", 
+        "percentile": 1
+      }, 
+      {
+        "country": "Tunisia", 
+        "percentile": 1
+      }, 
+      {
+        "country": "Turkey", 
+        "percentile": 1
+      }, 
+      {
+        "country": "Ukraine", 
+        "percentile": 1
+      }, 
+      {
+        "country": "United Arab Emirates", 
+        "percentile": 1
+      }, 
+      {
+        "country": "United Kingdom", 
+        "percentile": 1
+      }, 
+      {
+        "country": "Uruguay", 
+        "percentile": 1
+      }, 
+      {
+        "country": "USA", 
+        "percentile": 1
+      }, 
+      {
+        "country": "Uzbekistan", 
+        "percentile": 1
+      }, 
+      {
+        "country": "Venezuela", 
+        "percentile": 1
+      }, 
+      {
+        "country": "Vietnam", 
+        "percentile": 1
+      }, 
+      {
+        "country": "Zambia", 
+        "percentile": 1
+      }, 
+      {
+        "country": "Zimbabwe", 
+        "percentile": 1
+      }
+    ], 
+    "time": "2017-06"
+  }, 
+  {
+    "data": [
+      {
+        "country": "Afghanistan", 
+        "percentile": 1
+      }, 
+      {
+        "country": "Albania", 
+        "percentile": 1
+      }, 
+      {
+        "country": "Algeria", 
+        "percentile": 1
+      }, 
+      {
+        "country": "Andorra", 
+        "percentile": 1
+      }, 
+      {
+        "country": "Angola", 
+        "percentile": 1
+      }, 
+      {
+        "country": "Argentina", 
+        "percentile": 1
+      }, 
+      {
+        "country": "Armenia", 
+        "percentile": 1
+      }, 
+      {
+        "country": "Australia", 
+        "percentile": 1
+      }, 
+      {
+        "country": "Austria", 
+        "percentile": 1
+      }, 
+      {
+        "country": "Azerbaijan", 
+        "percentile": 1
+      }, 
+      {
+        "country": "Bahrain", 
+        "percentile": 1
+      }, 
+      {
+        "country": "Bangladesh", 
+        "percentile": 1
+      }, 
+      {
+        "country": "Belarus", 
+        "percentile": 1
+      }, 
+      {
+        "country": "Belgium", 
+        "percentile": 1
+      }, 
+      {
+        "country": "Belize", 
+        "percentile": 100
+      }, 
+      {
+        "country": "Bolivia", 
+        "percentile": 1
+      }, 
+      {
+        "country": "Bosnia and Herzegovina", 
+        "percentile": 1
+      }, 
+      {
+        "country": "Brazil", 
+        "percentile": 1
+      }, 
+      {
+        "country": "Bulgaria", 
+        "percentile": 1
+      }, 
+      {
+        "country": "Canada", 
+        "percentile": 1
+      }, 
+      {
+        "country": "Chile", 
+        "percentile": 1
+      }, 
+      {
+        "country": "China", 
+        "percentile": 1
+      }, 
+      {
+        "country": "Colombia", 
+        "percentile": 1
+      }, 
+      {
+        "country": "Costa Rica", 
+        "percentile": 1
+      }, 
+      {
+        "country": "Cote d_Ivoire", 
+        "percentile": 1
+      }, 
+      {
+        "country": "Croatia", 
+        "percentile": 1
+      }, 
+      {
+        "country": "Cuba", 
+        "percentile": 1
+      }, 
+      {
+        "country": "Cyprus", 
+        "percentile": 1
+      }, 
+      {
+        "country": "Czech Republic", 
+        "percentile": 1
+      }, 
+      {
+        "country": "Denmark", 
+        "percentile": 1
+      }, 
+      {
+        "country": "Dominican Republic", 
+        "percentile": 1
+      }, 
+      {
+        "country": "Ecuador", 
+        "percentile": 1
+      }, 
+      {
+        "country": "Egypt", 
+        "percentile": 1
+      }, 
+      {
+        "country": "El Salvador", 
+        "percentile": 1
+      }, 
+      {
+        "country": "Estonia", 
+        "percentile": 1
+      }, 
+      {
+        "country": "Finland", 
+        "percentile": 1
+      }, 
+      {
+        "country": "France", 
+        "percentile": 1
+      }, 
+      {
+        "country": "Georgia", 
+        "percentile": 1
+      }, 
+      {
+        "country": "Germany", 
+        "percentile": 1
+      }, 
+      {
+        "country": "Greece", 
+        "percentile": 1
+      }, 
+      {
+        "country": "Guatemala", 
+        "percentile": 1
+      }, 
+      {
+        "country": "Haiti", 
+        "percentile": 1
+      }, 
+      {
+        "country": "Honduras", 
+        "percentile": 1
+      }, 
+      {
+        "country": "Hong Kong", 
+        "percentile": 1
+      }, 
+      {
+        "country": "Hungary", 
+        "percentile": 1
+      }, 
+      {
+        "country": "Iceland", 
+        "percentile": 1
+      }, 
+      {
+        "country": "India", 
+        "percentile": 1
+      }, 
+      {
+        "country": "Indonesia", 
+        "percentile": 1
+      }, 
+      {
+        "country": "Iran", 
+        "percentile": 1
+      }, 
+      {
+        "country": "Iraq", 
+        "percentile": 1
+      }, 
+      {
+        "country": "Ireland", 
+        "percentile": 1
+      }, 
+      {
+        "country": "Israel", 
+        "percentile": 1
+      }, 
+      {
+        "country": "Italy", 
+        "percentile": 1
+      }, 
+      {
+        "country": "Jamaica", 
+        "percentile": 1
+      }, 
+      {
+        "country": "Japan", 
+        "percentile": 1
+      }, 
+      {
+        "country": "Jordan", 
+        "percentile": 1
+      }, 
+      {
+        "country": "Kazakhstan", 
+        "percentile": 1
+      }, 
+      {
+        "country": "Korea", 
+        "percentile": 1
+      }, 
+      {
+        "country": "Kosovo", 
+        "percentile": 1
+      }, 
+      {
+        "country": "Kuwait", 
+        "percentile": 1
+      }, 
+      {
+        "country": "Latvia", 
+        "percentile": 1
+      }, 
+      {
+        "country": "Lebanon", 
+        "percentile": 1
+      }, 
+      {
+        "country": "Libya", 
+        "percentile": 1
+      }, 
+      {
+        "country": "Liechtenstein", 
+        "percentile": 1
+      }, 
+      {
+        "country": "Lithuania", 
+        "percentile": 1
+      }, 
+      {
+        "country": "Luxembourg", 
+        "percentile": 1
+      }, 
+      {
+        "country": "Macau", 
+        "percentile": 1
+      }, 
+      {
+        "country": "Macedonia", 
+        "percentile": 1
+      }, 
+      {
+        "country": "Malawi", 
+        "percentile": 1
+      }, 
+      {
+        "country": "Malaysia", 
+        "percentile": 1
+      }, 
+      {
+        "country": "Mauritius", 
+        "percentile": 1
+      }, 
+      {
+        "country": "Mexico", 
+        "percentile": 1
+      }, 
+      {
+        "country": "Moldova", 
+        "percentile": 1
+      }, 
+      {
+        "country": "Monaco", 
+        "percentile": 1
+      }, 
+      {
+        "country": "Mongolia", 
+        "percentile": 1
+      }, 
+      {
+        "country": "Montenegro", 
+        "percentile": 1
+      }, 
+      {
+        "country": "Morocco", 
+        "percentile": 1
+      }, 
+      {
+        "country": "Namibia", 
+        "percentile": 1
+      }, 
+      {
+        "country": "Nepal", 
+        "percentile": 1
+      }, 
+      {
+        "country": "Netherlands", 
+        "percentile": 1
+      }, 
+      {
+        "country": "New Zealand", 
+        "percentile": 1
+      }, 
+      {
+        "country": "Nicaragua", 
+        "percentile": 1
+      }, 
+      {
+        "country": "Nigeria", 
+        "percentile": 1
+      }, 
+      {
+        "country": "Norway", 
+        "percentile": 1
+      }, 
+      {
+        "country": "Oman", 
+        "percentile": 1
+      }, 
+      {
+        "country": "Pakistan", 
+        "percentile": 1
+      }, 
+      {
+        "country": "Palestine", 
+        "percentile": 1
+      }, 
+      {
+        "country": "Panama", 
+        "percentile": 1
+      }, 
+      {
+        "country": "Paraguay", 
+        "percentile": 1
+      }, 
+      {
+        "country": "Peru", 
+        "percentile": 1
+      }, 
+      {
+        "country": "Philippines", 
+        "percentile": 1
+      }, 
+      {
+        "country": "Poland", 
+        "percentile": 1
+      }, 
+      {
+        "country": "Portugal", 
+        "percentile": 1
+      }, 
+      {
+        "country": "Romania", 
+        "percentile": 1
+      }, 
+      {
+        "country": "Russia", 
+        "percentile": 1
+      }, 
+      {
+        "country": "Saudi Arabia", 
+        "percentile": 1
+      }, 
+      {
+        "country": "Senegal", 
+        "percentile": 1
+      }, 
+      {
+        "country": "Serbia", 
+        "percentile": 1
+      }, 
+      {
+        "country": "Singapore", 
+        "percentile": 1
+      }, 
+      {
+        "country": "Slovakia", 
+        "percentile": 1
+      }, 
+      {
+        "country": "Slovenia", 
+        "percentile": 1
+      }, 
+      {
+        "country": "South Africa", 
+        "percentile": 1
+      }, 
+      {
+        "country": "Spain", 
+        "percentile": 1
+      }, 
+      {
+        "country": "Sri Lanka", 
+        "percentile": 1
+      }, 
+      {
+        "country": "Sudan", 
+        "percentile": 1
+      }, 
+      {
+        "country": "Suriname", 
+        "percentile": 1
+      }, 
+      {
+        "country": "Sweden", 
+        "percentile": 1
+      }, 
+      {
+        "country": "Switzerland", 
+        "percentile": 1
+      }, 
+      {
+        "country": "Syria", 
+        "percentile": 1
+      }, 
+      {
+        "country": "Taiwan", 
+        "percentile": 1
+      }, 
+      {
+        "country": "Tanzania", 
+        "percentile": 1
+      }, 
+      {
+        "country": "Thailand", 
+        "percentile": 2
+      }, 
+      {
+        "country": "Trinidad and Tobago", 
+        "percentile": 1
+      }, 
+      {
+        "country": "Tunisia", 
+        "percentile": 1
+      }, 
+      {
+        "country": "Turkey", 
+        "percentile": 1
+      }, 
+      {
+        "country": "Ukraine", 
+        "percentile": 1
+      }, 
+      {
+        "country": "United Arab Emirates", 
+        "percentile": 1
+      }, 
+      {
+        "country": "United Kingdom", 
+        "percentile": 1
+      }, 
+      {
+        "country": "Uruguay", 
+        "percentile": 1
+      }, 
+      {
+        "country": "USA", 
+        "percentile": 1
+      }, 
+      {
+        "country": "Uzbekistan", 
+        "percentile": 1
+      }, 
+      {
+        "country": "Venezuela", 
+        "percentile": 1
+      }, 
+      {
+        "country": "Vietnam", 
+        "percentile": 1
+      }, 
+      {
+        "country": "Zambia", 
+        "percentile": 1
+      }, 
+      {
+        "country": "Zimbabwe", 
+        "percentile": 1
+      }
+    ], 
+    "time": "2017-07"
+  }, 
+  {
+    "data": [
+      {
+        "country": "Afghanistan", 
+        "percentile": 1
+      }, 
+      {
+        "country": "Albania", 
+        "percentile": 1
+      }, 
+      {
+        "country": "Algeria", 
+        "percentile": 1
+      }, 
+      {
+        "country": "Andorra", 
+        "percentile": 1
+      }, 
+      {
+        "country": "Angola", 
+        "percentile": 1
+      }, 
+      {
+        "country": "Argentina", 
+        "percentile": 1
+      }, 
+      {
+        "country": "Armenia", 
+        "percentile": 1
+      }, 
+      {
+        "country": "Australia", 
+        "percentile": 1
+      }, 
+      {
+        "country": "Austria", 
+        "percentile": 1
+      }, 
+      {
+        "country": "Azerbaijan", 
+        "percentile": 1
+      }, 
+      {
+        "country": "Bahrain", 
+        "percentile": 1
+      }, 
+      {
+        "country": "Bangladesh", 
+        "percentile": 1
+      }, 
+      {
+        "country": "Belarus", 
+        "percentile": 1
+      }, 
+      {
+        "country": "Belgium", 
+        "percentile": 1
+      }, 
+      {
+        "country": "Belize", 
+        "percentile": 100
+      }, 
+      {
+        "country": "Bolivia", 
+        "percentile": 1
+      }, 
+      {
+        "country": "Bosnia and Herzegovina", 
+        "percentile": 1
+      }, 
+      {
+        "country": "Brazil", 
+        "percentile": 1
+      }, 
+      {
+        "country": "Bulgaria", 
+        "percentile": 1
+      }, 
+      {
+        "country": "Canada", 
+        "percentile": 1
+      }, 
+      {
+        "country": "Chile", 
+        "percentile": 1
+      }, 
+      {
+        "country": "China", 
+        "percentile": 1
+      }, 
+      {
+        "country": "Colombia", 
+        "percentile": 1
+      }, 
+      {
+        "country": "Costa Rica", 
+        "percentile": 1
+      }, 
+      {
+        "country": "Cote d_Ivoire", 
+        "percentile": 1
+      }, 
+      {
+        "country": "Croatia", 
+        "percentile": 1
+      }, 
+      {
+        "country": "Cuba", 
+        "percentile": 1
+      }, 
+      {
+        "country": "Cyprus", 
+        "percentile": 1
+      }, 
+      {
+        "country": "Czech Republic", 
+        "percentile": 1
+      }, 
+      {
+        "country": "Denmark", 
+        "percentile": 1
+      }, 
+      {
+        "country": "Dominican Republic", 
+        "percentile": 1
+      }, 
+      {
+        "country": "Ecuador", 
+        "percentile": 1
+      }, 
+      {
+        "country": "Egypt", 
+        "percentile": 1
+      }, 
+      {
+        "country": "El Salvador", 
+        "percentile": 1
+      }, 
+      {
+        "country": "Estonia", 
+        "percentile": 1
+      }, 
+      {
+        "country": "Finland", 
+        "percentile": 1
+      }, 
+      {
+        "country": "France", 
+        "percentile": 1
+      }, 
+      {
+        "country": "Georgia", 
+        "percentile": 1
+      }, 
+      {
+        "country": "Germany", 
+        "percentile": 1
+      }, 
+      {
+        "country": "Greece", 
+        "percentile": 1
+      }, 
+      {
+        "country": "Guatemala", 
+        "percentile": 1
+      }, 
+      {
+        "country": "Haiti", 
+        "percentile": 1
+      }, 
+      {
+        "country": "Honduras", 
+        "percentile": 1
+      }, 
+      {
+        "country": "Hong Kong", 
+        "percentile": 1
+      }, 
+      {
+        "country": "Hungary", 
+        "percentile": 1
+      }, 
+      {
+        "country": "Iceland", 
+        "percentile": 1
+      }, 
+      {
+        "country": "India", 
+        "percentile": 1
+      }, 
+      {
+        "country": "Indonesia", 
+        "percentile": 1
+      }, 
+      {
+        "country": "Iran", 
+        "percentile": 1
+      }, 
+      {
+        "country": "Iraq", 
+        "percentile": 1
+      }, 
+      {
+        "country": "Ireland", 
+        "percentile": 1
+      }, 
+      {
+        "country": "Israel", 
+        "percentile": 1
+      }, 
+      {
+        "country": "Italy", 
+        "percentile": 1
+      }, 
+      {
+        "country": "Jamaica", 
+        "percentile": 1
+      }, 
+      {
+        "country": "Japan", 
+        "percentile": 1
+      }, 
+      {
+        "country": "Jordan", 
+        "percentile": 1
+      }, 
+      {
+        "country": "Kazakhstan", 
+        "percentile": 1
+      }, 
+      {
+        "country": "Korea", 
+        "percentile": 1
+      }, 
+      {
+        "country": "Kosovo", 
+        "percentile": 1
+      }, 
+      {
+        "country": "Kuwait", 
+        "percentile": 1
+      }, 
+      {
+        "country": "Latvia", 
+        "percentile": 1
+      }, 
+      {
+        "country": "Lebanon", 
+        "percentile": 1
+      }, 
+      {
+        "country": "Libya", 
+        "percentile": 1
+      }, 
+      {
+        "country": "Liechtenstein", 
+        "percentile": 1
+      }, 
+      {
+        "country": "Lithuania", 
+        "percentile": 1
+      }, 
+      {
+        "country": "Luxembourg", 
+        "percentile": 1
+      }, 
+      {
+        "country": "Macau", 
+        "percentile": 1
+      }, 
+      {
+        "country": "Macedonia", 
+        "percentile": 1
+      }, 
+      {
+        "country": "Madagascar", 
+        "percentile": 1
+      }, 
+      {
+        "country": "Malawi", 
+        "percentile": 1
+      }, 
+      {
+        "country": "Malaysia", 
+        "percentile": 1
+      }, 
+      {
+        "country": "Mauritius", 
+        "percentile": 1
+      }, 
+      {
+        "country": "Mexico", 
+        "percentile": 1
+      }, 
+      {
+        "country": "Moldova", 
+        "percentile": 1
+      }, 
+      {
+        "country": "Monaco", 
+        "percentile": 1
+      }, 
+      {
+        "country": "Mongolia", 
+        "percentile": 1
+      }, 
+      {
+        "country": "Montenegro", 
+        "percentile": 1
+      }, 
+      {
+        "country": "Morocco", 
+        "percentile": 1
+      }, 
+      {
+        "country": "Namibia", 
+        "percentile": 1
+      }, 
+      {
+        "country": "Nepal", 
+        "percentile": 1
+      }, 
+      {
+        "country": "Netherlands", 
+        "percentile": 1
+      }, 
+      {
+        "country": "New Zealand", 
+        "percentile": 1
+      }, 
+      {
+        "country": "Nicaragua", 
+        "percentile": 1
+      }, 
+      {
+        "country": "Nigeria", 
+        "percentile": 1
+      }, 
+      {
+        "country": "Norway", 
+        "percentile": 1
+      }, 
+      {
+        "country": "Oman", 
+        "percentile": 1
+      }, 
+      {
+        "country": "Pakistan", 
+        "percentile": 1
+      }, 
+      {
+        "country": "Palestine", 
+        "percentile": 1
+      }, 
+      {
+        "country": "Panama", 
+        "percentile": 1
+      }, 
+      {
+        "country": "Paraguay", 
+        "percentile": 1
+      }, 
+      {
+        "country": "Peru", 
+        "percentile": 1
+      }, 
+      {
+        "country": "Philippines", 
+        "percentile": 1
+      }, 
+      {
+        "country": "Poland", 
+        "percentile": 1
+      }, 
+      {
+        "country": "Portugal", 
+        "percentile": 1
+      }, 
+      {
+        "country": "Romania", 
+        "percentile": 1
+      }, 
+      {
+        "country": "Russia", 
+        "percentile": 1
+      }, 
+      {
+        "country": "Saudi Arabia", 
+        "percentile": 1
+      }, 
+      {
+        "country": "Senegal", 
+        "percentile": 1
+      }, 
+      {
+        "country": "Serbia", 
+        "percentile": 1
+      }, 
+      {
+        "country": "Singapore", 
+        "percentile": 1
+      }, 
+      {
+        "country": "Slovakia", 
+        "percentile": 1
+      }, 
+      {
+        "country": "Slovenia", 
+        "percentile": 1
+      }, 
+      {
+        "country": "South Africa", 
+        "percentile": 1
+      }, 
+      {
+        "country": "Spain", 
+        "percentile": 1
+      }, 
+      {
+        "country": "Sri Lanka", 
+        "percentile": 1
+      }, 
+      {
+        "country": "Sudan", 
+        "percentile": 1
+      }, 
+      {
+        "country": "Suriname", 
+        "percentile": 1
+      }, 
+      {
+        "country": "Sweden", 
+        "percentile": 1
+      }, 
+      {
+        "country": "Switzerland", 
+        "percentile": 1
+      }, 
+      {
+        "country": "Syria", 
+        "percentile": 1
+      }, 
+      {
+        "country": "Taiwan", 
+        "percentile": 1
+      }, 
+      {
+        "country": "Tanzania", 
+        "percentile": 1
+      }, 
+      {
+        "country": "Thailand", 
+        "percentile": 1
+      }, 
+      {
+        "country": "Trinidad and Tobago", 
+        "percentile": 1
+      }, 
+      {
+        "country": "Tunisia", 
+        "percentile": 1
+      }, 
+      {
+        "country": "Turkey", 
+        "percentile": 1
+      }, 
+      {
+        "country": "Ukraine", 
+        "percentile": 1
+      }, 
+      {
+        "country": "United Arab Emirates", 
+        "percentile": 1
+      }, 
+      {
+        "country": "United Kingdom", 
+        "percentile": 1
+      }, 
+      {
+        "country": "Uruguay", 
+        "percentile": 1
+      }, 
+      {
+        "country": "USA", 
+        "percentile": 1
+      }, 
+      {
+        "country": "Uzbekistan", 
+        "percentile": 1
+      }, 
+      {
+        "country": "Venezuela", 
+        "percentile": 1
+      }, 
+      {
+        "country": "Vietnam", 
+        "percentile": 1
+      }, 
+      {
+        "country": "Zambia", 
+        "percentile": 1
+      }, 
+      {
+        "country": "Zimbabwe", 
+        "percentile": 1
+      }
+    ], 
+    "time": "2017-08"
+  }, 
+  {
+    "data": [
+      {
+        "country": "Afghanistan", 
+        "percentile": 1
+      }, 
+      {
+        "country": "Albania", 
+        "percentile": 1
+      }, 
+      {
+        "country": "Algeria", 
+        "percentile": 1
+      }, 
+      {
+        "country": "Andorra", 
+        "percentile": 1
+      }, 
+      {
+        "country": "Angola", 
+        "percentile": 1
+      }, 
+      {
+        "country": "Argentina", 
+        "percentile": 1
+      }, 
+      {
+        "country": "Armenia", 
+        "percentile": 1
+      }, 
+      {
+        "country": "Australia", 
+        "percentile": 1
+      }, 
+      {
+        "country": "Austria", 
+        "percentile": 1
+      }, 
+      {
+        "country": "Azerbaijan", 
+        "percentile": 1
+      }, 
+      {
+        "country": "Bahrain", 
+        "percentile": 1
+      }, 
+      {
+        "country": "Bangladesh", 
+        "percentile": 1
+      }, 
+      {
+        "country": "Belarus", 
+        "percentile": 1
+      }, 
+      {
+        "country": "Belgium", 
+        "percentile": 1
+      }, 
+      {
+        "country": "Belize", 
+        "percentile": 100
+      }, 
+      {
+        "country": "Bolivia", 
+        "percentile": 1
+      }, 
+      {
+        "country": "Bosnia and Herzegovina", 
+        "percentile": 1
+      }, 
+      {
+        "country": "Brazil", 
+        "percentile": 1
+      }, 
+      {
+        "country": "Brunei", 
+        "percentile": 1
+      }, 
+      {
+        "country": "Bulgaria", 
+        "percentile": 1
+      }, 
+      {
+        "country": "Canada", 
+        "percentile": 1
+      }, 
+      {
+        "country": "Chile", 
+        "percentile": 1
+      }, 
+      {
+        "country": "China", 
+        "percentile": 1
+      }, 
+      {
+        "country": "Colombia", 
+        "percentile": 1
+      }, 
+      {
+        "country": "Costa Rica", 
+        "percentile": 1
+      }, 
+      {
+        "country": "Cote d_Ivoire", 
+        "percentile": 1
+      }, 
+      {
+        "country": "Croatia", 
+        "percentile": 1
+      }, 
+      {
+        "country": "Cuba", 
+        "percentile": 1
+      }, 
+      {
+        "country": "Cyprus", 
+        "percentile": 1
+      }, 
+      {
+        "country": "Czech Republic", 
+        "percentile": 1
+      }, 
+      {
+        "country": "Denmark", 
+        "percentile": 1
+      }, 
+      {
+        "country": "Dominican Republic", 
+        "percentile": 1
+      }, 
+      {
+        "country": "Ecuador", 
+        "percentile": 1
+      }, 
+      {
+        "country": "Egypt", 
+        "percentile": 1
+      }, 
+      {
+        "country": "El Salvador", 
+        "percentile": 1
+      }, 
+      {
+        "country": "Estonia", 
+        "percentile": 1
+      }, 
+      {
+        "country": "Finland", 
+        "percentile": 1
+      }, 
+      {
+        "country": "France", 
+        "percentile": 1
+      }, 
+      {
+        "country": "Georgia", 
+        "percentile": 1
+      }, 
+      {
+        "country": "Germany", 
+        "percentile": 1
+      }, 
+      {
+        "country": "Greece", 
+        "percentile": 1
+      }, 
+      {
+        "country": "Guatemala", 
+        "percentile": 1
+      }, 
+      {
+        "country": "Haiti", 
+        "percentile": 1
+      }, 
+      {
+        "country": "Honduras", 
+        "percentile": 1
+      }, 
+      {
+        "country": "Hong Kong", 
+        "percentile": 1
+      }, 
+      {
+        "country": "Hungary", 
+        "percentile": 1
+      }, 
+      {
+        "country": "Iceland", 
+        "percentile": 1
+      }, 
+      {
+        "country": "India", 
+        "percentile": 1
+      }, 
+      {
+        "country": "Indonesia", 
+        "percentile": 1
+      }, 
+      {
+        "country": "Iran", 
+        "percentile": 1
+      }, 
+      {
+        "country": "Iraq", 
+        "percentile": 1
+      }, 
+      {
+        "country": "Ireland", 
+        "percentile": 1
+      }, 
+      {
+        "country": "Israel", 
+        "percentile": 1
+      }, 
+      {
+        "country": "Italy", 
+        "percentile": 1
+      }, 
+      {
+        "country": "Jamaica", 
+        "percentile": 1
+      }, 
+      {
+        "country": "Japan", 
+        "percentile": 1
+      }, 
+      {
+        "country": "Jordan", 
+        "percentile": 1
+      }, 
+      {
+        "country": "Kazakhstan", 
+        "percentile": 1
+      }, 
+      {
+        "country": "Korea", 
+        "percentile": 1
+      }, 
+      {
+        "country": "Kosovo", 
+        "percentile": 1
+      }, 
+      {
+        "country": "Kuwait", 
+        "percentile": 1
+      }, 
+      {
+        "country": "Latvia", 
+        "percentile": 1
+      }, 
+      {
+        "country": "Lebanon", 
+        "percentile": 1
+      }, 
+      {
+        "country": "Libya", 
+        "percentile": 1
+      }, 
+      {
+        "country": "Liechtenstein", 
+        "percentile": 1
+      }, 
+      {
+        "country": "Lithuania", 
+        "percentile": 1
+      }, 
+      {
+        "country": "Luxembourg", 
+        "percentile": 1
+      }, 
+      {
+        "country": "Macau", 
+        "percentile": 1
+      }, 
+      {
+        "country": "Macedonia", 
+        "percentile": 1
+      }, 
+      {
+        "country": "Madagascar", 
+        "percentile": 1
+      }, 
+      {
+        "country": "Malawi", 
+        "percentile": 1
+      }, 
+      {
+        "country": "Malaysia", 
+        "percentile": 1
+      }, 
+      {
+        "country": "Mauritius", 
+        "percentile": 1
+      }, 
+      {
+        "country": "Mexico", 
+        "percentile": 1
+      }, 
+      {
+        "country": "Moldova", 
+        "percentile": 1
+      }, 
+      {
+        "country": "Monaco", 
+        "percentile": 1
+      }, 
+      {
+        "country": "Mongolia", 
+        "percentile": 1
+      }, 
+      {
+        "country": "Montenegro", 
+        "percentile": 1
+      }, 
+      {
+        "country": "Morocco", 
+        "percentile": 1
+      }, 
+      {
+        "country": "Namibia", 
+        "percentile": 1
+      }, 
+      {
+        "country": "Nepal", 
+        "percentile": 1
+      }, 
+      {
+        "country": "Netherlands", 
+        "percentile": 1
+      }, 
+      {
+        "country": "New Zealand", 
+        "percentile": 1
+      }, 
+      {
+        "country": "Nicaragua", 
+        "percentile": 1
+      }, 
+      {
+        "country": "Nigeria", 
+        "percentile": 1
+      }, 
+      {
+        "country": "Norway", 
+        "percentile": 1
+      }, 
+      {
+        "country": "Oman", 
+        "percentile": 1
+      }, 
+      {
+        "country": "Pakistan", 
+        "percentile": 1
+      }, 
+      {
+        "country": "Palestine", 
+        "percentile": 1
+      }, 
+      {
+        "country": "Panama", 
+        "percentile": 1
+      }, 
+      {
+        "country": "Paraguay", 
+        "percentile": 1
+      }, 
+      {
+        "country": "Peru", 
+        "percentile": 1
+      }, 
+      {
+        "country": "Philippines", 
+        "percentile": 1
+      }, 
+      {
+        "country": "Poland", 
+        "percentile": 1
+      }, 
+      {
+        "country": "Portugal", 
+        "percentile": 1
+      }, 
+      {
+        "country": "Romania", 
+        "percentile": 1
+      }, 
+      {
+        "country": "Russia", 
+        "percentile": 1
+      }, 
+      {
+        "country": "Saudi Arabia", 
+        "percentile": 1
+      }, 
+      {
+        "country": "Senegal", 
+        "percentile": 1
+      }, 
+      {
+        "country": "Serbia", 
+        "percentile": 1
+      }, 
+      {
+        "country": "Singapore", 
+        "percentile": 1
+      }, 
+      {
+        "country": "Slovakia", 
+        "percentile": 1
+      }, 
+      {
+        "country": "Slovenia", 
+        "percentile": 1
+      }, 
+      {
+        "country": "South Africa", 
+        "percentile": 1
+      }, 
+      {
+        "country": "Spain", 
+        "percentile": 1
+      }, 
+      {
+        "country": "Sri Lanka", 
+        "percentile": 1
+      }, 
+      {
+        "country": "Sudan", 
+        "percentile": 1
+      }, 
+      {
+        "country": "Suriname", 
+        "percentile": 1
+      }, 
+      {
+        "country": "Sweden", 
+        "percentile": 1
+      }, 
+      {
+        "country": "Switzerland", 
+        "percentile": 1
+      }, 
+      {
+        "country": "Syria", 
+        "percentile": 1
+      }, 
+      {
+        "country": "Taiwan", 
+        "percentile": 1
+      }, 
+      {
+        "country": "Tanzania", 
+        "percentile": 1
+      }, 
+      {
+        "country": "Thailand", 
+        "percentile": 1
+      }, 
+      {
+        "country": "Trinidad and Tobago", 
+        "percentile": 1
+      }, 
+      {
+        "country": "Tunisia", 
+        "percentile": 1
+      }, 
+      {
+        "country": "Turkey", 
+        "percentile": 1
+      }, 
+      {
+        "country": "Ukraine", 
+        "percentile": 1
+      }, 
+      {
+        "country": "United Arab Emirates", 
+        "percentile": 1
+      }, 
+      {
+        "country": "United Kingdom", 
+        "percentile": 1
+      }, 
+      {
+        "country": "Uruguay", 
+        "percentile": 1
+      }, 
+      {
+        "country": "USA", 
+        "percentile": 1
+      }, 
+      {
+        "country": "Uzbekistan", 
+        "percentile": 1
+      }, 
+      {
+        "country": "Venezuela", 
+        "percentile": 1
+      }, 
+      {
+        "country": "Vietnam", 
+        "percentile": 1
+      }, 
+      {
+        "country": "Zambia", 
+        "percentile": 1
+      }, 
+      {
+        "country": "Zimbabwe", 
+        "percentile": 1
+      }
+    ], 
+    "time": "2017-09"
+  }, 
+  {
+    "data": [
+      {
+        "country": "Afghanistan", 
+        "percentile": 1
+      }, 
+      {
+        "country": "Albania", 
+        "percentile": 1
+      }, 
+      {
+        "country": "Algeria", 
+        "percentile": 1
+      }, 
+      {
+        "country": "Andorra", 
+        "percentile": 1
+      }, 
+      {
+        "country": "Angola", 
+        "percentile": 1
+      }, 
+      {
+        "country": "Argentina", 
+        "percentile": 1
+      }, 
+      {
+        "country": "Armenia", 
+        "percentile": 1
+      }, 
+      {
+        "country": "Australia", 
+        "percentile": 1
+      }, 
+      {
+        "country": "Austria", 
+        "percentile": 1
+      }, 
+      {
+        "country": "Azerbaijan", 
+        "percentile": 1
+      }, 
+      {
+        "country": "Bahrain", 
+        "percentile": 1
+      }, 
+      {
+        "country": "Bangladesh", 
+        "percentile": 1
+      }, 
+      {
+        "country": "Belarus", 
+        "percentile": 1
+      }, 
+      {
+        "country": "Belgium", 
+        "percentile": 1
+      }, 
+      {
+        "country": "Belize", 
+        "percentile": 100
+      }, 
+      {
+        "country": "Bolivia", 
+        "percentile": 1
+      }, 
+      {
+        "country": "Bosnia and Herzegovina", 
+        "percentile": 1
+      }, 
+      {
+        "country": "Brazil", 
+        "percentile": 1
+      }, 
+      {
+        "country": "Brunei", 
+        "percentile": 1
+      }, 
+      {
+        "country": "Bulgaria", 
+        "percentile": 1
+      }, 
+      {
+        "country": "Canada", 
+        "percentile": 1
+      }, 
+      {
+        "country": "Chile", 
+        "percentile": 1
+      }, 
+      {
+        "country": "China", 
+        "percentile": 1
+      }, 
+      {
+        "country": "Colombia", 
+        "percentile": 1
+      }, 
+      {
+        "country": "Costa Rica", 
+        "percentile": 1
+      }, 
+      {
+        "country": "Cote d_Ivoire", 
+        "percentile": 1
+      }, 
+      {
+        "country": "Croatia", 
+        "percentile": 1
+      }, 
+      {
+        "country": "Cuba", 
+        "percentile": 1
+      }, 
+      {
+        "country": "Cyprus", 
+        "percentile": 1
+      }, 
+      {
+        "country": "Czech Republic", 
+        "percentile": 1
+      }, 
+      {
+        "country": "Denmark", 
+        "percentile": 1
+      }, 
+      {
+        "country": "Dominican Republic", 
+        "percentile": 1
+      }, 
+      {
+        "country": "Ecuador", 
+        "percentile": 1
+      }, 
+      {
+        "country": "Egypt", 
+        "percentile": 1
+      }, 
+      {
+        "country": "El Salvador", 
+        "percentile": 1
+      }, 
+      {
+        "country": "Estonia", 
+        "percentile": 1
+      }, 
+      {
+        "country": "Finland", 
+        "percentile": 1
+      }, 
+      {
+        "country": "France", 
+        "percentile": 1
+      }, 
+      {
+        "country": "Georgia", 
+        "percentile": 1
+      }, 
+      {
+        "country": "Germany", 
+        "percentile": 1
+      }, 
+      {
+        "country": "Greece", 
+        "percentile": 1
+      }, 
+      {
+        "country": "Guatemala", 
+        "percentile": 1
+      }, 
+      {
+        "country": "Haiti", 
+        "percentile": 1
+      }, 
+      {
+        "country": "Honduras", 
+        "percentile": 1
+      }, 
+      {
+        "country": "Hong Kong", 
+        "percentile": 1
+      }, 
+      {
+        "country": "Hungary", 
+        "percentile": 1
+      }, 
+      {
+        "country": "Iceland", 
+        "percentile": 1
+      }, 
+      {
+        "country": "India", 
+        "percentile": 1
+      }, 
+      {
+        "country": "Indonesia", 
+        "percentile": 1
+      }, 
+      {
+        "country": "Iran", 
+        "percentile": 1
+      }, 
+      {
+        "country": "Iraq", 
+        "percentile": 1
+      }, 
+      {
+        "country": "Ireland", 
+        "percentile": 1
+      }, 
+      {
+        "country": "Israel", 
+        "percentile": 1
+      }, 
+      {
+        "country": "Italy", 
+        "percentile": 1
+      }, 
+      {
+        "country": "Jamaica", 
+        "percentile": 1
+      }, 
+      {
+        "country": "Japan", 
+        "percentile": 1
+      }, 
+      {
+        "country": "Jordan", 
+        "percentile": 1
+      }, 
+      {
+        "country": "Kazakhstan", 
+        "percentile": 1
+      }, 
+      {
+        "country": "Korea", 
+        "percentile": 1
+      }, 
+      {
+        "country": "Kosovo", 
+        "percentile": 1
+      }, 
+      {
+        "country": "Kuwait", 
+        "percentile": 1
+      }, 
+      {
+        "country": "Latvia", 
+        "percentile": 1
+      }, 
+      {
+        "country": "Lebanon", 
+        "percentile": 1
+      }, 
+      {
+        "country": "Libya", 
+        "percentile": 1
+      }, 
+      {
+        "country": "Liechtenstein", 
+        "percentile": 1
+      }, 
+      {
+        "country": "Lithuania", 
+        "percentile": 1
+      }, 
+      {
+        "country": "Luxembourg", 
+        "percentile": 1
+      }, 
+      {
+        "country": "Macau", 
+        "percentile": 1
+      }, 
+      {
+        "country": "Macedonia", 
+        "percentile": 1
+      }, 
+      {
+        "country": "Madagascar", 
+        "percentile": 1
+      }, 
+      {
+        "country": "Malawi", 
+        "percentile": 1
+      }, 
+      {
+        "country": "Malaysia", 
+        "percentile": 1
+      }, 
+      {
+        "country": "Mauritius", 
+        "percentile": 1
+      }, 
+      {
+        "country": "Mexico", 
+        "percentile": 1
+      }, 
+      {
+        "country": "Moldova", 
+        "percentile": 1
+      }, 
+      {
+        "country": "Monaco", 
+        "percentile": 1
+      }, 
+      {
+        "country": "Mongolia", 
+        "percentile": 1
+      }, 
+      {
+        "country": "Montenegro", 
+        "percentile": 1
+      }, 
+      {
+        "country": "Morocco", 
+        "percentile": 1
+      }, 
+      {
+        "country": "Namibia", 
+        "percentile": 1
+      }, 
+      {
+        "country": "Nepal", 
+        "percentile": 1
+      }, 
+      {
+        "country": "Netherlands", 
+        "percentile": 1
+      }, 
+      {
+        "country": "New Zealand", 
+        "percentile": 1
+      }, 
+      {
+        "country": "Nicaragua", 
+        "percentile": 1
+      }, 
+      {
+        "country": "Nigeria", 
+        "percentile": 1
+      }, 
+      {
+        "country": "Norway", 
+        "percentile": 1
+      }, 
+      {
+        "country": "Oman", 
+        "percentile": 1
+      }, 
+      {
+        "country": "Pakistan", 
+        "percentile": 1
+      }, 
+      {
+        "country": "Palestine", 
+        "percentile": 1
+      }, 
+      {
+        "country": "Panama", 
+        "percentile": 1
+      }, 
+      {
+        "country": "Paraguay", 
+        "percentile": 1
+      }, 
+      {
+        "country": "Peru", 
+        "percentile": 1
+      }, 
+      {
+        "country": "Philippines", 
+        "percentile": 1
+      }, 
+      {
+        "country": "Poland", 
+        "percentile": 1
+      }, 
+      {
+        "country": "Portugal", 
+        "percentile": 1
+      }, 
+      {
+        "country": "Romania", 
+        "percentile": 1
+      }, 
+      {
+        "country": "Russia", 
+        "percentile": 1
+      }, 
+      {
+        "country": "Saudi Arabia", 
+        "percentile": 1
+      }, 
+      {
+        "country": "Senegal", 
+        "percentile": 1
+      }, 
+      {
+        "country": "Serbia", 
+        "percentile": 1
+      }, 
+      {
+        "country": "Singapore", 
+        "percentile": 1
+      }, 
+      {
+        "country": "Slovakia", 
+        "percentile": 1
+      }, 
+      {
+        "country": "Slovenia", 
+        "percentile": 1
+      }, 
+      {
+        "country": "South Africa", 
+        "percentile": 1
+      }, 
+      {
+        "country": "Spain", 
+        "percentile": 1
+      }, 
+      {
+        "country": "Sri Lanka", 
+        "percentile": 1
+      }, 
+      {
+        "country": "Sudan", 
+        "percentile": 1
+      }, 
+      {
+        "country": "Suriname", 
+        "percentile": 1
+      }, 
+      {
+        "country": "Sweden", 
+        "percentile": 1
+      }, 
+      {
+        "country": "Switzerland", 
+        "percentile": 1
+      }, 
+      {
+        "country": "Syria", 
+        "percentile": 1
+      }, 
+      {
+        "country": "Taiwan", 
+        "percentile": 1
+      }, 
+      {
+        "country": "Tanzania", 
+        "percentile": 1
+      }, 
+      {
+        "country": "Thailand", 
+        "percentile": 1
+      }, 
+      {
+        "country": "Trinidad and Tobago", 
+        "percentile": 1
+      }, 
+      {
+        "country": "Tunisia", 
+        "percentile": 1
+      }, 
+      {
+        "country": "Turkey", 
+        "percentile": 1
+      }, 
+      {
+        "country": "Ukraine", 
+        "percentile": 1
+      }, 
+      {
+        "country": "United Arab Emirates", 
+        "percentile": 1
+      }, 
+      {
+        "country": "United Kingdom", 
+        "percentile": 1
+      }, 
+      {
+        "country": "Uruguay", 
+        "percentile": 1
+      }, 
+      {
+        "country": "USA", 
+        "percentile": 1
+      }, 
+      {
+        "country": "Uzbekistan", 
+        "percentile": 1
+      }, 
+      {
+        "country": "Venezuela", 
+        "percentile": 1
+      }, 
+      {
+        "country": "Vietnam", 
+        "percentile": 1
+      }, 
+      {
+        "country": "Zambia", 
+        "percentile": 1
+      }, 
+      {
+        "country": "Zimbabwe", 
+        "percentile": 1
+      }
+    ], 
+    "time": "2017-10"
+  }, 
+  {
+    "data": [
+      {
+        "country": "Afghanistan", 
+        "percentile": 1
+      }, 
+      {
+        "country": "Albania", 
+        "percentile": 1
+      }, 
+      {
+        "country": "Algeria", 
+        "percentile": 1
+      }, 
+      {
+        "country": "Andorra", 
+        "percentile": 1
+      }, 
+      {
+        "country": "Angola", 
+        "percentile": 1
+      }, 
+      {
+        "country": "Argentina", 
+        "percentile": 1
+      }, 
+      {
+        "country": "Armenia", 
+        "percentile": 1
+      }, 
+      {
+        "country": "Australia", 
+        "percentile": 1
+      }, 
+      {
+        "country": "Austria", 
+        "percentile": 1
+      }, 
+      {
+        "country": "Azerbaijan", 
+        "percentile": 1
+      }, 
+      {
+        "country": "Bahrain", 
+        "percentile": 1
+      }, 
+      {
+        "country": "Bangladesh", 
+        "percentile": 1
+      }, 
+      {
+        "country": "Belarus", 
+        "percentile": 1
+      }, 
+      {
+        "country": "Belgium", 
+        "percentile": 1
+      }, 
+      {
+        "country": "Belize", 
+        "percentile": 100
+      }, 
+      {
+        "country": "Bolivia", 
+        "percentile": 1
+      }, 
+      {
+        "country": "Bosnia and Herzegovina", 
+        "percentile": 1
+      }, 
+      {
+        "country": "Brazil", 
+        "percentile": 1
+      }, 
+      {
+        "country": "Brunei", 
+        "percentile": 1
+      }, 
+      {
+        "country": "Bulgaria", 
+        "percentile": 1
+      }, 
+      {
+        "country": "Canada", 
+        "percentile": 1
+      }, 
+      {
+        "country": "Chile", 
+        "percentile": 1
+      }, 
+      {
+        "country": "China", 
+        "percentile": 1
+      }, 
+      {
+        "country": "Colombia", 
+        "percentile": 1
+      }, 
+      {
+        "country": "Costa Rica", 
+        "percentile": 1
+      }, 
+      {
+        "country": "Cote d_Ivoire", 
+        "percentile": 1
+      }, 
+      {
+        "country": "Croatia", 
+        "percentile": 1
+      }, 
+      {
+        "country": "Cuba", 
+        "percentile": 1
+      }, 
+      {
+        "country": "Cyprus", 
+        "percentile": 1
+      }, 
+      {
+        "country": "Czech Republic", 
+        "percentile": 1
+      }, 
+      {
+        "country": "Denmark", 
+        "percentile": 1
+      }, 
+      {
+        "country": "Dominican Republic", 
+        "percentile": 1
+      }, 
+      {
+        "country": "Ecuador", 
+        "percentile": 1
+      }, 
+      {
+        "country": "Egypt", 
+        "percentile": 1
+      }, 
+      {
+        "country": "El Salvador", 
+        "percentile": 1
+      }, 
+      {
+        "country": "Estonia", 
+        "percentile": 1
+      }, 
+      {
+        "country": "Finland", 
+        "percentile": 1
+      }, 
+      {
+        "country": "France", 
+        "percentile": 1
+      }, 
+      {
+        "country": "Georgia", 
+        "percentile": 1
+      }, 
+      {
+        "country": "Germany", 
+        "percentile": 1
+      }, 
+      {
+        "country": "Greece", 
+        "percentile": 1
+      }, 
+      {
+        "country": "Guatemala", 
+        "percentile": 1
+      }, 
+      {
+        "country": "Haiti", 
+        "percentile": 1
+      }, 
+      {
+        "country": "Honduras", 
+        "percentile": 1
+      }, 
+      {
+        "country": "Hong Kong", 
+        "percentile": 1
+      }, 
+      {
+        "country": "Hungary", 
+        "percentile": 1
+      }, 
+      {
+        "country": "Iceland", 
+        "percentile": 1
+      }, 
+      {
+        "country": "India", 
+        "percentile": 1
+      }, 
+      {
+        "country": "Indonesia", 
+        "percentile": 1
+      }, 
+      {
+        "country": "Iran", 
+        "percentile": 1
+      }, 
+      {
+        "country": "Iraq", 
+        "percentile": 1
+      }, 
+      {
+        "country": "Ireland", 
+        "percentile": 1
+      }, 
+      {
+        "country": "Israel", 
+        "percentile": 1
+      }, 
+      {
+        "country": "Italy", 
+        "percentile": 1
+      }, 
+      {
+        "country": "Jamaica", 
+        "percentile": 1
+      }, 
+      {
+        "country": "Japan", 
+        "percentile": 1
+      }, 
+      {
+        "country": "Jordan", 
+        "percentile": 1
+      }, 
+      {
+        "country": "Kazakhstan", 
+        "percentile": 1
+      }, 
+      {
+        "country": "Korea", 
+        "percentile": 1
+      }, 
+      {
+        "country": "Kosovo", 
+        "percentile": 1
+      }, 
+      {
+        "country": "Kuwait", 
+        "percentile": 1
+      }, 
+      {
+        "country": "Kyrgyzstan", 
+        "percentile": 1
+      }, 
+      {
+        "country": "Latvia", 
+        "percentile": 1
+      }, 
+      {
+        "country": "Lebanon", 
+        "percentile": 1
+      }, 
+      {
+        "country": "Libya", 
+        "percentile": 1
+      }, 
+      {
+        "country": "Liechtenstein", 
+        "percentile": 1
+      }, 
+      {
+        "country": "Lithuania", 
+        "percentile": 1
+      }, 
+      {
+        "country": "Luxembourg", 
+        "percentile": 1
+      }, 
+      {
+        "country": "Macau", 
+        "percentile": 1
+      }, 
+      {
+        "country": "Macedonia", 
+        "percentile": 1
+      }, 
+      {
+        "country": "Madagascar", 
+        "percentile": 1
+      }, 
+      {
+        "country": "Malawi", 
+        "percentile": 1
+      }, 
+      {
+        "country": "Malaysia", 
+        "percentile": 1
+      }, 
+      {
+        "country": "Mauritius", 
+        "percentile": 1
+      }, 
+      {
+        "country": "Mexico", 
+        "percentile": 1
+      }, 
+      {
+        "country": "Moldova", 
+        "percentile": 1
+      }, 
+      {
+        "country": "Monaco", 
+        "percentile": 1
+      }, 
+      {
+        "country": "Mongolia", 
+        "percentile": 1
+      }, 
+      {
+        "country": "Montenegro", 
+        "percentile": 1
+      }, 
+      {
+        "country": "Morocco", 
+        "percentile": 1
+      }, 
+      {
+        "country": "Namibia", 
+        "percentile": 1
+      }, 
+      {
+        "country": "Nepal", 
+        "percentile": 1
+      }, 
+      {
+        "country": "Netherlands", 
+        "percentile": 1
+      }, 
+      {
+        "country": "New Zealand", 
+        "percentile": 1
+      }, 
+      {
+        "country": "Nicaragua", 
+        "percentile": 1
+      }, 
+      {
+        "country": "Nigeria", 
+        "percentile": 1
+      }, 
+      {
+        "country": "Norway", 
+        "percentile": 1
+      }, 
+      {
+        "country": "Oman", 
+        "percentile": 1
+      }, 
+      {
+        "country": "Pakistan", 
+        "percentile": 1
+      }, 
+      {
+        "country": "Palestine", 
+        "percentile": 1
+      }, 
+      {
+        "country": "Panama", 
+        "percentile": 1
+      }, 
+      {
+        "country": "Paraguay", 
+        "percentile": 1
+      }, 
+      {
+        "country": "Peru", 
+        "percentile": 1
+      }, 
+      {
+        "country": "Philippines", 
+        "percentile": 1
+      }, 
+      {
+        "country": "Poland", 
+        "percentile": 1
+      }, 
+      {
+        "country": "Portugal", 
+        "percentile": 1
+      }, 
+      {
+        "country": "Romania", 
+        "percentile": 1
+      }, 
+      {
+        "country": "Russia", 
+        "percentile": 1
+      }, 
+      {
+        "country": "Saudi Arabia", 
+        "percentile": 1
+      }, 
+      {
+        "country": "Senegal", 
+        "percentile": 1
+      }, 
+      {
+        "country": "Serbia", 
+        "percentile": 1
+      }, 
+      {
+        "country": "Singapore", 
+        "percentile": 1
+      }, 
+      {
+        "country": "Slovakia", 
+        "percentile": 1
+      }, 
+      {
+        "country": "Slovenia", 
+        "percentile": 1
+      }, 
+      {
+        "country": "South Africa", 
+        "percentile": 1
+      }, 
+      {
+        "country": "Spain", 
+        "percentile": 1
+      }, 
+      {
+        "country": "Sri Lanka", 
+        "percentile": 1
+      }, 
+      {
+        "country": "Sudan", 
+        "percentile": 1
+      }, 
+      {
+        "country": "Suriname", 
+        "percentile": 1
+      }, 
+      {
+        "country": "Sweden", 
+        "percentile": 1
+      }, 
+      {
+        "country": "Switzerland", 
+        "percentile": 1
+      }, 
+      {
+        "country": "Syria", 
+        "percentile": 1
+      }, 
+      {
+        "country": "Taiwan", 
+        "percentile": 1
+      }, 
+      {
+        "country": "Tajikistan", 
+        "percentile": 1
+      }, 
+      {
+        "country": "Tanzania", 
+        "percentile": 1
+      }, 
+      {
+        "country": "Thailand", 
+        "percentile": 1
+      }, 
+      {
+        "country": "Trinidad and Tobago", 
+        "percentile": 1
+      }, 
+      {
+        "country": "Tunisia", 
+        "percentile": 1
+      }, 
+      {
+        "country": "Turkey", 
+        "percentile": 1
+      }, 
+      {
+        "country": "Ukraine", 
+        "percentile": 1
+      }, 
+      {
+        "country": "United Arab Emirates", 
+        "percentile": 1
+      }, 
+      {
+        "country": "United Kingdom", 
+        "percentile": 1
+      }, 
+      {
+        "country": "Uruguay", 
+        "percentile": 1
+      }, 
+      {
+        "country": "USA", 
+        "percentile": 1
+      }, 
+      {
+        "country": "Uzbekistan", 
+        "percentile": 1
+      }, 
+      {
+        "country": "Venezuela", 
+        "percentile": 1
+      }, 
+      {
+        "country": "Vietnam", 
+        "percentile": 1
+      }, 
+      {
+        "country": "Zambia", 
+        "percentile": 1
+      }, 
+      {
+        "country": "Zimbabwe", 
+        "percentile": 1
+      }
+    ], 
+    "time": "2017-11"
+  }, 
+  {
+    "data": [
+      {
+        "country": "Afghanistan", 
+        "percentile": 1
+      }, 
+      {
+        "country": "Albania", 
+        "percentile": 1
+      }, 
+      {
+        "country": "Algeria", 
+        "percentile": 1
+      }, 
+      {
+        "country": "Andorra", 
+        "percentile": 1
+      }, 
+      {
+        "country": "Angola", 
+        "percentile": 1
+      }, 
+      {
+        "country": "Argentina", 
+        "percentile": 1
+      }, 
+      {
+        "country": "Armenia", 
+        "percentile": 1
+      }, 
+      {
+        "country": "Australia", 
+        "percentile": 1
+      }, 
+      {
+        "country": "Austria", 
+        "percentile": 1
+      }, 
+      {
+        "country": "Azerbaijan", 
+        "percentile": 1
+      }, 
+      {
+        "country": "Bahrain", 
+        "percentile": 1
+      }, 
+      {
+        "country": "Bangladesh", 
+        "percentile": 1
+      }, 
+      {
+        "country": "Belarus", 
+        "percentile": 1
+      }, 
+      {
+        "country": "Belgium", 
+        "percentile": 1
+      }, 
+      {
+        "country": "Belize", 
+        "percentile": 100
+      }, 
+      {
+        "country": "Bhutan", 
+        "percentile": 1
+      }, 
+      {
+        "country": "Bolivia", 
+        "percentile": 1
+      }, 
+      {
+        "country": "Bosnia and Herzegovina", 
+        "percentile": 1
+      }, 
+      {
+        "country": "Brazil", 
+        "percentile": 1
+      }, 
+      {
+        "country": "Brunei", 
+        "percentile": 1
+      }, 
+      {
+        "country": "Bulgaria", 
+        "percentile": 1
+      }, 
+      {
+        "country": "Canada", 
+        "percentile": 1
+      }, 
+      {
+        "country": "Chile", 
+        "percentile": 1
+      }, 
+      {
+        "country": "China", 
+        "percentile": 1
+      }, 
+      {
+        "country": "Colombia", 
+        "percentile": 1
+      }, 
+      {
+        "country": "Costa Rica", 
+        "percentile": 1
+      }, 
+      {
+        "country": "Cote d_Ivoire", 
+        "percentile": 1
+      }, 
+      {
+        "country": "Croatia", 
+        "percentile": 1
+      }, 
+      {
+        "country": "Cuba", 
+        "percentile": 1
+      }, 
+      {
+        "country": "Cyprus", 
+        "percentile": 1
+      }, 
+      {
+        "country": "Czech Republic", 
+        "percentile": 1
+      }, 
+      {
+        "country": "Denmark", 
+        "percentile": 1
+      }, 
+      {
+        "country": "Dominican Republic", 
+        "percentile": 1
+      }, 
+      {
+        "country": "Ecuador", 
+        "percentile": 1
+      }, 
+      {
+        "country": "Egypt", 
+        "percentile": 1
+      }, 
+      {
+        "country": "El Salvador", 
+        "percentile": 1
+      }, 
+      {
+        "country": "Estonia", 
+        "percentile": 1
+      }, 
+      {
+        "country": "Finland", 
+        "percentile": 1
+      }, 
+      {
+        "country": "France", 
+        "percentile": 1
+      }, 
+      {
+        "country": "Georgia", 
+        "percentile": 1
+      }, 
+      {
+        "country": "Germany", 
+        "percentile": 1
+      }, 
+      {
+        "country": "Greece", 
+        "percentile": 1
+      }, 
+      {
+        "country": "Guatemala", 
+        "percentile": 1
+      }, 
+      {
+        "country": "Haiti", 
+        "percentile": 1
+      }, 
+      {
+        "country": "Honduras", 
+        "percentile": 1
+      }, 
+      {
+        "country": "Hong Kong", 
+        "percentile": 1
+      }, 
+      {
+        "country": "Hungary", 
+        "percentile": 1
+      }, 
+      {
+        "country": "Iceland", 
+        "percentile": 1
+      }, 
+      {
+        "country": "India", 
+        "percentile": 1
+      }, 
+      {
+        "country": "Indonesia", 
+        "percentile": 1
+      }, 
+      {
+        "country": "Iran", 
+        "percentile": 1
+      }, 
+      {
+        "country": "Iraq", 
+        "percentile": 1
+      }, 
+      {
+        "country": "Ireland", 
+        "percentile": 1
+      }, 
+      {
+        "country": "Israel", 
+        "percentile": 1
+      }, 
+      {
+        "country": "Italy", 
+        "percentile": 1
+      }, 
+      {
+        "country": "Jamaica", 
+        "percentile": 1
+      }, 
+      {
+        "country": "Japan", 
+        "percentile": 1
+      }, 
+      {
+        "country": "Jordan", 
+        "percentile": 1
+      }, 
+      {
+        "country": "Kazakhstan", 
+        "percentile": 1
+      }, 
+      {
+        "country": "Korea", 
+        "percentile": 1
+      }, 
+      {
+        "country": "Kosovo", 
+        "percentile": 1
+      }, 
+      {
+        "country": "Kuwait", 
+        "percentile": 1
+      }, 
+      {
+        "country": "Kyrgyzstan", 
+        "percentile": 1
+      }, 
+      {
+        "country": "Latvia", 
+        "percentile": 1
+      }, 
+      {
+        "country": "Lebanon", 
+        "percentile": 1
+      }, 
+      {
+        "country": "Libya", 
+        "percentile": 1
+      }, 
+      {
+        "country": "Liechtenstein", 
+        "percentile": 1
+      }, 
+      {
+        "country": "Lithuania", 
+        "percentile": 1
+      }, 
+      {
+        "country": "Luxembourg", 
+        "percentile": 1
+      }, 
+      {
+        "country": "Macau", 
+        "percentile": 1
+      }, 
+      {
+        "country": "Macedonia", 
+        "percentile": 1
+      }, 
+      {
+        "country": "Madagascar", 
+        "percentile": 1
+      }, 
+      {
+        "country": "Malawi", 
+        "percentile": 1
+      }, 
+      {
+        "country": "Malaysia", 
+        "percentile": 1
+      }, 
+      {
+        "country": "Mauritius", 
+        "percentile": 1
+      }, 
+      {
+        "country": "Mexico", 
+        "percentile": 1
+      }, 
+      {
+        "country": "Moldova", 
+        "percentile": 1
+      }, 
+      {
+        "country": "Monaco", 
+        "percentile": 1
+      }, 
+      {
+        "country": "Mongolia", 
+        "percentile": 1
+      }, 
+      {
+        "country": "Montenegro", 
+        "percentile": 1
+      }, 
+      {
+        "country": "Morocco", 
+        "percentile": 1
+      }, 
+      {
+        "country": "Namibia", 
+        "percentile": 1
+      }, 
+      {
+        "country": "Nepal", 
+        "percentile": 1
+      }, 
+      {
+        "country": "Netherlands", 
+        "percentile": 1
+      }, 
+      {
+        "country": "New Zealand", 
+        "percentile": 1
+      }, 
+      {
+        "country": "Nicaragua", 
+        "percentile": 1
+      }, 
+      {
+        "country": "Nigeria", 
+        "percentile": 1
+      }, 
+      {
+        "country": "Norway", 
+        "percentile": 1
+      }, 
+      {
+        "country": "Oman", 
+        "percentile": 1
+      }, 
+      {
+        "country": "Pakistan", 
+        "percentile": 1
+      }, 
+      {
+        "country": "Palestine", 
+        "percentile": 1
+      }, 
+      {
+        "country": "Panama", 
+        "percentile": 1
+      }, 
+      {
+        "country": "Paraguay", 
+        "percentile": 1
+      }, 
+      {
+        "country": "Peru", 
+        "percentile": 1
+      }, 
+      {
+        "country": "Philippines", 
+        "percentile": 1
+      }, 
+      {
+        "country": "Poland", 
+        "percentile": 1
+      }, 
+      {
+        "country": "Portugal", 
+        "percentile": 1
+      }, 
+      {
+        "country": "Romania", 
+        "percentile": 1
+      }, 
+      {
+        "country": "Russia", 
+        "percentile": 1
+      }, 
+      {
+        "country": "Saudi Arabia", 
+        "percentile": 1
+      }, 
+      {
+        "country": "Senegal", 
+        "percentile": 1
+      }, 
+      {
+        "country": "Serbia", 
+        "percentile": 1
+      }, 
+      {
+        "country": "Singapore", 
+        "percentile": 1
+      }, 
+      {
+        "country": "Slovakia", 
+        "percentile": 1
+      }, 
+      {
+        "country": "Slovenia", 
+        "percentile": 1
+      }, 
+      {
+        "country": "South Africa", 
+        "percentile": 1
+      }, 
+      {
+        "country": "Spain", 
+        "percentile": 1
+      }, 
+      {
+        "country": "Sri Lanka", 
+        "percentile": 1
+      }, 
+      {
+        "country": "Sudan", 
+        "percentile": 1
+      }, 
+      {
+        "country": "Suriname", 
+        "percentile": 1
+      }, 
+      {
+        "country": "Sweden", 
+        "percentile": 1
+      }, 
+      {
+        "country": "Switzerland", 
+        "percentile": 1
+      }, 
+      {
+        "country": "Syria", 
+        "percentile": 1
+      }, 
+      {
+        "country": "Taiwan", 
+        "percentile": 1
+      }, 
+      {
+        "country": "Tajikistan", 
+        "percentile": 1
+      }, 
+      {
+        "country": "Tanzania", 
+        "percentile": 1
+      }, 
+      {
+        "country": "Thailand", 
+        "percentile": 1
+      }, 
+      {
+        "country": "Trinidad and Tobago", 
+        "percentile": 1
+      }, 
+      {
+        "country": "Tunisia", 
+        "percentile": 1
+      }, 
+      {
+        "country": "Turkey", 
+        "percentile": 1
+      }, 
+      {
+        "country": "Ukraine", 
+        "percentile": 1
+      }, 
+      {
+        "country": "United Arab Emirates", 
+        "percentile": 1
+      }, 
+      {
+        "country": "United Kingdom", 
+        "percentile": 1
+      }, 
+      {
+        "country": "Uruguay", 
+        "percentile": 1
+      }, 
+      {
+        "country": "USA", 
+        "percentile": 1
+      }, 
+      {
+        "country": "Uzbekistan", 
+        "percentile": 1
+      }, 
+      {
+        "country": "Venezuela", 
+        "percentile": 1
+      }, 
+      {
+        "country": "Vietnam", 
+        "percentile": 1
+      }, 
+      {
+        "country": "Zambia", 
+        "percentile": 1
+      }, 
+      {
+        "country": "Zimbabwe", 
+        "percentile": 1
+      }
+    ], 
+    "time": "2017-12"
   }
 ]
