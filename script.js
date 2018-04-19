@@ -1,3 +1,9 @@
+function loaded() {
+  document.getElementById('loading').style.display = 'none';
+}
+document.addEventListener('DOMContentLoaded', loaded, false);
+window.addEventListener('load', loaded, false);
+
 // Import CSS from Leaflet and plugins.
 import 'leaflet/dist/leaflet.css';
 // import 'leaflet.markercluster/dist/MarkerCluster.css';
@@ -145,7 +151,7 @@ legend.onAdd = function(map) {
       grades[i + 1]
         ? grades[i + 1] - grades[i] !== 1
           ? `-${grades[i + 1] - 1}<br/>`
-          : '<br>'
+          : '<br/>'
         : '+'
     }`;
   }
@@ -227,7 +233,7 @@ function joinPercentileToMap(data, mapGeo) {
   mapGeo = JSON.parse(JSON.stringify(mapGeo));
   data.forEach(d => {
     const idx = mapGeo.features.findIndex(
-      g => g.properties.name === d.country || g.id === d.country,
+      g => g.properties.name === d.country || g.properties.id === d.country,
     );
     if (idx > -1) {
       mapGeo.features[idx].properties.percentile = d.percentile;
