@@ -145,15 +145,15 @@ legend.onAdd = function(map) {
 
   // loop through our percentile intervals and generate a label with a colored square for each interval
   for (let i = 0; i < grades.length; i++) {
-    div.innerHTML += `<i style="background:${getColor(grades[i])}"></i> ${
-      grades[i]
-    }${
+    div.innerHTML += `<div class="single-legend"><i style="background:${getColor(
+      grades[i],
+    )}"></i> ${grades[i]}${
       grades[i + 1]
         ? grades[i + 1] - grades[i] !== 1
           ? `-${grades[i + 1] - 1}<br/>`
           : '<br/>'
         : '+'
-    }`;
+    }</div>`;
   }
 
   return div;
