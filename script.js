@@ -84,7 +84,7 @@ L.tileLayer(
   `https://api.tiles.mapbox.com/v4/{id}/{z}/{x}/{y}.png?access_token=${mapBoxToken}`,
   {
     attribution: `Authors: <a href="http://github.com/stanleynguyen" target="_blank">S.Nguyen</a>,
-      <a href="http://github.com/kai34" targe="_blank">K.X.Teo</a>,
+      <a href="http://github.com/kai32" targe="_blank">K.X.Teo</a>,
       <a href="http://github.com/lumotheninja" target="_blank">L.Woong</a>,
       <a href="http://github.com/vegggram" target="_blank">B.Chen</a> |
       <a href="/about.html">About This Project</a>
