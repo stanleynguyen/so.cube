@@ -416,6 +416,7 @@ function showSearchResults(listOfCompetitors) {
     )
     .join('');
   resultsContainer.innerHTML = html;
+  resultsContainer.classList.add('showing');
 
   const listOfResultElems = document.querySelectorAll('.single-result');
   listOfResultElems.forEach((elem, idx) =>
@@ -427,6 +428,7 @@ function showSearchResults(listOfCompetitors) {
 }
 
 function handleResultClick(competitor) {
+  resultsContainer.classList.remove('showing');
   currentCompetitor = competitor;
   retrieveCompetitionData()
     .then(res => {
