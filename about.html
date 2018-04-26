@@ -12,6 +12,7 @@
 
     h1 {
       text-align: center;
+      width: 100%;
     }
 
     p {
@@ -24,6 +25,47 @@
       padding-left: 15px;
       margin-right: auto;
       margin-left: auto;
+    }
+
+    .row {
+      display: -ms-flexbox;
+      display: flex;
+      -ms-flex-wrap: wrap;
+      flex-wrap: wrap;
+      margin-right: -15px;
+      margin-left: -15px;
+    }
+
+    .col-12 {
+      position: relative;
+      width: 100%;
+      min-height: 1px;
+      padding-right: 15px;
+      padding-left: 15px;
+      -ms-flex: 0 0 100%;
+      flex: 0 0 100%;
+      max-width: 100%;
+    }
+
+    .img-container {
+      max-width: 100%;
+      padding: 0 20px;
+      display: flex;
+      flex-direction: column;
+      align-items: center;
+    }
+
+    .img-fluid {
+      max-width: 50%;
+    }
+
+    .rounded-border {
+      border-radius: 5px;
+    }
+
+    .caption {
+      color: #aaa;
+      font-size: 0.9rem;
     }
 
     @media (min-width: 576px) {
@@ -49,26 +91,6 @@
         max-width: 1140px;
       }
     }
-
-    .row {
-      display: -ms-flexbox;
-      display: flex;
-      -ms-flex-wrap: wrap;
-      flex-wrap: wrap;
-      margin-right: -15px;
-      margin-left: -15px;
-    }
-
-    .col-12 {
-      position: relative;
-      width: 100%;
-      min-height: 1px;
-      padding-right: 15px;
-      padding-left: 15px;
-      -ms-flex: 0 0 100%;
-      flex: 0 0 100%;
-      max-width: 100%;
-    }
   </style>
 </head>
 
@@ -77,6 +99,13 @@
     <div class="row">
       <div class="col-12">
         <h1>Project SoCube</h1>
+        <div class="img-container">
+          <img class="img-fluid rounded-border" src="./assets/juggling-and-cubing.jpeg" Alt="Kai Xiang juggling and cubing at the same time"
+          />
+          <p class="caption">
+            <em>Kai Xiang solving rubik cube while juggling</em>
+          </p>
+        </div>
         <p>Kai Xiang is a professional cuber who has broken multiple Singapore national records over his career. At his peak,
           he had 25 national records at the same time, but in a span of a few years, he lost all of them. He had always wondered
           how fast it would take for people to overtake him, it seemed to him that the cubing competition scene is very fast
@@ -84,27 +113,48 @@
           had a record; currently he has none.</p>
         <p>Thus, Project SoCube was born to answer the following questions: what is the journey of a professional cuber? Given
           historical data of a specific cuber and the results of cubing competitions all over the world, how does a professional
-          cuber measure up to his or her peers at that time? Are there any geospatial patterns in a cuber&rsquo;s career?</p>
-        <p>To answer these questions, we used data from
+          cuber measure up to their peers at that time? Are there any geospatial patterns in a cuber&rsquo;s career?</p>
+        <p>To answer these questions, we used data from&nbsp;
           <a href="https://www.worldcubeassociation.org/">World&rsquo;s Cube Association</a>, or WCA for short. Since 2006, WCA has been the official record keeper and organizers
           for cubing competitions worldwide. Their data includes every registered competitors&rsquo; timing at various competitions,
           records broken at different competitions as well as the competition venue. It was perfect for our visualization
           that we intend to make &ndash; the timings of a professional cuber against a world map, over the course of his
           career as a monthly slider. To further answer our questions we also plot countries best timings to find out the
-          top country tof cubers.</p>
+          top countries in speedcubing.</p>
+        <p>Our first choice for the tech stack is to use R and Python Pandas to wrangle the data while using Javascript with
+          Baidu eCharts to visualize the data. However, we faced problems in using eCharts Chinese documentation so we finally
+          used Leaflet instead. The frontend is served on surge.sh while the backend is a Heroku web application which uses
+          our pre-processed data. In running this application, we also faced the problem of having not enough memory to process
+          the incoming queries. While the breakpoints of the percentiles were pre-computed, we still have to fetch the best
+          timing of the competitor thus far, which is taxing on the backend due to the huge amount of data to process.</p>
         <p>We wrangled the data in a suitable format, by transforming the timings achieved at the various competitions into
           percentiles that can be compared with the cuber&rsquo;s timing. We then plot the timings of the cuber into the
           percentile bins to see the cuber&rsquo;s current position on a slider map. As time moves on, new techniques for
           solving the cube might be found, new cubers might rise and replace the old cubers, and the current position will
           usually drop. We can now visualize a cuber&rsquo;s meteoric rise and fall in his career.</p>
+        <p>We choose a YlOrBr color scheme from
+          <a href="http://colorbrewer2.org/#type=sequential&amp;scheme=YlOrBr&amp;n=9">colorbrewer2</a>&nbsp;as it is color blind friendly. There are Rubik's Cube for the colorblind hence we need to
+          make sure it is usable for everyone. Besides, we chose our percentile for competitor vs countries to be very fine-grained
+          to focus on the more competitive few rather than the all competitors.</p>
         <p>Although Kai Xiang's records were all broken, his standings worldwide is still very good. Currently he is considered
           first percentile in most countries worldwide. Maybe a better visualization would be the percentiles of the record
           holders worldwide? For other cubers like Loh Jing Yen, his 3x3x3 score was 20th percentiles in Singapore but first
           in Indonesia, maybe he should went there to compete instead. In a sense, this tool is useful if you want to scout
           for a place to compete.</p>
+        <p>We did not get a coherent narative such as a rise in power by geographic region, instead what we got was a flare
+          up of spots where the competitor's percentile improved or declined. Whle we originally thought that the rise and
+          fall would be spread out by geographic area, the visualization proved us wrong.The fact that the colours keep shifting
+          around tells us that spee dcubing is still an individual sport, without any big support from government or communities.
+          The percentile changes mostly come from individuals who picked up the sport and excelled in it. Hence, there is
+          no connections to geographic region and thus there is no change in colour by geographic region.</p>
+        <p>As for countries vs. countries, the visualization shows the top countries over the years as a shifting entity that
+          never settles on any particular nation or region. In fact, different places have achieved first percentile over
+          the years, including Finland, Netherlands, Poland, Japan and Australia, supporting our theory of speedcubing as
+          an individual posrt. Furthermore, the visualization also showed us that China and Hungary, the place of origin
+          of Rubik's Cube, were never top of the world, despite popular imagination.</p>
         <p>So, hang around and play with the slider. If you are a WCA registered competitor, enter your name and see for yourself
           your timings against the world.</p>
-        <p>SoCube is a data visualization project for
+        <p>SoCube is a data visualization project for&nbsp;
           <a href="https://hass.sutd.edu.sg/education/undergraduate-subjects/elective/02-221-making-maps-introduction-spatial-analysis-data-visualization-map-design">SUTD&rsquo;s 02.221 Making Maps Course</a>.</p>
       </div>
     </div>
