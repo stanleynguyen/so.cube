@@ -9,7 +9,7 @@
     "start:about": "parcel about.html",
     "build": "npm run build:index && npm run build:about",
     "build:index": "parcel build index.html --public-url ./",
-    "build:about": "parcel build about.html",
+    "build:about": "parcel build about.html --public-url ./",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
